@@ -1,0 +1,219 @@
+registry: frameworks
+version: 2026.10.16.1
+visibility: public
+generated: '2026-10-16'
+note: Trademark symbols denote claimed branding, not verified registration.
+frameworks:
+- id: FW-001
+  name: Sovereign Leadership Architecture™
+  kind: category-methodology
+  status: documented-rosetta
+  approval: founder-ratified-rosetta
+  visibility: public
+  unresolved_count: 3
+  record: ip/records/FW-001-sovereign-leadership-architecture.md
+- id: FW-002
+  name: RAMS™
+  kind: operating-framework
+  status: documented-rosetta
+  approval: founder-ratified-rosetta
+  visibility: public
+  unresolved_count: 2
+  record: ip/records/FW-002-rams.md
+- id: FW-003
+  name: Silent Collapse™
+  kind: diagnostic-state
+  status: documented-public
+  approval: repo-canon-unratified
+  visibility: public
+  unresolved_count: 2
+  record: ip/records/FW-003-silent-collapse.md
+- id: FW-004
+  name: Sovereign Leadership™
+  kind: outcome-state
+  status: documented-public
+  approval: repo-canon-unratified
+  visibility: public
+  unresolved_count: 1
+  record: ip/records/FW-004-sovereign-leadership.md
+- id: FW-005
+  name: The Five Imposters™
+  kind: market-diagnostic
+  status: documented-public
+  approval: named-in-rosetta-unverified
+  visibility: public
+  unresolved_count: 2
+  record: ip/records/FW-005-the-five-imposters.md
+- id: FW-006
+  name: The Six Drives of Human Intelligence™
+  kind: interpretive-framework
+  status: documented-public
+  approval: named-in-rosetta-unverified
+  visibility: public
+  unresolved_count: 2
+  record: ip/records/FW-006-the-six-drives-of-human-intelligence.md
+- id: FW-007
+  name: Twelve Core Patterns
+  kind: curriculum-architecture
+  status: source-located-unmapped
+  approval: repo-canon-unratified
+  visibility: public
+  unresolved_count: 4
+  record: ip/records/FW-007-twelve-core-patterns.md
+- id: FW-008
+  name: Sovereign Return Architecture™
+  kind: pathway
+  status: documented-public
+  approval: structure-approved-mappings-pending
+  visibility: public
+  unresolved_count: 3
+  record: ip/records/FW-008-sovereign-return-architecture.md
+- id: FW-009
+  name: Sovereign Nervous System Protocol™
+  kind: protocol
+  status: documented-public
+  approval: repo-canon-unratified
+  visibility: public
+  unresolved_count: 2
+  record: ip/records/FW-009-sovereign-nervous-system-protocol.md
+- id: FW-010
+  name: Sovereign Operating System™
+  kind: practice-protocol
+  status: documented-public
+  approval: repo-canon-unratified
+  visibility: public
+  unresolved_count: 2
+  record: ip/records/FW-010-sovereign-operating-system.md
+- id: FW-011
+  name: The Oliver Standard™
+  kind: end-state-benchmark
+  status: documented-public
+  approval: not-in-canon
+  visibility: public
+  unresolved_count: 2
+  record: ip/records/FW-011-the-oliver-standard.md
+- id: FW-014
+  name: Four Worth Distortion Patterns
+  kind: diagnostic
+  status: named-only
+  approval: repo-canon-unratified
+  visibility: public
+  unresolved_count: 2
+  record: ip/records/FW-014-four-worth-distortion-patterns.md
+- id: FW-015
+  name: Sovereign AI Charter™
+  kind: governance-doctrine
+  status: documented-public
+  approval: repo-canon-unratified
+  visibility: public
+  unresolved_count: 2
+  record: ip/records/FW-015-sovereign-ai-charter.md
+- id: FW-016
+  name: Silent Collapse Diagnostic™
+  kind: diagnostic-instrument
+  status: retired
+  approval: not-in-canon
+  visibility: public
+  unresolved_count: 1
+  record: ip/records/FW-016-silent-collapse-diagnostic.md
+- id: FW-017
+  name: Guru Syndrome
+  kind: named-concept
+  status: source-required
+  approval: named-in-rosetta-unverified
+  visibility: public
+  unresolved_count: 1
+  record: ip/records/FW-017-guru-syndrome.md
+- id: FW-018
+  name: Congruence Gate / Congruence Certification Standard
+  kind: credentialing
+  status: concept
+  approval: not-in-canon
+  visibility: public
+  unresolved_count: 2
+  record: ip/records/FW-018-congruence-gate-congruence-certification-standar.md
+- id: FW-019
+  name: Money Mirrors / Old Money New Money
+  kind: financial-identity-diagnostic
+  status: source-required
+  approval: repo-canon-unratified
+  visibility: public
+  unresolved_count: 1
+  record: ip/records/FW-019-money-mirrors-old-money-new-money.md
+- id: FW-020
+  name: The Six Integration Layers
+  kind: pedagogical-model
+  status: documented-public
+  approval: not-in-canon
+  visibility: public
+  unresolved_count: 1
+  record: ip/records/FW-020-the-six-integration-layers.md
+- id: FW-021
+  name: The 74 Cosmic Laws
+  kind: spiritual-teaching
+  status: source-located-provenance-unverified
+  approval: not-in-canon
+  visibility: public
+  unresolved_count: 4
+  record: ip/records/FW-021-the-74-cosmic-laws.md
+- id: FW-022
+  name: Paradynamic / Power Dynamic Healing
+  kind: practice
+  status: source-located-naming-unresolved
+  approval: named-in-rosetta-unverified
+  visibility: public
+  unresolved_count: 5
+  record: ip/records/FW-022-paradynamic-power-dynamic-healing.md
+- id: FW-023
+  name: Dimensional Mastery
+  kind: course-concept
+  status: source-located-claims-blocked
+  approval: not-in-canon
+  visibility: public
+  unresolved_count: 4
+  record: ip/records/FW-023-dimensional-mastery.md
+- id: FW-024
+  name: The Blue Book
+  kind: unidentified-source
+  status: source-located-author-unidentified
+  approval: not-in-canon
+  visibility: public
+  unresolved_count: 4
+  record: ip/records/FW-024-the-blue-book.md
+- id: FW-025
+  name: Chakra-related teachings
+  kind: spiritual-teaching
+  status: source-required
+  approval: not-in-canon
+  visibility: public
+  unresolved_count: 1
+  record: ip/records/FW-025-chakra-related-teachings.md
+- id: FW-026
+  name: Identity, leadership and financial diagnostic models (unenumerated)
+  kind: inventory-gap
+  status: named-only
+  approval: not-in-canon
+  visibility: public
+  unresolved_count: 1
+  record: ip/records/FW-026-identity-leadership-and-financial-diagnostic-mod.md
+- id: FW-028
+  name: 3D method
+  kind: founder-identified-ip
+  status: deferred-by-founder
+  approval: founder-stated-own-method
+  visibility: public
+  unresolved_count: 1
+  record: ip/records/FW-028-3d-method.md
+restricted_frameworks:
+- id: FW-012
+  name: Three Simple Steps
+  visibility: restricted
+  record: restricted/ip/FW-012-three-simple-steps.md
+- id: FW-013
+  name: The Five Ps
+  visibility: restricted
+  record: restricted/ip/FW-013-the-five-ps.md
+- id: FW-027
+  name: Succession, certification and implementation methodologies
+  visibility: restricted
+  record: restricted/ip/FW-027-succession-certification-and-implementation-meth.md

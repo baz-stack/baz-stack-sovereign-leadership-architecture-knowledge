@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://bazporter.com/#founder",
+      "name": "Baz Porter",
+      "url": "https://bazporter.com",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "ORCID",
+        "value": "0009-0006-1670-9956",
+        "url": "https://orcid.org/0009-0006-1670-9956"
+      },
+      "worksFor": {
+        "@id": "https://bazporter.com/#organization"
+      },
+      "sameAs": [
+        "https://orcid.org/0009-0006-1670-9956",
+        "https://www.linkedin.com/in/bazporterllc/",
+        "https://www.youtube.com/@BazPorter",
+        "https://substack.com/@bazporter",
+        "https://github.com/baz-stack/sovereign-leadership-architecture-knowledge"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://bazporter.com/#organization",
+      "name": "Baz Porter LLC",
+      "alternateName": "The Prestige Architect",
+      "url": "https://bazporter.com",
+      "founder": {
+        "@id": "https://bazporter.com/#founder"
+      },
+      "email": "ask@bazporter.com"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://bazporter.com/#website",
+      "url": "https://bazporter.com",
+      "name": "Baz Porter",
+      "publisher": {
+        "@id": "https://bazporter.com/#organization"
+      }
+    },
+    {
+      "@type": "Book",
+      "name": "Die Empty, Live Full",
+      "isbn": "979-8-3143-9231-7",
+      "author": {
+        "@id": "https://bazporter.com/#founder"
+      },
+      "datePublished": "2025-03",
+      "@id": "https://bazporter.com/#book-dieemptylivefull"
+    },
+    {
+      "@type": "Book",
+      "name": "Cracking the Rich Code, Vol. 12",
+      "isbn": "979-8-8691-1418-1",
+      "author": {
+        "@type": "Person",
+        "name": "Jim Britt"
+      },
+      "contributor": {
+        "@id": "https://bazporter.com/#founder"
+      },
+      "datePublished": "2024-03",
+      "@id": "https://bazporter.com/#book-crackingrichcode"
+    },
+    {
+      "@type": "DefinedTermSet",
+      "name": "Sovereign Leadership Architecture terms",
+      "url": "https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/docs/wiki/Glossary.md",
+      "creator": {
+        "@id": "https://bazporter.com/#founder"
+      },
+      "@id": "https://bazporter.com/#glossary"
+    }
+  ]
+}

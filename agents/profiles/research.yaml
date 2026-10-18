@@ -1,0 +1,35 @@
+id: AGP-research
+role: research
+purpose: Framework provenance, source ledger, scientific-claim classification
+read_first:
+- path: research/README.md
+  store: public
+- path: research/ledger.yaml
+  store: public
+- path: registry/frameworks.yaml
+  store: public
+- path: restricted/research/claims-audit.yaml
+  store: restricted
+read_on_demand:
+- ip/records/<FW-id>.md
+- frameworks/<name>.md (public definition text)
+never_use_as_current:
+- retired/
+- _holding/
+- canon/ICA.md
+- canon/PRODUCT-ARCHITECTURE.md
+- canon/OFFERS.md (for prices and entry door)
+governing_documents:
+- CAN-001
+- CAN-002
+- registry/source-of-truth.yaml
+external_tool_safe: false
+founder_approval_required: Promoting any claim to external marketing; resolving any SOURCE REQUIRED item
+output_must_include:
+- document IDs and versions relied on
+- open conflict IDs touched
+- evidence class for each factual claim
+conflict_behaviour: flag discrepancy, do not choose
+status: current
+version: 2026.10.16.1
+visibility: public

@@ -1,0 +1,349 @@
+manifest: retired
+version: 2026.10.16.1
+generated: '2026-10-16'
+moved:
+- source_path: canon/ICA.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  retired_path: retired/canon/ICA.md
+  tombstone_at_source_path: true
+  replacement: restricted/canon/LISA_MILES_ICA_2026-10-14.md (CAN-002)
+  reason: Cites Rosetta v4.0; superseded by the 2026-10-14 ICA
+  retired_on: '2026-10-16'
+  authority: founder decision DEC-013
+  location: private-repository
+  sha256: 7ed95e725bbdc60c676f7a0e15d92f73acc7caf028a89b0eea53554b7c9bd947
+- source_path: canon/PRODUCT-ARCHITECTURE.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  retired_path: retired/canon/PRODUCT-ARCHITECTURE.md
+  tombstone_at_source_path: true
+  replacement: registry/products.yaml
+  reason: Three-lane architecture and v4.0 source not in Rosetta v4.2
+  retired_on: '2026-10-16'
+  authority: founder decision DEC-013
+  location: private-repository
+  sha256: 03d0b9b34627525321b46eeadb905d6d786408f2c1fa2a7de6824b85e0531bef
+- source_path: canon/OFFERS.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  retired_path: retired/canon/OFFERS.md
+  tombstone_at_source_path: true
+  replacement: registry/products.yaml
+  reason: Entry door, tiers and prices differ from Rosetta v4.2
+  retired_on: '2026-10-16'
+  authority: founder decision DEC-013
+  location: private-repository
+  sha256: 0aed4c5a855b70d6d4fec3bdee73a2a96397e404fde08bbea06bbbd6abdc9117
+- source_path: frameworks/silent-collapse-diagnostic.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  retired_path: retired/frameworks/silent-collapse-diagnostic.md
+  tombstone_at_source_path: true
+  replacement: products/PRD-001-fast-future-freedom-blueprint.md
+  reason: Silent Collapse Diagnostic retired; the Fast Future Freedom Blueprint is the entry door
+  retired_on: '2026-10-16'
+  authority: founder decision DEC-037
+  location: private-repository
+  sha256: 1408cee7f5d54fb4b337578910392d2b9977fd3f7803739bc9f99b06bb97e9b2
+superseded_text_snapshots:
+- source_path: CITATION.cff
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/CITATION.cff
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 9dbe61b568617445d993b06e512556fca2022a98211433ca1b86b37af38add46
+- source_path: LICENSE.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/LICENSE.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 3480b714b62fec8f0ec0c603b73ef7d3a346c52316e05d91d39ca250ce1e5d81
+- source_path: README.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/README.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 7f0d4b473c8449b8f9f3fe4f332acdafbae9c8606ea50eb352313f2f8e43c072
+- source_path: agents/RETRIEVAL_POLICY.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/agents/RETRIEVAL_POLICY.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 9ecbf796cb15c47b6c970d9d6be68d6a51bc4f06ea8593b9706e92d689702773
+- source_path: baz-porter.txt
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/baz-porter.txt
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 39d5c12d8414c2d1e47b45c8fc9a472b5e4e6478ccd99de9ca0ef124a89416c3
+- source_path: canon/AFFILIATE.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/AFFILIATE.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: d9b630d041fbbdf2e0d5602c5e4bdbd1290b949074c8ca46a8456eb2e6bc6911
+- source_path: canon/BOOKS.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/BOOKS.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: e14838657d8681e0543830ad6e39fce97e6273e6d724966ac67aa054773440c7
+- source_path: canon/CATEGORY.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/CATEGORY.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 4bd0650fcbd6ac4b9697415da24455cb38aa88a4a413559d2e38325cb33d7c90
+- source_path: canon/CREDIBILITY.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/CREDIBILITY.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 5448f2bec83efd38461099c715c23f42e602caff29c035f5b34e628d0a9a8973
+- source_path: canon/DISCOVERY-LAYER.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/DISCOVERY-LAYER.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: aac5cbfb7a95656edbbd603869358ae6b8dfb465c62181f71feef07b1216f1c0
+- source_path: canon/FRAMEWORKS.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/FRAMEWORKS.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 28b24a337193a665101fe24c56ec8c395bfb79da446b28c298be31d0c50d358d
+- source_path: canon/IP-REGISTRY.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/IP-REGISTRY.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: c04f65174838d56448d49da1296bb6a3219ca2a54eac235ec11425c64d6699aa
+- source_path: canon/MANIFESTO.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/MANIFESTO.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: bec901850f2172d3c89387e65e9783c11d9cc66daa0181859f5b2468b0732294
+- source_path: canon/METHODOLOGY.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/METHODOLOGY.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: dce9eacf828fd47a7650d79e68dd1c7a6e08003fdffd6dd7b121dad95f3831ed
+- source_path: canon/PROFILE.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/PROFILE.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 253529f534e0ace4762bb19a9427bbe077ce5c6707c0a488002ae8695766c03f
+- source_path: canon/RETIRED.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/RETIRED.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 92f838d7317a745a7a5a5f57bec266ad6e815f19e35e3942fa0bf17405ba2b04
+- source_path: canon/STORY.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/STORY.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 4a611ebe1a7ff7e9e2bdcdd01d9d4390227715c0b07a6422599ce07b29527528
+- source_path: canon/TRADEMARKS.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/TRADEMARKS.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 1a59f5d07c3e0cce0f784a99d3975dada7a312673534d848dbdcbb0ce74bb234
+- source_path: canon/VOICE.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/canon/VOICE.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 5bcbc715156fec4cba8c9531537d8ad40d6cad8c9dbc492ea8fac6aa4a8f9c0d
+- source_path: citations/chronological-citation.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/citations/chronological-citation.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: d151cd7be0ac6b7c10af2f9fe20289b27138d0f79d06133d8b3156ba213d9d85
+- source_path: faq/faq.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/faq/faq.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: bdb20d396131520d998544ab1d67bd93a33a93aa94a5fe076a16a9d4882b3ecf
+- source_path: frameworks/brand-narrative.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/brand-narrative.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 6601713e9ebeafcc7fb38fadb14aa3ab42e330a184d837f512153fe8b97d6649
+- source_path: frameworks/coming-home.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/coming-home.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 9326e9ab358e44023f6900c2dbb7673a251a2ce4465b86473817f1d6aceae11b
+- source_path: frameworks/five-imposters.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/five-imposters.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 9fbed5a7911bb3b8d915b0661bbc25a01c6bf76f898e9025d29da1bf94302d09
+- source_path: frameworks/rams.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/rams.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 2eccedeeb8a6a74d69d007cc00466460e852e34b9cfc9fb1ba4eec1d1d914c00
+- source_path: frameworks/silent-collapse-diagnostic.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/silent-collapse-diagnostic.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: a0a73ceb22718bf3544e3784d96d7a5a09756395bb3d74872d88392b69c0931b
+- source_path: frameworks/silent-collapse.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/silent-collapse.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: dc7a93c0731e27d8ae13858581f315b63775a64ee3b7f25a7a4864442de260e5
+- source_path: frameworks/six-drives.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/six-drives.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: eb77e35db2d333cbf9c1b9c55e3dd2c083a8a299546b66d16fef35080b148c8c
+- source_path: frameworks/sovereign-ai-charter.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/sovereign-ai-charter.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 80ffb217f356a803bc5bbc90671325c707b26bc8826e0eaa13c0a9ca03a51fc7
+- source_path: frameworks/sovereign-leadership-architecture.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/sovereign-leadership-architecture.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 8f78342c56e9f64706a6990d29436a758a621a657f7bb0f1edcda8b78e4c2a86
+- source_path: frameworks/sovereign-leadership.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/sovereign-leadership.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 2045bc066abd20bc73d810244bfaab6bc24018ff75961d8c480adbf9d6947f83
+- source_path: frameworks/sovereign-nervous-system-protocol.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/sovereign-nervous-system-protocol.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 2157ce89c436c2cb680a2ca18f3327edd45b10ce8cb516ddd363abb43b5111df
+- source_path: frameworks/sovereign-operating-system.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/sovereign-operating-system.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: cf2fc883cc9c83a3e943ded2c067598a61c15466bec06f99afe59615950cad8f
+- source_path: frameworks/sovereign-return-architecture.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/sovereign-return-architecture.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 578516cc96d29a353c4da35ee370cb06d6122ef515b741cfae331992ebca94b9
+- source_path: frameworks/the-becoming.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/the-becoming.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 3763e1e84191827ecf286902c40ae5eec5e6252b08477e1961523fbeefea8d2b
+- source_path: frameworks/the-gravity-code.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/the-gravity-code.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: bb91651accbf2f31536011c3e0f6f9a95cb43f08edb702e24cbe0918caa51bdd
+- source_path: frameworks/the-oliver-standard.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/the-oliver-standard.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: f231c1b8fee735fd85411a0b20487fe26cd49306b953d9e22e9e41bd0918af0f
+- source_path: frameworks/the-reclamation-code.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/frameworks/the-reclamation-code.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 064283ad353247be544b07a58b344dbcf7cb0dcafcf923db02df6de250317646
+- source_path: glossary/glossary-and-terms.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/glossary/glossary-and-terms.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: a7162f2ed69ffc08a55eae229028c385082b9b0087561b771f6703e4c7a9c1c3
+- source_path: identity/entity-and-founder.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/identity/entity-and-founder.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 2bc40db3f49a773842e590bdb06c78f50767d72dc658b0ccd22d203ad139359f
+- source_path: identity/schema-jsonld.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/identity/schema-jsonld.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: ac67e1886db40279f2df19293694661aadeb98be8cc8f8fb3606abfb86646024
+- source_path: llms.txt
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/llms.txt
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: 76616bfbec4271e0729f0f2b22ddb65af2787934e89147dfd1e586d40d5740a5
+- source_path: operations/POLICIES_STATUS.md
+  origin_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+  snapshot: retired/superseded-text/operations/POLICIES_STATUS.md
+  reason: pre-edit copy kept before founder-approved rewording or retirement edits of 2026-10-16
+  see: reports/04_DECISIONS_APPLIED_LOG.md
+  location: private-repository
+  sha256: f6395217db9d9379cd5f8bbd37ff4e28bd6f6ae29e2d13aeb4f9c403017ce34e
+rule: Retirement preserves prior version, source path, reason and replacement. Git history is also preserved.
+note: Entries with location private-repository are held in the private repository at legacy-public-history/<path>; their SHA-256
+  is recorded here.

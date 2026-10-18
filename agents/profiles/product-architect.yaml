@@ -1,0 +1,36 @@
+id: AGP-product-architect
+role: product-architect
+purpose: Product registry, curricula, delivery architecture, pricing and status
+read_first:
+- path: registry/products.yaml
+  store: public
+- path: restricted/registry/products-full.yaml
+  store: restricted
+- path: registry/conflicts.yaml
+  store: public
+- path: restricted/canon/ROSETTA_STONE_v4.2.md (s04-s08,s22)
+  store: restricted
+read_on_demand:
+- products/<PRD-id>.md
+- restricted/products/<PRD-id>.md
+- operations/INSTITUTION_AND_OPERATIONS_STATUS.md
+never_use_as_current:
+- retired/
+- _holding/
+- canon/ICA.md
+- canon/PRODUCT-ARCHITECTURE.md
+- canon/OFFERS.md (for prices and entry door)
+governing_documents:
+- CAN-001
+- CAN-002
+- registry/source-of-truth.yaml
+external_tool_safe: false
+founder_approval_required: Any price, promise, prerequisite, capacity or launch-status change
+output_must_include:
+- document IDs and versions relied on
+- open conflict IDs touched
+- evidence class for each factual claim
+conflict_behaviour: flag discrepancy, do not choose
+status: current
+version: 2026.10.16.1
+visibility: public

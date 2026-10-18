@@ -1,0 +1,194 @@
+registry: products
+version: 2026.10.16.1
+visibility: public
+generated: '2026-10-16'
+note: Public projection. Launch status is never 'live' without live readback; none performed.
+products:
+- id: PRD-001
+  name: Fast Future Freedom Blueprint™
+  type: free-1to1-call
+  terms_public: Free; 60-minute live 1:1 call with Baz; no recording or recap
+  launch_status: unverified (no live readback performed)
+  approval_status: Page copy supplied by the founder 2026-10-16 (restricted/campaigns/BLUEPRINT_PAGE_COPY.md). It
+    describes a conversation, not a scored assessment; the advisory score bands in the spec are not on the page.
+    Live page not read back.
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-004
+  - CON-019
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-001-fast-future-freedom-blueprint.md
+  public_record: products/PRD-001-fast-future-freedom-blueprint.md
+- id: PRD-002
+  name: A Million Dreams™ Community
+  type: membership
+  terms_public: $97 per month
+  launch_status: unverified (no live readback performed)
+  approval_status: terms per Rosetta v4.2 (founder precedence 2026-10-16); live status unverified
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-011
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-002-a-million-dreams-community.md
+  public_record: products/PRD-002-a-million-dreams-community.md
+- id: PRD-003
+  name: The Reclamation Code™
+  type: course
+  terms_public: $97 one-time; included in the Community
+  launch_status: unverified (no live readback performed)
+  approval_status: terms per Rosetta v4.2 (founder precedence 2026-10-16); live status unverified
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-011
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-003-the-reclamation-code.md
+  public_record: products/PRD-003-the-reclamation-code.md
+- id: PRD-004
+  name: Manifestation That Finally Works™
+  type: course
+  terms_public: $297 one-time
+  launch_status: unverified (no live readback performed)
+  approval_status: terms per Rosetta v4.2 (founder precedence 2026-10-16); live status unverified
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-011
+  - CON-015
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-004-manifestation-that-finally-works.md
+  public_record: products/PRD-004-manifestation-that-finally-works.md
+- id: PRD-005
+  name: The Sovereign Session™
+  type: private-engagement
+  terms_public: One private 60-minute session; price withheld pending founder confirmation
+  launch_status: unverified (no live readback performed)
+  approval_status: terms per Rosetta v4.2 (founder precedence 2026-10-16); live status unverified
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-008
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-005-the-sovereign-session.md
+  public_record: products/PRD-005-the-sovereign-session.md
+- id: PRD-006
+  name: The Becoming™
+  type: private-engagement
+  terms_public: Terms shared privately; not published
+  launch_status: unverified (no live readback performed)
+  approval_status: terms per Rosetta v4.2 (founder precedence 2026-10-16); live status unverified Agreement template
+    supplied 2026-10-17 (restricted/sources/legal); it differs from the operative terms (CON-029).
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-005
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-006-the-becoming.md
+  public_record: products/PRD-006-the-becoming.md
+- id: PRD-007
+  name: Coming Home™
+  type: private-engagement
+  terms_public: Terms shared privately; not published
+  launch_status: unverified (no live readback performed)
+  approval_status: terms per Rosetta v4.2 (founder precedence 2026-10-16); live status unverified Agreement template
+    "Find Yourself" supplied 2026-10-17; uses a retired variant name (CON-030).
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-006
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-007-coming-home.md
+  public_record: products/PRD-007-coming-home.md
+- id: PRD-008
+  name: Revenue Architecture System™ (RAS™)
+  type: course
+  terms_public: $497 one-time; seven self-paced modules
+  launch_status: unverified (no live readback performed)
+  approval_status: terms per Rosetta v4.2 (founder precedence 2026-10-16); live status unverified
+  document_status: current product specification 2026-10-16
+  conflicts: []
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-008-revenue-architecture-system-ras.md
+  public_record: products/PRD-008-revenue-architecture-system-ras.md
+- id: PRD-009
+  name: RAMS Business Profit Accelerator™ (BPA)
+  type: intensive
+  terms_public: Terms shared privately; not published; three-day 35-hour intensive
+  launch_status: unverified (no live readback performed)
+  approval_status: terms per Rosetta v4.2 (founder precedence 2026-10-16); live status unverified
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-010
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-009-rams-business-profit-accelerator-bpa.md
+  public_record: products/PRD-009-rams-business-profit-accelerator-bpa.md
+- id: PRD-010
+  name: Revenue Owner Sprint™
+  type: implementation-cohort
+  terms_public: Implementation cohort following BPA; terms withheld pending founder decision; not launched
+  launch_status: unverified (no live readback performed)
+  approval_status: Duration and role decided by the founder 2026-10-16 (DEC-009). Price left as in Rosetta. Not
+    launched; legal documents not yet created; live status unverified.
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-009
+  - CON-007
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-010-revenue-owner-sprint.md
+  public_record: products/PRD-010-revenue-owner-sprint.md
+- id: PRD-011
+  name: The Gravity Code™
+  type: flagship
+  terms_public: Invite-only, 12 months; terms shared privately
+  launch_status: unverified (no live readback performed)
+  approval_status: Qualification, duration, fee and session/immersion counts decided by the founder 2026-10-16 (DEC-007,
+    DEC-033). Not launched; legal documents not yet created; live status unverified.
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-007
+  - CON-015
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-011-the-gravity-code.md
+  public_record: products/PRD-011-the-gravity-code.md
+- id: PRD-012
+  name: The Without You (formerly Horizon Leaders)
+  type: institutional
+  terms_public: Institutional succession program concept; terms withheld; not launched
+  launch_status: unverified (no live readback performed)
+  approval_status: terms per Rosetta v4.2 (founder precedence 2026-10-16); live status unverified
+  document_status: no product specification supplied
+  conflicts:
+  - CON-012
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-012-the-without-you-formerly-horizon-leaders.md
+  public_record: products/PRD-012-the-without-you-formerly-horizon-leaders.md
+- id: PRD-013
+  name: The Green Room™
+  type: institutional-pilot
+  terms_public: Future 12-month founding prototype; not launched; terms withheld
+  launch_status: unverified (no live readback performed)
+  approval_status: 'Drive specification dated 16 Oct 2026 defines cadence, curriculum phases and measurement. Founder
+    confirmed 2026-10-16: cohort size set (restricted); launch date to be confirmed. Still open: legal documents
+    (not yet created) and safeguarding. The 3D method is deferred by the founder (FW-028). Not launched.'
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-018
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-013-the-green-room.md
+  public_record: products/PRD-013-the-green-room.md
+- id: PRD-014
+  name: The Gate Home
+  type: institution
+  terms_public: Future institution; not launched
+  launch_status: unverified (no live readback performed)
+  approval_status: Drive outline dated 16 Oct 2026. No launch date, intake, tuition, credential name, accreditation
+    body, license scope or trainer tier decided. Any named method beyond RAMS, Three Simple Steps and Five Ps needs
+    primary-source verification and permission before it is taught or licensed.
+  document_status: current product specification 2026-10-16
+  conflicts:
+  - CON-018
+  last_verified: '2026-10-16'
+  restricted_record: restricted/products/PRD-014-the-gate-home.md
+  public_record: products/PRD-014-the-gate-home.md
+unspecified_catalog_items:
+- Five-Day Morning Reset
+- The Fracture Report
+- Sovereign Leadership Self-Audit
+- How Much Are You Leaving on the Table?
+- 'Books: Die Empty, Live Full; Cracking the Rich Code Vol. 12'
+- Further catalog items held in the restricted registry

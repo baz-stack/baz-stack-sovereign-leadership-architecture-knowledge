@@ -1,0 +1,9 @@
+id: AGT-publishing
+task: Prepare content for publication (never publish)
+uses_profile: ica-messaging
+extra_rules:
+- Prepare only. Publishing requires founder approval
+- Run tools/validate.py first
+status: current
+version: 2026.10.16.1
+visibility: public

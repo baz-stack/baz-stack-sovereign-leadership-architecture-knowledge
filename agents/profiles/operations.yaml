@@ -1,0 +1,37 @@
+id: AGP-operations
+role: operations
+purpose: Delivery, systems, certification, implementation and institutional planning
+read_first:
+- path: operations/INSTITUTION_AND_OPERATIONS_STATUS.md
+  store: public
+- path: restricted/institution/OPERATIONS.md
+  store: restricted
+- path: operations/POLICIES_STATUS.md
+  store: public
+- path: registry/products.yaml
+  store: public
+read_on_demand:
+- restricted/institution/GREEN_ROOM.md
+- restricted/institution/GATE_HOME.md
+- restricted/institution/WITHOUT_YOU.md
+- restricted/campaigns/GHL_CONFIG.md
+never_use_as_current:
+- retired/
+- _holding/
+- canon/ICA.md
+- canon/PRODUCT-ARCHITECTURE.md
+- canon/OFFERS.md (for prices and entry door)
+governing_documents:
+- CAN-001
+- CAN-002
+- registry/source-of-truth.yaml
+external_tool_safe: false
+founder_approval_required: Launching, hiring, contracting, certifying, licensing, or changing a live system
+output_must_include:
+- document IDs and versions relied on
+- open conflict IDs touched
+- evidence class for each factual claim
+conflict_behaviour: flag discrepancy, do not choose
+status: current
+version: 2026.10.16.1
+visibility: public

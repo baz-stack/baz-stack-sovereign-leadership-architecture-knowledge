@@ -1,0 +1,36 @@
+id: AGP-prospecting
+role: prospecting
+purpose: ICA signals, qualification rules, campaign copy, offer routing for outreach
+read_first:
+- path: restricted/campaigns/PROSPECTING_EXPORT_PACKET.md
+  store: restricted-export-safe
+- path: restricted/campaigns/HARVEY_SPEC.md
+  store: restricted
+- path: restricted/campaigns/SAFEGUARDS.md
+  store: restricted
+read_on_demand:
+- registry/products.yaml (public terms only)
+never_use_as_current:
+- retired/
+- _holding/
+- canon/ICA.md
+- canon/PRODUCT-ARCHITECTURE.md
+- canon/OFFERS.md (for prices and entry door)
+governing_documents:
+- CAN-001
+- CAN-002
+- registry/source-of-truth.yaml
+external_tool_safe: true
+external_tool_note: ONLY the export-safe packet may leave the restricted store; nothing else in this profile may
+  be sent to a third-party tool
+founder_approval_required: Sending any message; activating any workflow; changing a live CRM; contacting any person
+output_must_include:
+- document IDs and versions relied on
+- open conflict IDs touched
+- evidence class for each factual claim
+conflict_behaviour: flag discrepancy, do not choose
+status: current
+version: 2026.10.16.1
+visibility: public
+export_safe_documents:
+- restricted/campaigns/PROSPECTING_EXPORT_PACKET.md

@@ -1,0 +1,131 @@
+register: public-claims
+version: 2026.10.17.1
+visibility: public
+generated: '2026-10-17'
+note: >-
+  Public claim register. Lists only claims that may be mentioned in public, with the approved wording, the evidence class and
+  the verification status. Withdrawn, restricted and unapproved claims are not listed here; they are tracked in the private
+  repository. A claim is "verified" only when an independent source was checked. Nothing here is a statement that the
+  claim is independently established unless the status says so.
+evidence_classes:
+- independently-verified
+- documented-by-held-evidence
+- third-party-listing
+- founder-reported
+- founder-confirmed-identifier
+- proprietary-methodology
+- requires-evidence
+statuses: [verified, documented, partly-documented, founder-confirmed, founder-reported, pending-verification, requires-evidence]
+claims:
+- id: CL-026
+  topic: publication ranking
+  approved_wording: "Die Empty, Live Full reached #1 in two Amazon Kindle bestseller categories."
+  categories: ["Teen & Young Adult Inspirational & Personal Growth eBooks", "Business Consolidations & Mergers"]
+  evidence_class: documented-by-held-evidence
+  status: partly-documented
+  evidence: "Two distinct Amazon Best Sellers screenshots; SHA-256 values in evidence/CL-026-amazon-kindle-rank.md. Originals held privately."
+  open_issue: "DEC-048: the two founder-supplied dates (withheld) are not mapped to the screenshots, and one of them conflicts with the March 2025 publication month. No date is stated publicly. No international bestseller designation."
+  record: evidence/CL-026-amazon-kindle-rank.md
+- id: CL-024
+  topic: co-authored book
+  approved_wording: "Baz Porter is a featured co-author of Cracking the Rich Code, Vol. 12 (ISBN 979-8-8691-1418-1). The cover carries a #1 International Best Seller seal, a foreword credited to Brian Tracy and an endorsement quotation credited to Tony Robbins."
+  evidence_class: documented-by-held-evidence
+  status: partly-documented
+  evidence: "Cover image held privately. Title page and contributor list not yet seen. The seal is a statement printed on the cover, not an independently checked ranking."
+  open_issue: "Title page or contributor page to be obtained."
+  record: canon/BOOKS.md
+- id: CL-029
+  topic: authored book
+  approved_wording: "Baz Porter is the sole author of Die Empty, Live Full (ISBN 979-8-3143-9231-7), published March 2025."
+  evidence_class: founder-confirmed-identifier
+  status: pending-verification
+  evidence: "Identifier and publication month recorded in canon. Not checked against an ISBN registry or the retail listing in this environment."
+  record: canon/BOOKS.md
+- id: CL-011
+  topic: Tony Robbins Platinum Partner membership, 2021 to 2022
+  approved_wording: "Founder-reported: former Tony Robbins Platinum Partner, 2021 to 2022."
+  evidence_class: founder-reported
+  status: founder-reported
+  evidence: "Documentary verification pending. The membership document is missing."
+  open_issue: "Membership document from the founder."
+  record: canon/CREDIBILITY.md
+- id: CL-030
+  topic: Tony Robbins programs attended
+  approved_wording: "Attendance certificates are held for Business Mastery, Leadership Academy, Unleash the Power Within and Date with Destiny."
+  evidence_class: documented-by-held-evidence
+  status: documented
+  evidence: "Certificates held privately. They establish attendance, not Platinum Partner membership."
+  record: canon/CREDIBILITY.md
+- id: CL-012
+  topic: award
+  approved_wording: "Best Transformational Leadership Coaching 2024, issued by Best of Best Review."
+  evidence_class: third-party-listing
+  status: partly-documented
+  evidence: "Third-party award page seen as a screenshot."
+  open_issue: "Selection criteria and any fee arrangements are unverified."
+  record: canon/CREDIBILITY.md
+- id: CL-013-A
+  topic: Princeton appearance
+  approved_wording: "Founder-reported: invited speaker at a Princeton event, February 2021."
+  evidence_class: founder-reported
+  status: founder-reported
+  evidence: "No program, invitation or photograph indexed."
+  open_issue: "Event program, invitation or photograph."
+  record: canon/CREDIBILITY.md
+- id: CL-013-B
+  topic: Excel Arena London appearance and audience size
+  approved_wording: "Not stated as fact. Appearance and the 35,000 audience figure require evidence."
+  evidence_class: requires-evidence
+  status: requires-evidence
+  evidence: "None held."
+  record: canon/CREDIBILITY.md
+- id: CL-016
+  topic: military service
+  approved_wording: "Founder-reported: British Army service, 1997 to 2004."
+  evidence_class: founder-reported
+  status: founder-reported
+  evidence: "No service record indexed."
+  record: canon/CREDIBILITY.md
+- id: CL-017
+  topic: trademark registration
+  approved_wording: "BAZ PORTER is registered with the USPTO, Reg. No. 7,125,540 (founder-confirmed identifier; not independently verified against USPTO records). Other marks in this repository are claimed marks (TM), not registrations."
+  evidence_class: founder-confirmed-identifier
+  status: pending-verification
+  evidence: "Identifier supplied by the founder. USPTO record not checked in this environment."
+  open_issue: "DEC-016 and DEC-026: verify against the USPTO record."
+  record: canon/TRADEMARKS.md
+- id: CL-025
+  topic: client testimonials
+  approved_wording: "Testimonials are not reproduced in this repository."
+  evidence_class: requires-evidence
+  status: requires-evidence
+  evidence: "Wording and attribution are preserved privately. Marketing-use permission is not documented."
+  open_issue: "Written permission for each testimonial."
+- id: PUB-001
+  topic: third-party citation
+  approved_wording: "The University of Minnesota College of Continuing and Professional Studies published a story citing Baz Porter on succession planning (2024)."
+  evidence_class: third-party-listing
+  status: pending-verification
+  evidence: "Listed in canon with a URL. The page was not re-checked in this environment."
+  record: identity/authority-sources.md
+- id: PUB-002
+  topic: podcast
+  approved_wording: "Baz Porter hosts the Rise From The Ashes podcast. The 100+ episodes figure requires evidence."
+  evidence_class: requires-evidence
+  status: requires-evidence
+  evidence: "Episode count not verified against a feed."
+  record: canon/CREDIBILITY.md
+- id: PUB-003
+  topic: researcher identifier
+  approved_wording: "ORCID iD 0009-0006-1670-9956 (https://orcid.org/0009-0006-1670-9956), supplied by the founder."
+  evidence_class: founder-confirmed-identifier
+  status: founder-confirmed
+  evidence: "The founder confirmed on 2026-10-17 that the ORCID profile is live. The identifier is used exactly as supplied. The record has not been read back by an independent check from the build environment. An ORCID iD identifies a person; it is not evidence of a degree, a peer-reviewed publication or a professional credential."
+  record: docs/wiki/Publications.md
+- id: PUB-004
+  topic: methodology
+  approved_wording: "Sovereign Leadership Architecture, RAMS, Silent Collapse, the Six Drives of Human Intelligence and the Sovereign Return Architecture are Baz Porter's proprietary frameworks. They are the founder's models, not independently validated scientific theories."
+  evidence_class: proprietary-methodology
+  status: documented
+  evidence: "Definitions in frameworks/. Research citations are listed in research/ledger.yaml with what each does and does not establish."
+  record: frameworks/sovereign-leadership-architecture.md

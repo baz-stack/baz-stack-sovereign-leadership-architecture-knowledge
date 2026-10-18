@@ -1,0 +1,37 @@
+id: AGP-ica-messaging
+role: ica-messaging
+purpose: Buyer language, voice, approved claims, offer-specific outcomes
+read_first:
+- path: canon/CANON_INDEX.md
+  store: public
+- path: restricted/canon/LISA_MILES_ICA_2026-10-14.md
+  store: restricted
+- path: restricted/canon/ROSETTA_STONE_v4.2.md (s02,s03,s13 only)
+  store: restricted
+- path: research/README.md
+  store: public
+read_on_demand:
+- registry/products.yaml
+- canon/VOICE.md (voice only; banned-language list)
+- registry/conflicts.yaml
+never_use_as_current:
+- retired/
+- _holding/
+- canon/ICA.md
+- canon/PRODUCT-ARCHITECTURE.md
+- canon/OFFERS.md (for prices and entry door)
+governing_documents:
+- CAN-001
+- CAN-002
+- registry/source-of-truth.yaml
+external_tool_safe: false
+founder_approval_required: Publishing any copy; any claim in the claim audit; new value propositions (all product
+  value propositions are drafts until founder-approved)
+output_must_include:
+- document IDs and versions relied on
+- open conflict IDs touched
+- evidence class for each factual claim
+conflict_behaviour: flag discrepancy, do not choose
+status: current
+version: 2026.10.16.1
+visibility: public

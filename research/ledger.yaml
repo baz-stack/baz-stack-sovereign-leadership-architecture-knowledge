@@ -1,0 +1,902 @@
+ledger: research-evidence
+version: 2026.10.16.1
+visibility: public
+generated: '2026-10-16'
+access_note: No source was fetched in full. WebFetch and direct HTTP to publishers were blocked in the migration
+  environment; every entry rests on search-result summaries or background knowledge and must be re-verified against
+  the original before external use.
+entries:
+- id: RA-01
+  subject: Entanglement - EPR 1935
+  claim: Einstein showed particles can be mysteriously linked across distance; quantum physics proves everything
+    is connected.
+  source_citation: 'Einstein, Podolsky, Rosen. ''Can quantum-mechanical description of physical reality be considered
+    complete?'' Physical Review (1935). Volume/pages (commonly cited Phys. Rev. 47, 777) and DOI: UNVERIFIED in
+    this session.'
+  access_status: NOT_ACCESSED
+  source_accessed_and_checked: false
+  supports: 'Background-knowledge only (UNVERIFIED this session): EPR argued that quantum mechanics'' description
+    of a two-particle correlated state implies it is incomplete.'
+  does_not_establish: Not an experimental result. Did not claim a usable link between people, minds or events; the
+    authors meant it as an argument against the completeness of quantum theory.
+  category: theory
+  marketing_safe_wording: In 1935 Einstein, Podolsky and Rosen published a thought experiment about correlated quantum
+    particles that started a long debate in physics.
+  cautions: Confirm citation (volume, pages, DOI) against the original before publishing. 'Spooky action at a distance'
+    is Einstein's phrase from correspondence, not from the EPR paper; its exact source is UNVERIFIED here.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-02
+  subject: Entanglement - Bell 1964
+  claim: Bell's theorem proved that separated things stay connected.
+  source_citation: Bell, J.S. 'On the Einstein Podolsky Rosen paradox.' Physics 1(3), 195 (1964). Journal/volume/start
+    page and 1964 date seen in a search result; end page and DOI UNVERIFIED (a result gave the journal volume range
+    195-290, not the paper's own range).
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary: Bell showed that a local hidden-variable model is incompatible with quantum predictions,
+    so locality is the ''essential difficulty''. Also noted: Bell himself mis-cited it as 1965 in a footnote, so
+    citations vary 1964/1965.'
+  does_not_establish: Does not show that any information, influence or intention travels between distant systems;
+    does not address people, minds, groups or organisations.
+  category: established_empirical
+  marketing_safe_wording: Bell's 1964 theorem showed that quantum correlations cannot be explained by local hidden
+    variables, which made the question experimentally testable.
+  cautions: Theorem is mathematical; the empirical status comes from later experiments. Use 1964 for the paper date.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-03
+  subject: Entanglement - Aspect 1982
+  claim: Aspect's experiments proved that particles communicate instantly.
+  source_citation: Aspect, A., Dalibard, J., Roger, G. 'Experimental test of Bell's inequalities using time-varying
+    analyzers.' Physical Review Letters 49, 1804-1807 (1982). doi:10.1103/PhysRevLett.49.1804 (from search results).
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary: photon-pair polarisation correlations measured with time-varying analyzers; violation
+    of Bell''s inequalities by about 5 standard deviations; settings changed during photon flight (locality loophole
+    addressed, with caveat that switching was quasi-periodic, not truly random, as the authors acknowledged).'
+  does_not_establish: Does not demonstrate instant communication or any signal; later 'loophole-free' tests were
+    needed because loopholes remained in 1982 (detection and setting-independence).
+  category: established_empirical
+  marketing_safe_wording: Aspect's 1982 experiments with entangled photons found correlations that violate Bell's
+    inequalities, in agreement with quantum mechanics.
+  cautions: '''Communicate instantly'' is wrong: outcomes are individually random, and nothing usable is transmitted.'
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-04
+  subject: Entanglement - 2015 loophole-free Bell tests
+  claim: Recent experiments proved Einstein wrong and confirmed that reality is non-local and interconnected.
+  source_citation: Hensen, B. et al. 'Loophole-free Bell inequality violation using electron spins separated by
+    1.3 kilometres.' Nature 526, 682-686 (2015). doi:10.1038/nature15759; arXiv:1508.05949. (Giles/NIST and Vienna
+    groups also reported 2015 loophole-free photon tests - those citations UNVERIFIED here.)
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary: event-ready entanglement of electron spins in diamond in labs 1.3 km apart on the
+    Delft campus; state fidelity 0.92 +/- 0.03; a Bell inequality violated without the extra assumptions of earlier
+    tests; follow-up run CHSH 2.35 +/- 0.18, combined S = 2.38 +/- 0.14.'
+  does_not_establish: No signalling, no faster-than-light information transfer, nothing about macroscopic objects,
+    brains, people or organisations; experiments show specific statistical correlations in carefully prepared microscopic
+    systems under cryogenic/lab conditions.
+  category: established_empirical
+  marketing_safe_wording: In 2015, several groups reported experiments that violated a Bell inequality while closing
+    the main experimental loopholes, strengthening the case that no local hidden-variable theory can explain quantum
+    correlations.
+  cautions: Do not say 'proved Einstein wrong' without nuance (EPR's incompleteness argument vs. locality). Interpretation
+    of what the violation implies (non-locality, superdeterminism, many-worlds, etc.) remains debated.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-05
+  subject: Entanglement - 2022 Nobel Prize in Physics
+  claim: The Nobel Prize confirmed that human consciousness/people are quantum-entangled and that intention shapes
+    reality.
+  source_citation: Royal Swedish Academy of Sciences, Nobel Prize in Physics 2022 to Alain Aspect, John F. Clauser,
+    Anton Zeilinger 'for experiments with entangled photons, establishing the violation of Bell inequalities and
+    pioneering quantum information science.' (Official nobelprize.org page NOT fetched; wording taken from search
+    results quoting it.)
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Award citation wording; committee comments pointing to applications in secure information transfer,
+    quantum computing and sensing.
+  does_not_establish: Nothing about consciousness, interpersonal links, manifestation, healing or business outcomes.
+    The prize recognises photon experiments and quantum information science.
+  category: established_empirical
+  marketing_safe_wording: The 2022 Nobel Prize in Physics honoured experiments with entangled photons that tested
+    Bell inequalities and helped found quantum information science.
+  cautions: A Nobel is not an endorsement of metaphysical or self-help applications. Verify the citation wording
+    on nobelprize.org before quoting.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-06
+  subject: Entanglement - no-signalling
+  claim: Entangled particles let information or influence pass instantly, so people/teams can be 'entangled' too.
+  source_citation: No specific source accessed. Standard result (no-communication theorem); a primary or SEP citation
+    was NOT located in this session. Stanford Encyclopedia of Philosophy 'Einstein-Podolsky-Rosen Paradox' / 'Bell's
+    Theorem' entries were targeted but unreachable.
+  access_status: NOT_ACCESSED
+  source_accessed_and_checked: false
+  supports: 'Nothing verified in session. Background-knowledge (UNVERIFIED): local measurement outcomes on one side
+    of an entangled pair are statistically unaffected by the other side''s choice; correlations appear only when
+    results are compared via ordinary channels.'
+  does_not_establish: Any evidence for interpersonal, social or consciousness-level entanglement.
+  category: established_empirical
+  marketing_safe_wording: Quantum entanglement is a feature of carefully prepared microscopic systems and cannot
+    be used to send messages; we use it only as a metaphor, not as evidence.
+  cautions: Add a verified citation (e.g., SEP, a review of no-signalling) before the claim is used. Keep any entanglement
+    language explicitly labelled metaphor.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-07
+  subject: Measurement problem / 'observer effect'
+  claim: Quantum physics shows that observing something changes it, so your attention/belief changes outcomes.
+  source_citation: 'No source fetched. Intended: Stanford Encyclopedia of Philosophy, ''Philosophical Issues in
+    Quantum Theory'' / ''Measurement in Quantum Theory''. UNREACHABLE (DNS failure). No substitute located by search.'
+  access_status: NOT_ACCESSED
+  source_accessed_and_checked: false
+  supports: 'Nothing verified. Background-knowledge (UNVERIFIED): in physics, ''observation'' means a physical interaction
+    with a measuring device; the measurement problem is the unresolved question of how/why definite outcomes arise
+    from the quantum formalism.'
+  does_not_establish: That a conscious mind, intention or belief alters outcomes; that observation by people in
+    everyday life changes physical results.
+  category: debated_hypothesis
+  marketing_safe_wording: In physics, 'measurement' means interaction with a detector; how definite outcomes arise
+    is still debated, and this does not show that thoughts change external reality.
+  cautions: '''Observer effect'' in physics (disturbance by measuring instruments) is different from ''consciousness
+    causes collapse''. Keep them separate.'
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-08
+  subject: Double-slit experiment
+  claim: In the double-slit experiment, particles behave differently when watched, proving consciousness shapes
+    reality.
+  source_citation: 'No source accessed (no search targeted double-slit specifically). Candidate sources to locate:
+    Feynman Lectures on Physics vol. III ch.1; Jonsson 1961 (electrons); Tonomura et al. 1989 (single-electron build-up).
+    All citation details UNVERIFIED.'
+  access_status: NOT_ACCESSED
+  source_accessed_and_checked: false
+  supports: 'Nothing verified in session. Background-knowledge (UNVERIFIED): which-path detectors physically interact
+    with the particle and remove the interference pattern; this happens with automated detectors and no human watching.'
+  does_not_establish: A role for human awareness; that results depend on mental states.
+  category: established_empirical
+  marketing_safe_wording: In the double-slit experiment, adding a which-path detector removes the interference pattern;
+    the effect comes from the physical detector, not from anyone's attention.
+  cautions: Do not state this as sourced until a primary/educational citation is added.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-09
+  subject: Decoherence
+  claim: 'Decoherence explains the observer effect without consciousness / or: decoherence has solved the measurement
+    problem.'
+  source_citation: 'Intended: Stanford Encyclopedia of Philosophy ''The Role of Decoherence in Quantum Mechanics'';
+    Schlosshauer, ''Decoherence, the measurement problem, and interpretations of quantum mechanics'', Rev. Mod.
+    Phys. 76 (2004). Both UNVERIFIED/NOT fetched; citation details from memory.'
+  access_status: NOT_ACCESSED
+  source_accessed_and_checked: false
+  supports: 'Nothing verified in session. Background-knowledge (UNVERIFIED): decoherence explains why interference
+    becomes unobservable for systems interacting with an environment; whether it fully solves the measurement problem
+    (outcome selection) is disputed.'
+  does_not_establish: Either that decoherence is irrelevant to the question of mind, or that it settles interpretation.
+  category: established_empirical
+  marketing_safe_wording: Decoherence describes how quantum systems lose interference through interaction with their
+    environment; physicists still debate what it implies for the measurement problem.
+  cautions: Confirm Schlosshauer 2004 details before citing.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-10
+  subject: Consciousness-causes-collapse (von Neumann-Wigner)
+  claim: Leading physicists (von Neumann, Wigner) showed consciousness collapses the wave function.
+  source_citation: 'von Neumann, Mathematische Grundlagen der Quantenmechanik (1932); Wigner, ''Remarks on the mind-body
+    question'' (1961). Details UNVERIFIED. Survey evidence: Schlosshauer, Kofler, Zeilinger, ''A Snapshot of Foundational
+    Attitudes Toward Quantum Mechanics'', arXiv:1301.1069 (2013).'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary: the 2013 snapshot polled 33 participants of a quantum-foundations conference (16
+    multiple-choice questions); two follow-ups (Norsen & Nelson; Sommer) exist. The specific percentage for consciousness-related
+    views was NOT retrieved. Background-knowledge (UNVERIFIED): Wigner later abandoned the view; it is a minority
+    position.'
+  does_not_establish: That the view is accepted, tested, or supported by experiment. Survey samples are small and
+    self-selected.
+  category: debated_hypothesis
+  marketing_safe_wording: A minority of physicists and philosophers, including von Neumann and (for a time) Wigner,
+    discussed the idea that consciousness might play a role in measurement; it is not an experimentally supported
+    or mainstream view.
+  cautions: Do not claim Wigner's current position without verification. Do not cite survey percentages unless retrieved.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-11
+  subject: String theory - status
+  claim: String theory shows reality is vibrating energy, so mindset/frequency determines results.
+  source_citation: 'Woit, P. ''Not Even Wrong'' (Basic Books, 2006) - described via reviews only; Dawid, ''String
+    Theory and the Scientific Method'' (CUP 2013) - not found; ''String Theory: An Evaluation'' arXiv:physics/0102051
+    (2001; author UNVERIFIED in search output).'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summaries: critics (Woit) state string theory has made no experimental prediction; the 2001
+    arXiv evaluation says it makes no predictions at experimentally accessible energies. The 2001 date means it
+    does not reflect later developments.'
+  does_not_establish: A balanced current view (proponents' replies, post-2001 developments) was not retrieved. Nothing
+    links string theory to coaching, psychology or organisations.
+  category: theory
+  marketing_safe_wording: String theory is a mathematical research programme in theoretical physics that has not
+    been confirmed by experiment; we do not use it as evidence for our methods.
+  cautions: Critics' book is advocacy-leaning; present as one side. Obtain a balanced up-to-date source. 'Everything
+    is vibrating strings' is not an established finding.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-12
+  subject: Global Neuronal Workspace theory vs IIT - adversarial collaboration
+  claim: Science has now shown where consciousness comes from / consciousness is information or field.
+  source_citation: Cogitate Consortium et al. 'Adversarial testing of global neuronal workspace and integrated information
+    theories of consciousness.' Nature (2025; published ~30 April 2025 per news summaries). Volume/pages/DOI UNVERIFIED.
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summaries: 256 human participants; fMRI, MEG and intracranial EEG; preregistered with proponents''
+    input; results aligned with some predictions of each theory while ''substantially challenging key tenets of
+    both''; dataset released; second experiment in preparation.'
+  does_not_establish: That either theory is correct or refuted overall; no mechanism for coaching or leadership.
+    Details of specific predictions failed were not retrieved.
+  category: debated_hypothesis
+  marketing_safe_wording: A 2025 preregistered adversarial collaboration tested two leading theories of consciousness
+    and found results that challenged key claims of both; the science of consciousness remains unsettled.
+  cautions: Cite the Nature paper directly after verifying details; news summaries are secondary.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-13
+  subject: IIT 'pseudoscience' open letter controversy
+  claim: '"IIT is established science" or "IIT has been exposed as pseudoscience."'
+  source_citation: Open letter by 124 signatories ('IIT-Concerned'), 2023 (preprint 'The Integrated Information
+    Theory of Consciousness as Pseudoscience', Fleming et al. - title/authors/venue UNVERIFIED, from memory). A
+    Nautilus essay discussing it was seen only in search results.
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summaries: 124 experts signed a letter critical of IIT and of how the Cogitate results were
+    publicised; the dispute arose after initial results were shown at ASSC 2023; the Nautilus authors argue the
+    pseudoscience label was unwarranted but also faulted IIT''s defence.'
+  does_not_establish: A settled verdict. The year and letter text were not directly accessed (year inferred from
+    reports of 2023 events).
+  category: debated_hypothesis
+  marketing_safe_wording: Integrated Information Theory is contested; in 2023 over a hundred researchers signed
+    a letter criticising it, while others defend it as a legitimate theory under test.
+  cautions: Describe neutrally; verify the letter's authorship, title and date before citing.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-14
+  subject: Reticular activating system - Moruzzi & Magoun 1949
+  claim: Your RAS filters what you notice, so setting goals programs it to find opportunities.
+  source_citation: Moruzzi, G., Magoun, H.W. 'Brain stem reticular formation and activation of the EEG.' Electroencephalography
+    and Clinical Neurophysiology 1, 455-473 (1949). Title/journal/year seen in search results; volume/pages from
+    memory, UNVERIFIED.
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary: brainstem stimulation in cats desynchronised/activated the EEG, resembling arousal.
+    A 2010 review (not identified in detail) argues the concept needs revision; activating systems include hypothalamic
+    and basal forebrain regions.'
+  does_not_establish: That the RAS acts as a goal-driven attention filter, or that written goals reprogram it. Arousal
+    and selective attention are distinct systems (secondary source). No direct test of the 'filter' claim was found.
+  category: established_empirical
+  marketing_safe_wording: Moruzzi and Magoun (1949) showed that the brainstem reticular formation helps regulate
+    cortical arousal; how people select what to notice involves other mechanisms.
+  cautions: '''RAS filters for your goals'' is a popular extension, not the 1949 finding. Mark as metaphor if used.'
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-15
+  subject: '''11 million bits / 40 bits per second'' figures'
+  claim: The brain receives 11 million bits per second but the conscious mind processes only 40, so your subconscious
+    runs your life.
+  source_citation: 'Nørretranders, T. ''The User Illusion: Cutting Consciousness Down to Size'' (Viking, 1998; Danish
+    original 1991) - popularised; underlying sensory estimates attributed in secondary sources to Zimmermann (1986
+    or 1989 cited inconsistently; exact title/venue UNVERIFIED); also Küpfmüller information-flow diagram (secondary
+    source). Britannica (information theory) discusses a ~50 bits/s reading-based estimate.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summaries: the ~11 million figure comes from summing rough 1980s sensory-channel capacity
+    estimates (vision ~10^7, touch ~10^6, hearing/smell ~10^5, taste ~10^3 bits/s); conscious-rate figures vary
+    by source: 16, 40, 50, 60 bits/s. A commentary notes the numbers are not comparable (sensory capacity vs. task-specific
+    rate).'
+  does_not_establish: That 40 bits is a measured limit of conscious cognition; that the remainder is 'subconscious
+    processing' usable for goal-setting. Original Zimmermann text NOT seen; attribution of specific numbers is unverified.
+  category: unsupported
+  marketing_safe_wording: Popular figures such as '11 million bits' of sensory input versus roughly 40 bits of conscious
+    processing are rough, decades-old estimates of uncertain validity; we do not rely on them.
+  cautions: Treat as unsupported until the Zimmermann source is read. Multiple inconsistent conscious-rate values
+    circulate (16/40/50/60). Avoid precise numbers in marketing.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-16
+  subject: Allostatic load (McEwen)
+  claim: Chronic stress wears down the body and impairs leadership judgement.
+  source_citation: McEwen, B.S. 'Protective and damaging effects of stress mediators.' New England Journal of Medicine
+    338(3), 171-179 (1998). doi:10.1056/NEJM199801153380307 (from search results; PMID 9428819).
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary: review framing allostasis as adaptive response and allostatic load as cumulative
+    cost of chronic or dysregulated stress responses; mediators include glucocorticoids and catecholamines; everyday
+    stressors contribute. Full text not read.'
+  does_not_establish: That any coaching method reduces allostatic load, or that stress impairs specific leadership
+    decisions; the review is not a leadership study.
+  category: established_empirical
+  marketing_safe_wording: Research on allostatic load (McEwen, 1998) describes how prolonged or poorly regulated
+    stress responses can carry long-term costs for health.
+  cautions: Do not convert into business outcome claims without leadership-specific evidence.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-17
+  subject: HRV / vagal tone and decision quality
+  claim: High HRV means better decisions; breathing practice raises vagal tone and improves leadership decisions.
+  source_citation: (a) Forte et al. 2019 Frontiers in Neuroscience 13:710 (systematic review of HRV and cognition,
+    20 studies, N=19,431; per search result). (b) Later systematic review on HRV and decision-making, 15 studies,
+    1,051 healthy participants (authors/year/venue UNVERIFIED). (c) Meta-analysis on vagally-mediated HRV and executive
+    function, 13 studies, r=.19 (authors/venue UNVERIFIED). (d) Thayer et al. 2009 neurovisceral integration - NOT
+    confirmed.
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summaries: small positive correlational association between vagally-mediated HRV and executive
+    function (r=.19), larger for inhibition/flexibility than working memory, moderated by measure and age; higher
+    HRV tracked with better decision performance, especially under risk, but causal nature ''difficult to clarify''.'
+  does_not_establish: Causation; that raising HRV improves decisions; effects in executives or real-world business
+    decisions; that consumer HRV devices measure vagal tone accurately. A commentary notes RMSSD/HF reflect vagal
+    tone, SDNN does not.
+  category: debated_hypothesis
+  marketing_safe_wording: Studies find a small positive association between resting heart-rate variability and executive
+    function; whether training HRV improves real-world decisions is not established.
+  cautions: Correlational evidence. Verify citations (b) and (c) before use.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-18
+  subject: Polyvagal theory (Porges) and critiques
+  claim: Polyvagal theory explains nervous-system states (fight/flight/freeze/safety) and can be used to coach regulation.
+  source_citation: 'Grossman, P. ''Fundamental challenges and likely refutations of the five basic premises of the
+    polyvagal theory.'' Biological Psychology 180 (2023); PMID 37230290 (from search). Grossman, P., Taylor, E.W.
+    ''Toward understanding respiratory sinus arrhythmia: Relations to cardiac vagal tone, evolution and biobehavioral
+    functions.'' Biological Psychology 74(2), 263-285 (2007). Porges''s reply (Porges 2007b, cited via a Qeios critique)
+    and a 2026 multi-author Grossman et al. evaluation: UNVERIFIED.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summaries: Grossman 2023 argues the five premises are untenable or highly implausible, that
+    RSA is not equivalent to cardiac vagal tone, and disputes claims about dorsal vagal motor nucleus and bradycardia.
+    A commentary describes polyvagal approaches as ''scientifically questionable but useful in practice'' (opinion).
+    Porges has responded.'
+  does_not_establish: The final resolution of the dispute; Porges's side was not read. Does not show that practices
+    used in polyvagal-informed work are ineffective.
+  category: debated_hypothesis
+  marketing_safe_wording: Polyvagal theory is influential in clinical and coaching circles but its core physiological
+    claims are disputed in the peer-reviewed literature.
+  cautions: Mark CONTESTED. Do not present polyvagal states as established physiology. Check Porges's published
+    replies for balance.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-19
+  subject: Deliberate practice vs 10,000 hours
+  claim: 10,000 hours of practice makes you an expert at anything.
+  source_citation: Ericsson, K.A., Krampe, R.Th., Tesch-Romer, C. 'The role of deliberate practice in the acquisition
+    of expert performance.' Psychological Review 100(3), 363-406 (1993) (title, journal, year confirmed in search;
+    page range from memory, UNVERIFIED). Macnamara, Hambrick, Oswald 2014 Psychological Science (meta-analysis);
+    Ericsson-group 2019 Frontiers in Psychology review (doi 10.3389/fpsyg.2019.02396 per URL).
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summaries: the 1993 study of violinists/musicians defined deliberate practice as individualised,
+    teacher-directed solitary practice; best musicians averaged ~10,000 hours by age 20 vs 2,000-5,000 for less
+    accomplished; Gladwell''s ''Outliers'' popularised a ''10,000-hour rule'' not in the research; Macnamara 2014
+    reports practice explaining roughly 20-25% of performance variance in music, sports and games (figure from press
+    write-up); a sports meta-analysis ~18%; Ericsson''s camp disputes the meta-analysis.'
+  does_not_establish: A fixed threshold; that deliberate practice applies to leadership without domain-specific
+    evidence; that practice time alone predicts success.
+  category: established_empirical
+  marketing_safe_wording: Research on deliberate practice (Ericsson et al., 1993) shows structured, feedback-rich
+    practice matters for expertise; the '10,000-hour rule' is a popular simplification, and practice explains only
+    part of performance differences.
+  cautions: Do not attribute the 10,000-hour rule to Ericsson. Check exact variance figures in Macnamara 2014.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-20
+  subject: Dopamine reward prediction (Schultz)
+  claim: Dopamine is the pleasure chemical; you get more of it from pursuing than arriving.
+  source_citation: Schultz, W., Dayan, P., Montague, P.R. 'A neural substrate of prediction and reward.' Science
+    275, 1593-1599 (1997) (confirmed via search results).
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary/abstract text: dopamine neuron activity in primates appears to track errors in predictions
+    of future reward, consistent with reinforcement-learning theory.'
+  does_not_establish: That dopamine encodes pleasure; that pursuit is inherently more rewarding than achievement;
+    anything about humans' goal-pursuit satisfaction or coaching. Wanting vs liking (Berridge) was mentioned only
+    from the search tool's own background knowledge and not sourced.
+  category: established_empirical
+  marketing_safe_wording: Research by Schultz and colleagues found that dopamine neurons in primates signal reward
+    prediction errors, a learning signal rather than a simple 'pleasure' signal.
+  cautions: Avoid 'pursuit over arrival' as a finding; it is an extrapolation. Primate single-neuron data; human
+    generalisation needs separate sources.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-21
+  subject: Present-tense written declaration processed like lived experience
+  claim: The brain processes a vividly written present-tense declaration as if it were real experience, rewiring
+    your identity.
+  source_citation: 'No direct source found. Related: Wood, J.V., Perunovic, W.Q.E., Lee, J.W. ''Positive self-statements:
+    Power for some, peril for others.'' Psychological Science 20, 860-866 (2009); PMID 19493324 (confirmed in search).'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary: in experiments, repeating ''I''m a lovable person'' made people with low self-esteem
+    feel worse than controls and helped those with high self-esteem only modestly (mostly university students).'
+  does_not_establish: Any evidence of equivalence between declarations and lived experience in the brain; the study
+    neither tests nor supports that claim. No supporting neuroimaging study was found in this session.
+  category: unsupported
+  marketing_safe_wording: Some people find written intentions useful; research suggests positive self-statements
+    can backfire for people with low self-esteem, so we describe this as a reflective exercise, not a brain-rewiring
+    mechanism.
+  cautions: Treat the brain-equivalence claim as unsupported. Consider evidence on imagery/implementation intentions
+    separately (not searched).
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-22
+  subject: REM sleep 'rehearses' evening declarations
+  claim: Reading your declaration before bed means REM sleep rehearses it overnight.
+  source_citation: 'Wamsley, E.J. et al. 2010 ''Dreaming of a learning task is associated with enhanced sleep-dependent
+    memory consolidation'' (Current Biology; venue/details from memory, UNVERIFIED; maze study seen in summaries).
+    Others referenced: De Koninck pilot; Schredl & Erlacher non-replication (details UNVERIFIED).'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary: dreaming about a pre-sleep task correlated with greater improvement; dream reports
+    did not mention specific maze details; no REM vs NREM difference in the Wamsley study; dream-versus-no-dream
+    comparisons are confounded; earlier REM-specific pilots and a non-replication exist.'
+  does_not_establish: That written declarations are rehearsed in REM; that pre-sleep reading alters behaviour; no
+    result addressed intentions or declarations at all.
+  category: unsupported
+  marketing_safe_wording: Sleep and dreaming are linked to memory processing in research, but there is no evidence
+    that REM sleep rehearses written declarations.
+  cautions: Do not claim REM rehearsal. At most say sleep supports memory consolidation, with citations.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-23
+  subject: NLP - Sturt et al. 2012 systematic review
+  claim: NLP is evidence-based and proven to change behaviour.
+  source_citation: 'Sturt, J. et al. ''Neurolinguistic programming: a systematic review of the effects on health
+    outcomes.'' British Journal of General Practice (2012). Authorship list/volume/pages UNVERIFIED beyond lead
+    author. A PMC record (PMC3481516) appeared in results.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary: 1459 titles screened, 10 experimental studies included (5 RCTs, 5 pre-post); conditions
+    included anxiety, weight maintenance, morning sickness, substance misuse, MRI claustrophobia; conclusion: little
+    evidence NLP improves health outcomes, with high or uncertain risk of bias; authors note this reflects limited
+    research quantity and quality. KCL release notes NHS spending of over 800,000 pounds in 2006-9.'
+  does_not_establish: That NLP is ineffective in all domains; the review covers health outcomes, not leadership
+    or business coaching. A practitioner-led meta-analysis (Zaharia et al. 2015) reported more favourable results
+    but was not read.
+  category: debated_hypothesis
+  marketing_safe_wording: A 2012 systematic review of NLP in health settings found little high-quality evidence
+    of benefit; evidence for NLP is limited.
+  cautions: Do not describe NLP techniques as evidence-based.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RA-24
+  subject: NLP - Witkowski 2010 review
+  claim: NLP's theoretical foundations have been scientifically validated.
+  source_citation: 'Witkowski, T. ''Thirty-five years of research on Neuro-Linguistic Programming. NLP research
+    data base. State of the art or pseudoscientific decoration?'' Polish Psychiatry / Archives of Psychiatry and
+    Psychotherapy (2010). Title, venue and details are from memory: UNVERIFIED. The only search hit was a Polish
+    journal article that mentions Witkowski 2010 as a review of the empirical literature.'
+  access_status: NOT_ACCESSED
+  source_accessed_and_checked: false
+  supports: Nothing verified. Search confirmed only that a Witkowski 2010 paper exists as a review of NLP's empirical
+    literature; its findings were not retrieved.
+  does_not_establish: Anything about its conclusions in this ledger.
+  category: debated_hypothesis
+  marketing_safe_wording: (No wording until the source is read.)
+  cautions: Locate and read the paper before citing; do not cite its conclusions from memory.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-01
+  subject: Carl Jung - persona and shadow
+  claim: Persona (social mask) and shadow (rejected/unacknowledged traits) as leadership self-awareness concepts
+  source_citation: 'C.G. Jung, The Archetypes and the Collective Unconscious, Collected Works vol. 9 part i, trans.
+    R.F.C. Hull (Princeton/Bollingen). Original publication years of individual essays and exact edition: UNVERIFIED.
+    URL: none confirmed.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Secondary summaries (encyclopedia.com snippet, Goodreads record) describe persona as the socially imposed
+    mask and shadow as rejected desires/attitudes; Goodreads confirms the volume title and translator Hull. Which
+    CW 9i chapter contains which passage: UNVERIFIED.'
+  does_not_establish: Primary text not opened. No page numbers, quotes or chapter locations verified. Nothing about
+    empirical validity of persona/shadow.
+  category: theory
+  marketing_safe_wording: Draws on Carl Jung's concepts of the persona and the shadow, psychological ideas used
+    in depth psychology to reflect on how we present ourselves and what we disown.
+  cautions: Do not say 'proven' or 'scientifically validated'. Jungian archetypes are not empirically testable in
+    the standard sense (general knowledge; no source fetched this session). Do not put words in Jung's mouth; quote
+    only after checking CW 9i.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-02
+  subject: Carl Jung - individuation
+  claim: Individuation as lifelong integration of the personality; analogue for leadership maturation
+  source_citation: 'Jung, Collected Works vol. 7 (Two Essays on Analytical Psychology) and vol. 9i; also Aion (CW
+    9ii). Which text defines individuation, and the wording: UNVERIFIED this session.'
+  access_status: NOT_ACCESSED
+  source_accessed_and_checked: false
+  supports: Nothing verified this session. Search returned no individuation-specific source.
+  does_not_establish: Definition, page, edition and any empirical support all unverified.
+  category: theory
+  marketing_safe_wording: Inspired by Jung's idea of individuation, the lifelong process of becoming a more integrated
+    self.
+  cautions: Treat as a clinical/psychoanalytic theory, not an outcome-measured leadership method. Verify against
+    CW 7 before quoting.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-03
+  subject: Carl Jung - Psychological Types and empirical status (MBTI link)
+  claim: Jungian typology (introversion/extraversion, thinking/feeling, sensation/intuition) and its descendant,
+    the MBTI
+  source_citation: 'Jung, Psychological Types (Rascher Verlag, German, 1921; English 1923; CW vol. 6) per a secondary
+    snippet. Pittenger (1993) critique of MBTI cited in secondary pages (journal named inconsistently across sources:
+    UNVERIFIED).'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Secondary pages say MBTI derives from Jung's typology; commonly cited weakness is low test-retest stability
+    (figures like ~50% getting a different type on retest, or 39-76%, from blogs; differing framings).
+  does_not_establish: Primary papers not opened; the retest figures are unverified and inconsistent. Big Five comparison
+    not retrieved.
+  category: debated_hypothesis
+  marketing_safe_wording: Jung's typology is an influential but contested framework; it informs, rather than validates,
+    our approach.
+  cautions: Do not cite MBTI as validated for hiring/leadership prediction. Do not cite the retest percentages without
+    checking Pittenger and the Myers-Briggs/CPP rebuttals.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-04
+  subject: Charles Darwin - On the Origin of Species and adaptation
+  claim: Evolutionary adaptation invoked as justification for 'adapt or die' leadership framing
+  source_citation: 'Charles Darwin, On the Origin of Species, John Murray, London, 1859. Fifth edition 1869 (John
+    Murray, 2,000 copies per Darwin Online snippet). Darwin Online editorial intro: https://darwin-online.org.uk/EditorialIntroductions/Chancellor_Origin5th.html'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 1859 publication by John Murray (general knowledge, consistent with snippets). Natural selection concerns
+    differential reproduction of heritable variation in populations.
+  does_not_establish: Nothing about individual or organisational leadership, personal change, or 'mindset'. Origin
+    text not opened.
+  category: established_empirical
+  marketing_safe_wording: Darwin's work on natural selection is a famous metaphor for adapting to a changing environment;
+    it is used here as an analogy only.
+  cautions: Evolution operates on populations over generations; it does NOT license claims that individuals can
+    or should 'adapt' faster to succeed, nor that leaders are 'fitter'. Keep it explicitly metaphorical.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-05
+  subject: '''Survival of the fittest'' phrase'
+  claim: Phrase attributed to Darwin in 1859 Origin
+  source_citation: 'Coined by Herbert Spencer (Principles of Biology, 1864 per Wikipedia snippet; some accounts
+    differ on year: UNVERIFIED); adopted by Darwin from the fifth edition of Origin (1869). Wikipedia https://en.wikipedia.org/wiki/Survival_of_the_fittest
+    ; Darwin Online link in RB-04; Britannica https://britannica.com/topic/survival-of-the-fittest'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Phrase first appears in Origin in 5th edition (1869), credited to Spencer; 'fittest' means best fitted
+    to local conditions, not strongest.
+  does_not_establish: Exact chapter/page wording in 5th edition not checked. Wallace's role per Wikipedia only.
+  category: established_empirical
+  marketing_safe_wording: Herbert Spencer coined 'survival of the fittest', which Darwin adopted in later editions
+    of the Origin.
+  cautions: Do not say it is in the 1859 edition. Do not equate 'fittest' with 'strongest' or 'most successful'.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-06
+  subject: '''It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive
+    to change'' (misattributed to Darwin)'
+  claim: Widely circulated leadership quote attributed to Darwin
+  source_citation: 'Quote Investigator, ''It Is Not the Strongest of the Species that Survives But the Most Adaptable'',
+    2014-05-04: https://quoteinvestigator.com/2014/05/04/adapt/ ; Darwin Correspondence Project ''Evolution misquotation'':
+    https://darwinproject.ac.uk/evolution-misquotation ; Snopes https://www.snopes.com/fact-check/darwin-strongest-species-survives-adaptable/'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per search summary: no substantive evidence Darwin said or wrote it; earliest traceable source is a
+    1963 speech paraphrase by LSU management professor Leon C. Megginson; later attributed variously incl. Clarence
+    Darrow (1987 testimony).'
+  does_not_establish: I did not read the full QI article; an earlier source might exist. Exact Megginson citation
+    not verified.
+  category: unsupported
+  marketing_safe_wording: 'Do not attribute to Darwin. If used: ''A popular saying, often wrongly credited to Darwin,
+    holds that adaptability matters more than strength.'''
+  cautions: HIGH RISK misattribution. Remove any 'Darwin said' framing.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-07
+  subject: Albert Einstein - special and general relativity
+  claim: Einstein as emblem of breakthrough thinking
+  source_citation: 'A. Einstein, ''Zur Elektrodynamik bewegter Koerper'', Annalen der Physik 17(10): 891-921, 1905
+    (received 30 June, published 26 Sept 1905 per snippets, physicstoday.aip.org). General relativity field equations
+    Nov 1915 Prussian Academy: not retrieved this session, UNVERIFIED in search.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 1905 special relativity paper details above.
+  does_not_establish: Nothing about motivation, creativity or leadership. 1915 details unverified here.
+  category: established_empirical
+  marketing_safe_wording: Einstein's 1905 work on relativity is often cited as a landmark of imaginative scientific
+    thinking.
+  cautions: Physics gives no support to leadership claims; do not imply physics 'proves' energy/vibration ideas.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-08
+  subject: '''Insanity is doing the same thing over and over and expecting different results'' (misattributed to
+    Einstein)'
+  claim: Change-leadership quote attributed to Einstein
+  source_citation: 'Quote Investigator, 2017-03-23: https://quoteinvestigator.com/2017/03/23/same/ ; The Ultimate
+    Quotable Einstein (Princeton UP) lists it as misattributed (per search summary).'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per summary: no substantive evidence Einstein said it; earliest versions 1981 in 12-step contexts (Al-Anon
+    Oct 1981, Narcotics Anonymous pamphlet Nov 1981); attributed to Einstein by 1990.'
+  does_not_establish: Full QI article not read; History.com's mention of earlier 19th-century roots unconfirmed.
+  category: unsupported
+  marketing_safe_wording: Do not attribute to Einstein. Say 'a well-known saying with roots in 1980s recovery-meeting
+    culture'.
+  cautions: Misattribution. Also note it is not a clinical definition of insanity.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-09
+  subject: '''Imagination is more important than knowledge'' (Einstein)'
+  claim: Imagination quote attributed to Einstein
+  source_citation: 'G.S. Viereck interview, ''What Life Means to Einstein'', Saturday Evening Post, 26 Oct 1929
+    (date from secondary summary); also in Einstein, Cosmic Religion and Other Opinions and Aphorisms, 1931. QI:
+    https://quoteinvestigator.com/2013/01/01/einstein-imagination/ ; SEP: https://saturdayeveningpost.com/2010/03/imagination-important-knowledge'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per summary, attribution holds. Context: ''I am enough of the artist to draw freely upon my imagination.
+    Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.'' Wording
+    from summary; verify against the original before quoting.'
+  does_not_establish: Full interview and QI page not opened; exact wording unverified.
+  category: established_empirical
+  marketing_safe_wording: Einstein told an interviewer in 1929 that 'imagination is more important than knowledge'
+    (verify wording against the original before use).
+  cautions: Genuine quote but taken from an interview context; does not endorse any visualisation or manifestation
+    practice.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-10
+  subject: Neville Goddard - Feeling Is the Secret (1944) and The Power of Awareness (1952)
+  claim: Imagination/feeling-state 'law of assumption' teaching
+  source_citation: 'Neville, Feeling Is the Secret, 1944 (one mirror lists Goddard Publications, New York; a PRS
+    store lists 1951: conflict, UNVERIFIED). Neville, The Power of Awareness, 1952, G. & J. Publishing Co., Los
+    Angeles (per Kook Science mirror, https://hatch.kookscience.com/wiki/Neville_Goddard). Modern collection: The
+    Power of Awareness and Other Essential Works (St. Martin''s, ISBN 9781250833327).'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Bibliographic existence of the titles; both are spiritual/New Thought teaching.
+  does_not_establish: No edition/page verified; no empirical evidence for the claims that imagined states cause
+    outer circumstances.
+  category: spiritual
+  marketing_safe_wording: Neville Goddard (1905-1972) taught a spiritual practice of imaginative assumption; we
+    cite him as an influence and not as science.
+  cautions: Birth/death years are from memory, UNVERIFIED. Never present as evidence-based. Avoid outcome promises.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-11
+  subject: Tony Robbins - Unlimited Power (1986)
+  claim: Practitioner/NLP-influenced personal-achievement method
+  source_citation: 'Anthony Robbins, Unlimited Power: The New Science of Personal Achievement, 1986; per Wikipedia
+    snippet first hardcover Simon & Schuster, 15 June 1986; paperbacks Fawcett Columbine/Ballantine. https://en.wikipedia.org/wiki/Unlimited_Power_(book)'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Publication details; Britannica snippet ties his early methods to Grinder's NLP and firewalking. https://www.britannica.com/biography/Tony-Robbins
+  does_not_establish: No peer-reviewed evidence of efficacy found. The subtitle 'New Science' is a marketing claim.
+  category: practitioner_method
+  marketing_safe_wording: Tony Robbins popularised practical self-development methods in books such as Unlimited
+    Power (1986).
+  cautions: Do not repeat 'new science' framing. No evidence retrieved on firewalking or seminar outcomes.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-12
+  subject: Tony Robbins - Awaken the Giant Within (1991)
+  claim: Motivational/self-mastery framework
+  source_citation: 'Robbins, Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical
+    & Financial Destiny, 1991 (title/year per search snippet; publisher UNVERIFIED, Simon & Schuster is likely but
+    not confirmed).'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Title and year.
+  does_not_establish: Any empirical effect; edition; publisher.
+  category: practitioner_method
+  marketing_safe_wording: Awaken the Giant Within (1991) is a widely read motivational book.
+  cautions: Motivational, not validated. Check publisher before citing in full.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-13
+  subject: Trevor Blake - which person?
+  claim: Founder cites 'Trevor Blake'; identity unresolved
+  source_citation: 'Candidate A: Trevor G. Blake, Three Simple Steps: A Map to Success in Business and Life, 2012
+    (Book Notification: 7 Aug 2012), listed at Simon & Schuster https://www.simonandschuster.co.uk/books/Three-Simple-Steps/Trevor-G-Blake/9781936661725
+    ; described as entrepreneur/QOL Medical founder (publisher/promo copy; Big Think). Candidate B: Trevor Blake
+    of Portland, author of Confessions of a Failed Egoist (Underworld Amusements, 2014), egoist/Stirner editor,
+    https://www.unionofegoists.com/blake/ . Others may exist.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: At least two distinct people appear; middle initial, careers and publishers differ. No source explicitly
+    states they are different people.
+  does_not_establish: Which one the founder means is UNVERIFIED. Biography details (sale figures, bestseller status,
+    physicist claim) come from promotional text and are UNVERIFIED.
+  category: practitioner_method
+  marketing_safe_wording: Do not name until the founder confirms which Trevor Blake and which work.
+  cautions: Ask the founder for the title/URL. Do not cite 'New York Times bestseller' or '$300 million' claims
+    without independent confirmation.
+  external_marketing_status: hold-until-citation-verified-against-original
+  founder_note: 'Founder confirmed 2026-10-16: the Trevor Blake referenced is Trevor G. Blake, author of ''Three
+    Simple Steps'' (2012); the founder was inspired by the book, which is publicly available. Extent of overlap
+    not checked (DEC-021).'
+- id: RB-14
+  subject: Three Simple Steps - prior art
+  claim: Founder's phrase 'Three Simple Steps' may collide with an existing title
+  source_citation: Trevor G. Blake, Three Simple Steps (2012), see RB-13. Phrase is also generic and likely used
+    by many products; no exhaustive search done.
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: At least one published book with exactly this title (self-help/business, 2012). Trademark status not
+    checked.
+  does_not_establish: Whether the founder's framework derives from or overlaps with the book; trademark/clearance
+    not checked.
+  category: unsupported
+  marketing_safe_wording: Avoid using 'Three Simple Steps' as a branded method name without clearance.
+  cautions: Recommend a trademark/title search (USPTO, UKIPO) before use.
+  external_marketing_status: hold-until-citation-verified-against-original
+  founder_note: 'Founder confirmed 2026-10-16: the Trevor Blake referenced is Trevor G. Blake, author of ''Three
+    Simple Steps'' (2012); the founder was inspired by the book, which is publicly available. Extent of overlap
+    not checked (DEC-021).'
+- id: RB-15
+  subject: '''Five Ps'' of affirmation writing (positive, powerful, personal, present tense, private)'
+  claim: Founder's affirmation guidelines
+  source_citation: 'No source found with this exact list. Near-matches: University of Illinois Extension (present
+    tense, positive, personal, precise, persistent) https://extension.illinois.edu/blogs/community-health-education-prevention-inspiration/2022-03-22-five-tips-creating-powerful
+    ; Stephen Covey, The 7 Habits of Highly Effective People (five ingredients: personal, positive, present tense,
+    visual, emotional) via Goodreads quote note.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Positive/personal/present-tense is common advice in affirmation guidance (widely repeated, practitioner
+    lore).
+  does_not_establish: No finding that 'powerful' and 'private' list exists elsewhere; one search only, not exhaustive.
+    Effectiveness of affirmation rules not evidenced here.
+  category: founder_synthesis
+  marketing_safe_wording: Our Five Ps build on common affirmation-writing advice (positive, personal, present tense)
+    and add powerful and private.
+  cautions: Do not claim originality or research basis. 'Positive, personal, present tense' is common prior art;
+    a fuller search is needed before claiming a novel list.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-16
+  subject: NLP origins - Bandler and Grinder
+  claim: NLP as modelling of therapists
+  source_citation: 'Bandler & Grinder, The Structure of Magic I (1975) and II (1976), Science and Behavior Books,
+    Palo Alto; Frogs into Princes, Real People Press, Moab UT, 1979 (an earlier 1976 listing exists: UNVERIFIED).
+    Sources: Wikipedia John Grinder mirror, Medium post, bibliography snippets.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Titles/publishers/years as stated; NLP derives from modelling Perls, Satir, Erickson.
+  does_not_establish: Primary books not opened; claims of NLP efficacy not supported here.
+  category: practitioner_method
+  marketing_safe_wording: NLP emerged in the 1970s from Bandler and Grinder's study of successful therapists; its
+    evidence base is limited.
+  cautions: Associated legal disputes between the co-authors (snippet); do not use 'neuroscience' wording.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-17
+  subject: NLP evidence - Witkowski (2010)
+  claim: Systematic assessment of NLP research
+  source_citation: 'Tomasz Witkowski, ''Thirty-Five Years of Research on Neuro-Linguistic Programming. NLP Research
+    Data Base. State of the Art or Pseudoscientific Decoration?'', Polish Psychological Bulletin 41(2): 58-66, 2010,
+    DOI 10.2478/v10059-010-0008-0. https://journals.pan.pl/dlibra/publication/114591/edition/99644'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per summary: 63 selected studies; of 33 empirical, 18.2% supportive, 54.5% non-supportive, 27.3% uncertain.'
+  does_not_establish: Full methodology unread. Author is a known sceptic; the paper has been criticised by NLP proponents
+    (not retrieved).
+  category: established_empirical
+  marketing_safe_wording: Independent reviews (Witkowski 2010; Sturt et al. 2012) find limited research support
+    for NLP's core claims.
+  cautions: Percentages from abstract-level summary; verify before quoting.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-18
+  subject: NLP evidence - Sturt et al. (2012)
+  claim: Systematic review of NLP and health outcomes
+  source_citation: 'Sturt J, Ali S, Robertson W, Metcalfe D, Grove A, Bourne C, Bridle C. ''Neurolinguistic programming:
+    a systematic review of the effects on health outcomes'', British Journal of General Practice 62(604): e757-e764,
+    2012, doi:10.3399/bjgp12X658287, PMID 23211179. https://pmc.ncbi.nlm.nih.gov/articles/PMC3481516/'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Per summary: 1459 titles, 10 experimental studies (5 RCTs, 5 pre-post), little evidence NLP improves
+    health outcomes; authors say this reflects weak research, not proof of no effect.'
+  does_not_establish: Says nothing about leadership or coaching outcomes; health outcomes only.
+  category: established_empirical
+  marketing_safe_wording: A 2012 systematic review found little evidence for NLP in health outcomes.
+  cautions: Do not overstate as disproof; do not extend to leadership contexts.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-19
+  subject: British Army - Army Leadership Doctrine
+  claim: Military leadership doctrine as comparator
+  source_citation: 'British Army, Army Leadership Doctrine (2021), AC 72029. https://www.army.mod.uk/media/14177/21-07-267-army-leadership-doctrine-web.pdf
+    (listed; not opened). Centre for Army Leadership: https://www.army.mod.uk/support-and-training/our-schools-and-colleges/centre-for-army-leadership/army-leadership-publications'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Document exists, AC 72029, 2021; Army Leadership Code has seven behaviours (per summary).
+  does_not_establish: Document contents not read; no evidence it supports the founder's method.
+  category: established_empirical
+  marketing_safe_wording: Informed by publicly available British Army leadership doctrine (verify specific content
+    before citing).
+  cautions: Do not imply endorsement by the British Army or MoD. Do not use military insignia.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-20
+  subject: British Army - Land Operations and mission command
+  claim: Mission command as decentralised leadership principle
+  source_citation: ADP Land Operations (2022), AC 72202, per Centre for Army Leadership page https://www.army.mod.uk/support-and-training/our-schools-and-colleges/centre-for-army-leadership/centre-for-army-leadership-research-institute/cal-research-publications/mission-command-and-leadership-on-operations-since-1991
+    ; earlier 2010 ADP withdrawn (gov.uk https://www.gov.uk/government/publications/army-doctrine-publication-operations).
+    JDP 0-20 UK Land Power (2023).
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Mission command principles listed: responsibility, unity of command, freedom of action, trust, mutual
+    understanding, responsibility to act to achieve the superior commander''s intent.'
+  does_not_establish: Land Operations text not opened; exact mission command wording unverified.
+  category: established_empirical
+  marketing_safe_wording: Mission command is a long-standing military doctrine of commander's intent with decentralised
+    execution.
+  cautions: Edition numbers from a secondary source; confirm AC 72202 on gov.uk.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-21
+  subject: US Army ADP 6-0 (comparison)
+  claim: US mission command doctrine
+  source_citation: 'US Army, ADP 6-0, Mission Command: Command and Control of Army Forces, 31 July 2019. Unofficial
+    copy of earlier edition: https://irp.fas.org/doddir/army/adp6_0.pdf ; announcement https://www.army.mil/article/225414/'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Date 31 July 2019; supersedes 2012 ADP 6-0 and ADRP 6-0; reintroduces command and control as umbrella
+    term.
+  does_not_establish: Text not opened. Fas.org copy may be the 2012 edition.
+  category: established_empirical
+  marketing_safe_wording: Compare with US Army ADP 6-0 on mission command.
+  cautions: US public-domain doctrine, but do not imply endorsement.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-22
+  subject: Chakras - origins and Western adoption
+  claim: Chakra system as energy-body model
+  source_citation: 'Purnananda Yati, Sat-cakra-nirupana (c.1550/1577, dating uncertain) in Shri-tattva-cintamani;
+    Arthur Avalon (Sir John Woodroffe), The Serpent Power, Luzac, London, 1919 (per snippets; archive.org text exists:
+    https://archive.org/stream/x-the-serpent-power/x%20%20The%20serpent%20power_djvu.txt, not opened); C.W. Leadbeater,
+    The Chakras, 1927 (per Wikipedia snippet). https://en.wikipedia.org/wiki/Chakra'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Tantric textual origin and Woodroffe/Theosophical transmission.
+  does_not_establish: No physiological evidence found. Pop-culture 'seven colour chakras' scheme traces to Western
+    sources (Leadbeater), per general knowledge, not verified here.
+  category: spiritual
+  marketing_safe_wording: Chakras come from Indian tantric traditions and are used in contemplative practice as
+    a symbolic map.
+  cautions: Search found no peer-reviewed review; sources were blogs and weak pages. Never claim chakras are anatomical
+    or measurable.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-23
+  subject: '''Cosmic laws'' as spiritual doctrine'
+  claim: Claims that universal laws govern success
+  source_citation: 'No specific source identified. Candidate lineages: Kybalion (RB-24), New Thought, Theosophy.
+    Not researched further.'
+  access_status: NOT_ACCESSED
+  source_accessed_and_checked: false
+  supports: Nothing.
+  does_not_establish: 'Any scientific status; which ''laws'' the founder means: UNVERIFIED.'
+  category: spiritual
+  marketing_safe_wording: Describe as 'principles drawn from spiritual traditions', not laws of nature.
+  cautions: '''Law'' implies natural-law claims. Avoid conflating with physics laws.'
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-24
+  subject: The Kybalion (1908) and seven Hermetic principles
+  claim: Comparable lineage of 'universal principles'
+  source_citation: '''Three Initiates'', The Kybalion: A Study of the Hermetic Philosophy of Ancient Egypt and Greece,
+    Yogi Publication Society, Chicago, 1908. Authorship likely William Walker Atkinson (Horowitz: https://mitchhorowitz.substack.com/p/the-kybalion-without-tears
+    ; Wikipedia https://en.wikipedia.org/wiki/The_Kybalion); Paul Foster Case sometimes proposed.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: 'Seven principles: mentalism, correspondence, vibration, polarity, rhythm, cause and effect, gender.
+    Authorship uncertain but Atkinson most likely. Closer to New Thought than ancient Hermetica (Wikipedia).'
+  does_not_establish: Not an ancient text; no empirical support; full title is from memory/UNVERIFIED.
+  category: spiritual
+  marketing_safe_wording: The Kybalion (1908) is an early-20th-century esoteric text presenting seven 'Hermetic
+    principles'.
+  cautions: Do not claim ancient Egyptian origin.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-25
+  subject: '''The Blue Book'' - candidate identities'
+  claim: Founder references a 'Blue Book'; identity unknown
+  source_citation: 'No source resolves it. Search surfaced AA Big Book (1939) and The Urantia Book (a Urantia Fellowship
+    comparison page https://archive.urantiabook.org/archive/readers/BB-UB.htm; ''BB'' there means Big Book). Other
+    candidates not confirmed (Theosophical ''blue book'', UK military ''Blue Book'' etc.): all UNVERIFIED.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Only that AA's Big Book and Urantia are discussed together; neither is named 'The Blue Book' in results.
+  does_not_establish: Which book the founder means. Not asserted.
+  category: unsupported
+  marketing_safe_wording: Do not use until the founder identifies the work.
+  cautions: 'Ask the founder for title, author, year. Note: the AA Big Book is also sometimes called the ''Blue
+    Book'' in some circles - UNVERIFIED.'
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-26
+  subject: Dimensional Mastery
+  claim: Possible founder term
+  source_citation: 'No product titled exactly ''Dimensional Mastery'' found. Near matches: Alcyone Command Master
+    Class on Payhip (https://payhip.com/b/vz2Bf), Udemy ''9 Galactic Tools for Self Mastery on Earth'', Robert Greene''s
+    Mastery (uses ''Dimensional Mind''), Colorado SBDC ''Dimensions Leadership Program'' (2018).'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: No exact-title prior art found in one search.
+  does_not_establish: Absence from one search is not proof of originality; no trademark search.
+  category: founder_synthesis
+  marketing_safe_wording: Describe as Baz Porter's own framework.
+  cautions: Adjacent 'dimensional sovereignty' spiritual products exist; run a trademark search.
+  external_marketing_status: hold-until-citation-verified-against-original
+- id: RB-27
+  subject: Paradynamic / Power Dynamic Healing (and retired 'Paradigmatic Healing')
+  claim: Founder healing practice name
+  source_citation: 'No existing named practice found. Only generic hits: Zhi Gang Sha, Power Healing (HarperSanFrancisco,
+    ISBN 9780062517791/7807 per retailer snippets), ''Field Dynamics'', massage practitioner profile. ''Paradigmatic
+    Healing'' (retired repository term) was NOT searched.'
+  access_status: SEARCH_SNIPPET_ONLY
+  source_accessed_and_checked: false
+  supports: Nothing about a practice named 'Paradynamic Healing' or 'Power Dynamic Healing' in one search.
+  does_not_establish: No search for 'Paradigmatic Healing'; no trademark check. 'Paradynamic' could also be a mis-spelling;
+    original may be unsearchable.
+  category: founder_synthesis
+  marketing_safe_wording: Present as the founder's own named method; avoid health or healing outcome claims.
+  cautions: '''Healing'' terminology invites health-claim regulation (UK ASA/CAP, US FTC). Clarify the term with
+    founder.'
+  external_marketing_status: hold-until-citation-verified-against-original

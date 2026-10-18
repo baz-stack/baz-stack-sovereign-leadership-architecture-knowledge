@@ -1,0 +1,248 @@
+registry: founder-decisions
+version: 2026.10.16.1
+visibility: public
+generated: '2026-10-16'
+note: Decisions marked approved were given by the founder on 2026-10-16; nothing else is approved. Options, evidence
+  and recommendations are in the restricted register.
+decisions:
+- id: DEC-001
+  title: Repository visibility and handling of already-exposed material
+  gate: exposing-restricted-IP
+  status: approved-blocked-manual-step
+  decided_on: '2026-10-17'
+- id: DEC-002
+  title: Confirm RAMS has five pillars
+  gate: canon-meaning
+  status: approved
+  decided_on: '2026-10-16'
+- id: DEC-003
+  title: Lisa / Victoria / Oliver naming
+  gate: canon-meaning
+  status: approved
+  decided_on: '2026-10-16'
+- id: DEC-004
+  title: 'Entry door: Blueprint vs Silent Collapse Diagnostic'
+  gate: product-promise
+  status: approved-executed
+  decided_on: '2026-10-16'
+- id: DEC-005
+  title: The Becoming payment structure and continuation
+  gate: price-change
+  status: approved-by-precedence
+  decided_on: '2026-10-16'
+- id: DEC-006
+  title: Retire Coming Home T2/T3 as active offers
+  gate: retire-active-asset
+  status: approved
+  decided_on: '2026-10-16'
+- id: DEC-007
+  title: Gravity Code fee, immersion count, prerequisites
+  gate: price-change
+  status: approved
+  decided_on: '2026-10-16'
+- id: DEC-008
+  title: Single-session offer price
+  gate: price-change
+  status: approved-by-precedence
+  decided_on: '2026-10-16'
+- id: DEC-009
+  title: Implementation cohort and accelerator format
+  gate: product-promise
+  status: approved
+  decided_on: '2026-10-16'
+- id: DEC-010
+  title: A Million Dreams naming and inclusions
+  gate: product-promise
+  status: approved-by-precedence
+  decided_on: '2026-10-16'
+- id: DEC-011
+  title: Succession program specification and legal scope
+  gate: launch-status
+  status: approved-by-precedence
+  decided_on: '2026-10-16'
+- id: DEC-012
+  title: Which offers from the older three-lane architecture survive
+  gate: launch-status
+  status: approved-by-precedence
+  decided_on: '2026-10-16'
+- id: DEC-013
+  title: Retire superseded canon files (ICA.md, PRODUCT-ARCHITECTURE.md, OFFERS.md reconciliation)
+  gate: retire-active-asset
+  status: approved-executed
+  decided_on: '2026-10-16'
+- id: DEC-014
+  title: Approve rewording of scientific/quantum statements
+  gate: canon-meaning
+  status: approved-executed
+  decided_on: '2026-10-16'
+- id: DEC-015
+  title: Provide proof index and consents for credentials and testimonials
+  gate: publishing
+  status: partly-supplied
+- id: DEC-016
+  title: Trademark status review
+  gate: legal
+  status: answered-no-change
+  decided_on: '2026-10-17'
+- id: DEC-017
+  title: Pilot and institution design parameters
+  gate: launch-status
+  status: pending
+- id: DEC-018
+  title: Merge migration branch to main
+  gate: merge
+  status: approved-pr-open
+  decided_on: '2026-10-17'
+- id: DEC-019
+  title: Carry payment and delivery policies that existed only in the retired offers file into current canon?
+  gate: policy
+  status: approved-partly-executed
+  decided_on: '2026-10-16'
+- id: DEC-020
+  title: 'Sovereign Return Architecture: six-stage pathway within Sovereign Leadership Architecture (Option A)'
+  gate: canon-meaning
+  status: approved
+  decided_on: '2026-10-17'
+- id: DEC-021
+  title: 'Three Simple Steps: relationship to Trevor G. Blake''s 2012 book'
+  gate: attribution
+  status: answered-partly
+  decided_on: '2026-10-16'
+- id: DEC-022
+  title: 'Tony Robbins credentials: evidence and wording'
+  gate: publishing
+  status: approved-executed
+  decided_on: '2026-10-16'
+- id: DEC-023
+  title: Five Imposters names a Tony Robbins event as an example of an intervention that fails structurally
+  gate: positioning
+  status: approved-executed
+  decided_on: '2026-10-16'
+- id: DEC-024
+  title: Wording of "Two-time international bestselling author" given Vol. 12 is a co-authored volume
+  gate: publishing
+  status: approved-executed
+  decided_on: '2026-10-17'
+- id: DEC-025
+  title: Kevin Harrington named as a lead author of Vol. 12 in earlier canon
+  gate: attribution
+  status: approved-executed
+  decided_on: '2026-10-17'
+- id: DEC-026
+  title: 'Trademark identifiers: USPTO serial 97468218 in Drive SEO file versus Reg. No. 7,125,540 in the repo'
+  gate: legal
+  status: answered-no-change
+  decided_on: '2026-10-17'
+- id: DEC-027
+  title: Certificates versus stated counts
+  gate: publishing
+  status: approved-executed
+  decided_on: '2026-10-16'
+- id: DEC-028
+  title: RAMS wording in the Gate Home outline
+  gate: canon
+  status: approved
+  decided_on: '2026-10-16'
+- id: DEC-029
+  title: Twelve Core Patterns mapping
+  gate: ip-claim
+  status: pending
+- id: DEC-030
+  title: Naming lineage and retired material in the esoteric lane
+  gate: ip-claim
+  status: pending
+- id: DEC-031
+  title: Cosmic Laws wording and count
+  gate: ip-claim
+  status: pending
+- id: DEC-032
+  title: The Blue Book authorship
+  gate: ip-claim
+  status: pending
+- id: DEC-033
+  title: Gravity Code fee and delivery components
+  gate: price-change
+  status: approved
+  decided_on: '2026-10-16'
+- id: DEC-034
+  title: Legal documents
+  gate: legal
+  status: pending
+- id: DEC-035
+  title: Remove the Bronze/Silver/Gold/Platinum/Diamond/Quarterly tier tables and labels
+  gate: canon
+  status: approved-executed
+  decided_on: '2026-10-16'
+- id: DEC-036
+  title: Legacy Blueprint Intensive and extended Delphi clone training
+  gate: product-promise
+  status: approved-executed
+  decided_on: '2026-10-17'
+- id: DEC-037
+  title: Role of the Silent Collapse Diagnostic after the Blueprint
+  gate: product-promise
+  status: approved-executed
+  decided_on: '2026-10-16'
+- id: DEC-038
+  title: Testimonials on the Blueprint page
+  gate: client-proof
+  status: approved
+  decided_on: '2026-10-17'
+- id: DEC-039
+  title: Score routing from the Blueprint
+  gate: product-promise
+  status: answered-bands-exist
+  decided_on: '2026-10-17'
+- id: DEC-040
+  title: Counsel review of the Terms and Privacy Notice, and marks listed
+  gate: legal
+  status: approved-draft-prepared
+  decided_on: '2026-10-17'
+- id: DEC-041
+  title: Align the two agreement templates to current canon
+  gate: legal
+  status: approved-draft-prepared
+  decided_on: '2026-10-17'
+- id: DEC-042
+  title: 'Delphi clone: paused'
+  gate: product-promise
+  status: approved-executed
+  decided_on: '2026-10-17'
+- id: DEC-043
+  title: 'Sovereign Return: stage-to-offer mapping, evidence-of-completion criteria and Oliver Standard application'
+  gate: canon-meaning
+  status: pending
+- id: DEC-044
+  title: Two-repository architecture
+  gate: architecture
+  status: approved-partly-executed
+  decided_on: '2026-10-17'
+- id: DEC-045
+  title: 'History and branches: fresh public repository or history rewrite'
+  gate: destructive
+  status: approved
+  decided_on: '2026-10-17'
+- id: DEC-046
+  title: Confirm public-by-design files and the three held files
+  gate: canon
+  status: rules-approved-files-pending
+  decided_on: '2026-10-17'
+- id: DEC-047
+  title: Approve each of the 44 public-confirm files
+  gate: canon
+  status: dispositions-prepared-founder-approval-pending
+  decided_on: '2026-10-17'
+- id: DEC-048
+  title: CL-026 date reconciliation
+  gate: evidence
+  status: pending
+- id: DEC-049
+  title: Final name of the public knowledge repository
+  gate: naming
+  status: approved
+  decided_on: '2026-10-17'
+- id: DEC-050
+  title: Historical GitHub Wiki recovery
+  gate: evidence
+  status: blocked-external
+  decided_on: '2026-10-17'

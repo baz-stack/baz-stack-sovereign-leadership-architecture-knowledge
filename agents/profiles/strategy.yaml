@@ -1,0 +1,38 @@
+id: AGP-strategy
+role: strategy
+purpose: Strategic decisions, portfolio and positioning
+read_first:
+- path: canon/CANON_INDEX.md
+  store: public
+- path: registry/source-of-truth.yaml
+  store: public
+- path: restricted/canon/ROSETTA_STONE_v4.2.md
+  store: restricted
+- path: registry/decisions.yaml
+  store: public
+- path: registry/products.yaml
+  store: public
+read_on_demand:
+- registry/conflicts.yaml
+- registry/frameworks.yaml
+- operations/INSTITUTION_AND_OPERATIONS_STATUS.md
+never_use_as_current:
+- retired/
+- _holding/
+- canon/ICA.md
+- canon/PRODUCT-ARCHITECTURE.md
+- canon/OFFERS.md (for prices and entry door)
+governing_documents:
+- CAN-001
+- CAN-002
+- registry/source-of-truth.yaml
+external_tool_safe: false
+founder_approval_required: Any change to strategy, pricing, offers, launch status or canon meaning
+output_must_include:
+- document IDs and versions relied on
+- open conflict IDs touched
+- evidence class for each factual claim
+conflict_behaviour: flag discrepancy, do not choose
+status: current
+version: 2026.10.16.1
+visibility: public

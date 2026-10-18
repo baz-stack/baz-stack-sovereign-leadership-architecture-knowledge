@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sitemap.xml — Baz Porter LLC® · The Prestige Architect™
+  Canon-as-code. Deploys to https://bazporter.com/sitemap.xml
+  PUBLIC pages only. The private /institution/ tier is NEVER listed here.
+  Only pages confirmed public in the canon machine layer are included; no URL is invented.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bazporter.com/</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://bazporter.com/manifesto</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://bazporter.com/about-baz</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bazporter.com/strategic-call</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bazporter.com/revenue-architecture-system</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bazporter.com/a-million-dreams-community</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bazporter.com/client-success-stories</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bazporter.com/llms.txt</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://bazporter.com/baz-porter-txt</loc>
+    <lastmod>2026-07-31</lastmod>
+    <priority>0.6</priority>
+  </url>
+</urlset>

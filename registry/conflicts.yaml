@@ -1,0 +1,269 @@
+registry: conflicts
+version: 2026.10.16.1
+visibility: public
+generated: '2026-10-16'
+rule: Conflicts are recorded, never silently resolved. Detail and values are in the restricted register.
+conflicts:
+- id: CON-001
+  title: Protected material held outside the public repository
+  severity: P0
+  category: exposure
+  summary: Protected material is held in a separate private repository and referenced here by identifier and hash only.
+  decision: DEC-001
+  status: resolved
+- id: CON-002
+  title: RAMS composition - four-part versus five-pillar
+  severity: P0
+  category: canon
+  summary: Rosetta v4.2 lists the RAMS components with 'Attitude & Authenticity' joined; the founder instruction
+    of 2026-10-16, the live repo and the framework registry state five pillars (Results, Attitude, Authenticity,
+    Mastery, Systems).
+  decision: DEC-002
+  status: resolved
+- id: CON-003
+  title: Lisa / Victoria / Oliver archetype usage
+  severity: P0
+  category: canon
+  summary: Rosetta and the ICA define Lisa as the entry buyer and Victoria as the destination archetype. Live repo
+    files still use Victoria as the leader before (Victoria-to-Oliver Bridge) and Oliver as the after-state.
+  decision: DEC-003
+  status: resolved
+- id: CON-004
+  title: Entry door - Silent Collapse Diagnostic versus Fast Future Freedom Blueprint
+  severity: P0
+  category: product
+  summary: 'Resolved 2026-10-16: the Fast Future Freedom Blueprint is the entry door and the Silent Collapse Diagnostic
+    is retired. llms.txt and baz-porter.txt are still to be refreshed.'
+  decision: DEC-004
+  status: resolved
+- id: CON-005
+  title: The Becoming - payment structure and continuation
+  severity: P1
+  category: product
+  summary: Sources differ on how The Becoming is paid for, what happens after the initial term, and its delivery
+    cadence.
+  decision: DEC-005
+  status: resolved by precedence
+- id: CON-006
+  title: Coming Home - one offer versus three tiers
+  severity: P1
+  category: product
+  summary: Rosetta and the product spec describe one Coming Home offer and call higher tiers historical. The live
+    repo still publishes three tiers at three price points.
+  decision: DEC-006
+  status: resolved
+- id: CON-007
+  title: The Gravity Code - fee structure, delivery and prerequisites
+  severity: P0
+  category: product
+  summary: 'Fee structure (two products versus one product with payment options), delivery components and prerequisites
+    differ between the repo, Rosetta and the 16 Oct product spec. Reopened 2026-10-16: the founder''s 16 Oct portfolio
+    master records a rule that conflicts with Rosetta on prerequisites.'
+  decision: DEC-007
+  status: resolved
+- id: CON-008
+  title: Single-session offer price record
+  severity: P1
+  category: product
+  summary: The governing master and the product spec disagree on whether a price is confirmed.
+  decision: DEC-008
+  status: resolved by precedence
+- id: CON-009
+  title: Implementation cohort format
+  severity: P1
+  category: product
+  summary: Duration and format differ between the governing master and the product spec. Delivery assets are not
+    yet built; not launched.
+  decision: DEC-009
+  status: resolved
+- id: CON-010
+  title: Business Profit Accelerator - format and price record
+  severity: P2
+  category: product
+  summary: Format described variously as a weekend immersion, a three-day immersion and a 35-hour intensive; one
+    internal draft shows a different price figure.
+  decision: DEC-009
+  status: resolved by precedence
+- id: CON-011
+  title: A Million Dreams - name, inclusions and sibling course names
+  severity: P1
+  category: product
+  summary: Name variants (Community/Circle), what the membership includes, and the Manifestation course title differ
+    across sources.
+  decision: DEC-010
+  status: resolved by precedence
+- id: CON-012
+  title: Succession program naming, status and scope
+  severity: P1
+  category: product
+  summary: A rename and defined structure for a succession offer appear in the governing master; no product spec
+    or legal scope was supplied and the live repo shows a different name and curriculum size. Not launched.
+  decision: DEC-011
+  status: resolved by precedence
+- id: CON-013
+  title: Three-lane architecture and extra offers absent from Rosetta
+  severity: P1
+  category: product
+  summary: The live repo organises offers into three lanes and lists offers (e.g., an esoteric lane, a consulting
+    container, several courses) that do not appear in Rosetta v4.2, which states the progression is not one mandatory
+    ladder.
+  decision: DEC-012
+  status: resolved
+- id: CON-014
+  title: Stale canon files cite Rosetta v4.0 and retired offers
+  severity: P0
+  category: canon
+  summary: Several live canon files state Rosetta v4.0 as their source and describe superseded offers, entry doors
+    and ICA content. They conflict with Rosetta v4.2 and the 2026-10-14 ICA.
+  decision: DEC-013
+  status: resolved
+- id: CON-015
+  title: Scientific and quantum language in public framework files
+  severity: P0
+  category: claims
+  summary: Public files state quantum and neurological mechanisms as fact. Rosetta, the ICA and the product specs
+    prohibit implying that quantum physics proves outcomes. These statements need founder-approved rewording.
+  decision: DEC-014
+  status: resolved
+- id: CON-016
+  title: Credential, endorsement and proof claims need verification
+  severity: P1
+  category: claims
+  summary: Public files assert partnerships, endorsements, awards, audience sizes, spend totals and client outcomes.
+    Rosetta requires a claim-level proof index with consent before public use; none was supplied.
+  decision: DEC-015
+  status: partly addressed
+- id: CON-017
+  title: Trademark and registration language
+  severity: P1
+  category: legal
+  summary: Live files label many marks 'Trademarked' or 'Registered'. Rosetta and the handoff say symbols show claimed
+    branding, not verified registration.
+  decision: DEC-016
+  status: open
+- id: CON-018
+  title: Institution naming lineage and pilot
+  severity: P1
+  category: institution
+  summary: Institution and pilot naming in the governing master is not reflected in the live repo, which still refers
+    to an earlier institution label. Neither is launched.
+  decision: DEC-017
+  status: open
+- id: CON-019
+  title: Routing score band inconsistency
+  severity: P2
+  category: canon
+  summary: Advisory routing from the entry diagnostic sends one band to a business product although the diagnostic
+    is described as identity-focused; the product spec says completion never auto-routes. The founder-supplied page
+    describes a conversation with no score (DEC-039).
+  decision: DEC-004
+  status: open
+- id: CON-020
+  title: Unspecified catalog items
+  severity: P2
+  category: gap
+  summary: Several catalog items in Rosetta have no product specification in the handoff.
+  decision: DEC-012
+  status: open
+- id: CON-021
+  title: Policies present only in the retired offers file
+  severity: P1
+  category: policy
+  summary: The 2026-10-01 Terms state the three-month minimum, 30 days notice and no refunds; the signed agreement
+    templates state wire-only payment. The Terms themselves are silent on wire-only payment.
+  decision: DEC-019
+  status: mostly resolved
+- id: CON-022
+  title: RAMS wording differs inside the founder's own 16 Oct documents
+  severity: P1
+  category: canon
+  summary: The Gate Home outline prints the four-phrase form of RAMS (Results; Attitude & Authenticity; Mastery;
+    Systems) while the Green Room specification and DEC-002 use five pillars.
+  decision: DEC-028
+  status: resolved
+- id: CON-023
+  title: 'Twelve Core Patterns: playbook versus repo module structure'
+  severity: P1
+  category: ip
+  summary: A Drive playbook names twelve patterns; the repo has six modules of two. The mapping is unknown.
+  decision: DEC-029
+  status: open
+- id: CON-024
+  title: 'Naming lineage: Paradynamic, Paradigmatic, Dimensional Mastery, Master Ascension'
+  severity: P1
+  category: ip
+  summary: Several names for related esoteric-lane material exist across the repo and the Drive; one reconciled
+    lineage is needed.
+  decision: DEC-030
+  status: open
+- id: CON-025
+  title: 'Cosmic Laws: count, duplicates and wording provenance'
+  severity: P2
+  category: ip
+  summary: The repo says 74 laws; the deck reconciles to 74 only as 71 slides with one slide holding four laws,
+    includes duplicates, and its wording provenance is unconfirmed.
+  decision: DEC-031
+  status: open
+- id: CON-026
+  title: 'The Blue Book: author and rights unidentified'
+  severity: P1
+  category: ip
+  summary: A long teaching text is stored in the founder Drive under this name; its author is not named in the files
+    read.
+  decision: DEC-032
+  status: open
+- id: CON-027
+  title: Live site search snippets show retired tier naming and inconsistent RAMS wording
+  severity: P1
+  category: web
+  summary: Search-engine snippets of the live site (not page readback, so unverified) suggest the FAQ page still
+    uses a retired tier name for the Gravity Code and that RAMS is expanded inconsistently across pages. The site
+    pages could not be fetched from this environment.
+  decision: DEC-004
+  status: open
+- id: CON-028
+  title: 'Terms and Privacy Notice: internal consistency points for counsel'
+  severity: P1
+  category: policy
+  summary: The Terms and Privacy Notice dated 2026-10-01 have points that need counsel review; see DEC-040.
+  decision: DEC-040
+  status: open
+- id: CON-029
+  title: The Becoming agreement template differs from the operative Becoming terms
+  severity: P0
+  category: product
+  summary: The Becoming agreement template differs from the operative terms (founder confirmed the operative terms
+    2026-10-17); counsel to correct the template (DEC-041).
+  decision: DEC-041
+  status: open
+- id: CON-030
+  title: Coming Home agreement template uses a retired variant name and labels
+  severity: P1
+  category: product
+  summary: The Coming Home agreement template is titled with a retired variant name and uses a retired tier label.
+  decision: DEC-041
+  status: open
+- id: CON-031
+  title: Agreement templates and Terms still reference the retired Silent Collapse Diagnostic
+  severity: P1
+  category: legal
+  summary: The Becoming agreement template makes the retired Silent Collapse Diagnostic the admission gate and lists
+    the retired mark.
+  decision: DEC-040
+  status: open
+- id: CON-032
+  title: 'Becoming template: accreditation credit and institution wording'
+  severity: P1
+  category: claims
+  summary: The Becoming agreement template refers to accreditation credit toward a forthcoming certification pathway
+    at a named training centre, which the institution records do not define.
+  decision: DEC-041
+  status: open
+- id: CON-033
+  title: Stage names differ between the Sovereign Return framework and the Coming Home agreement
+  severity: P2
+  category: canon
+  summary: The Coming Home agreement template describes three stages with different names from the six Sovereign
+    Return stages.
+  decision: DEC-020
+  status: open

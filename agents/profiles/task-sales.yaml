@@ -1,0 +1,9 @@
+id: AGT-sales
+task: Sales conversations and routing
+uses_profile: prospecting
+extra_rules:
+- Audits are qualification, not disguised closing; no discounting, pressure or false scarcity (Rosetta s11, s15)
+- Routing from a score is advisory only
+status: current
+version: 2026.10.16.1
+visibility: public

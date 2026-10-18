@@ -1,0 +1,9 @@
+id: AGT-analytics
+task: Funnel and attribution reporting
+uses_profile: operations
+extra_rules:
+- Email opens are not evidence of intent
+- Inherited benchmarks are assumptions, not actuals
+status: current
+version: 2026.10.16.1
+visibility: public

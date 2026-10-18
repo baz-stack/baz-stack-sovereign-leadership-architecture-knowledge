@@ -1,0 +1,9 @@
+id: AGT-copywriting
+task: Draft copy for review
+uses_profile: ica-messaging
+extra_rules:
+- Start from approved wording in CAN-001/CAN-002; mark paraphrase; every value proposition is a draft until founder-approved
+- Gender-neutral outward copy
+status: current
+version: 2026.10.16.1
+visibility: public

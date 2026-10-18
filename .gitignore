@@ -1,0 +1,4 @@
+INTERNAL-CANON.md
+restricted/
+__pycache__/
+*.pyc

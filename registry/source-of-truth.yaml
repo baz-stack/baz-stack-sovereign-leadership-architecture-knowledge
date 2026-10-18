@@ -1,0 +1,244 @@
+registry: source-of-truth
+version: 2026.10.16.1
+generated: '2026-10-16'
+visibility: public
+authority_order:
+- 1. Founder-approved decisions and corrections (explicit, dated)
+- 2. Rosetta Stone v4.2 (CAN-001)
+- 3. Lisa Miles Full ICA 2026-10-14 (CAN-002) - separate document, never merged with Rosetta
+- 4. Current product/course specifications 2026-10-16 (SRC-PRD-*)
+- 5. Latest framework/IP and institution working architecture (HND-*)
+- 6. Existing GitHub material (LEG-*) - historical evidence
+- 7. External research (research/ledger.yaml) - classified, never promoted to fact without verification
+conflict_rule: Record the conflict in registry/conflicts.yaml, hold for founder approval, never choose silently.
+base_commit: 358a85777ca7a5ed47fc5115b379791f4b08c35a
+documents:
+- id: CAN-001
+  title: Rosetta Stone v4.2 (governing business master)
+  level: 1
+  version: '4.2'
+  status: governing-qualified
+  visibility: restricted
+  location: restricted/canon/ROSETTA_STONE_v4.2.md (founder-controlled; original DOCX in handoff zip)
+  sha256: a664a72c541fd6a9b0b58920489482a8c6965cec06a78eceab253a43c8bea6de
+  notes: Version identity preserved; not renamed, not merged with the ICA. Document states whole-document ratification pending.
+- id: CAN-002
+  title: Lisa Miles Full Ideal Client Architecture 2026-10-14
+  level: 1
+  version: '2026-10-14'
+  status: governing-buyer-master-ratification-pending
+  visibility: restricted
+  location: restricted/canon/LISA_MILES_ICA_2026-10-14.md
+  sha256: 77b7373a51e4aad8c94615f245feb16ddf638e598ceb2d6cd4bf3078e7dbde16
+  notes: Separate from Rosetta by design.
+- id: SRC-PRD-001
+  title: 'Product specification: Fast Future Freedom Blueprint'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/01_Fast_Future_Freedom_Blueprint.docx
+  sha256: a1a8b3f7a571dacdfa26575dc32aa697c29e48708e6be02015a15548ccaec226
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: SRC-PRD-002
+  title: 'Product specification: A Million Dreams Circle'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/02_A_Million_Dreams_Circle.docx
+  sha256: f6e845020195a5845a93e415a00751a2723b46588616e650d772ed2ef7f3a00d
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: SRC-PRD-003
+  title: 'Product specification: The Reclamation Code'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/03_The_Reclamation_Code.docx
+  sha256: be89cbed843c7c3e8f100fddd93e0e172ea30e6044f1565ffc0984e1462bd316
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: SRC-PRD-004
+  title: 'Product specification: Manifestation That Finally Works'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/04_Manifestation_That_Finally_Works.docx
+  sha256: c09d178d831ea6c94fe0f3fa4d01843b4ac9a7f59d392977822d54e79fb646ab
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: SRC-PRD-005
+  title: 'Product specification: The Sovereign Session'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/05_The_Sovereign_Session.docx
+  sha256: b27f058a5c1f38467df01c4018c18ff8446e34650848b0dc642784cd325c755b
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: SRC-PRD-006
+  title: 'Product specification: The Becoming'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/06_The_Becoming.docx
+  sha256: 495a9c352472a4e34b34d0f4530c644f4db3a22ab8e766fcdb5dbc21d9bc9354
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: SRC-PRD-007
+  title: 'Product specification: Coming Home'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/07_Coming_Home.docx
+  sha256: 916a43ad67800179a88934c337bd5fb0e2d0a30e8f484d96a9ab293d9bf835b9
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: SRC-PRD-008
+  title: 'Product specification: Revenue Architecture System'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/08_Revenue_Architecture_System.docx
+  sha256: 675179c5dbc10c2b9c9bbf6a8fabc585980d7fd78219c2471ccf7009914c1feb
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: SRC-PRD-009
+  title: 'Product specification: RAMS Business Profit Accelerator'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/09_RAMS_Business_Profit_Accelerator.docx
+  sha256: dd95df33046b379ce3d4e3e36ad8c71a1f189f5bbb391692477e39556b5ad0b3
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: SRC-PRD-010
+  title: 'Product specification: Revenue Owner Sprint'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/10_Revenue_Owner_Sprint.docx
+  sha256: af2474dc65807b51388c1a03d3f925ea79b84efcc31f53a1bfc908e2e4d80b80
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: SRC-PRD-011
+  title: 'Product specification: The Gravity Code'
+  level: 1
+  version: '2026-10-16'
+  status: current-spec-not-ratified
+  visibility: restricted
+  location: restricted/sources/02_PRODUCTS_AND_COURSES/11_The_Gravity_Code.docx
+  sha256: 90c8d0d3bb3a89dc612f3cea21314cebe706c146ec4e3df75103bb6e6769c397
+  notes: Below Rosetta in precedence until founder ratifies; spec-internal precedence claims do not override Rosetta.
+- id: HND-001
+  title: Handoff framework registry (candidate inventory)
+  level: 2
+  version: '2026-10-16'
+  status: candidate-inventory
+  visibility: restricted-staging
+  location: restricted/sources/03_IP_AND_FRAMEWORKS/FRAMEWORK_REGISTRY.md
+  sha256: da59d7c3df84e6cdc759c586a29736ae4d132f29dd6b56ed9585b4d96dbd16a3
+- id: HND-002
+  title: Handoff research worklist
+  level: 2
+  version: '2026-10-16'
+  status: worklist
+  visibility: restricted-staging
+  location: restricted/sources/04_RESEARCH_AND_PROVENANCE/RESEARCH_LEDGER.md
+  sha256: 9676974f1f309abf8fb80c73b9067b3a31783f0311de53c619319bf9979738cc
+- id: HND-003
+  title: Handoff institution map
+  level: 2
+  version: '2026-10-16'
+  status: current-working-architecture
+  visibility: restricted-staging
+  location: restricted/sources/05_INSTITUTION/INSTITUTION_MAP.md
+  sha256: 28f82cff5ad7772e38d72adc53ff0887d1986817b85ca685ca42b1cc14463077
+- id: HND-004
+  title: Handoff retrieval policy
+  level: 2
+  version: '2026-10-16'
+  status: process-input
+  visibility: restricted-staging
+  location: restricted/sources/06_AI_GOVERNANCE/AGENT_ROUTING.md
+  sha256: 47209902aa28c19064ba7f4070056f47ddcf84f750aab434d0b5edb08a4b30f6
+- id: HND-005
+  title: Handoff master execution directive
+  level: 2
+  version: '2026-10-16'
+  status: process-input
+  visibility: restricted-staging
+  location: restricted/sources/06_AI_GOVERNANCE/CLAUDE_MASTER_EXECUTION.md
+  sha256: 038368fd98c88fcdb9dfee4f12b542632fe8cb6ee46a2a9d9af4bb4f3ff9a7ce
+- id: HND-006
+  title: Handoff campaign and funnel brief
+  level: 2
+  version: '2026-10-16'
+  status: not-approved-live-copy
+  visibility: restricted-staging
+  location: restricted/sources/07_CAMPAIGNS/COPY_AND_FUNNEL_BRIEF.md
+  sha256: de6a09f27d6359f3dc0a429ad51e11e33ca32153c24d140b35520cc520a6bb3c
+- id: LEG-001
+  title: 'Existing repository: canon/ICA.md'
+  level: 3
+  version: as of base commit 358a857
+  status: retired-tombstone
+  visibility: public (repo is public)
+  location: canon/ICA.md
+  notes: Historical evidence; never silently overrides canon.
+- id: LEG-002
+  title: 'Existing repository: canon/PRODUCT-ARCHITECTURE.md'
+  level: 3
+  version: as of base commit 358a857
+  status: retired-tombstone
+  visibility: public (repo is public)
+  location: canon/PRODUCT-ARCHITECTURE.md
+  notes: Historical evidence; never silently overrides canon.
+- id: LEG-003
+  title: 'Existing repository: canon/OFFERS.md'
+  level: 3
+  version: as of base commit 358a857
+  status: retired-tombstone
+  visibility: public (repo is public)
+  location: canon/OFFERS.md
+  notes: Historical evidence; never silently overrides canon.
+- id: LEG-004
+  title: 'Existing repository: canon/FRAMEWORKS.md'
+  level: 3
+  version: as of base commit 358a857
+  status: legacy-canon-under-review
+  visibility: public (repo is public)
+  location: canon/FRAMEWORKS.md
+  notes: Historical evidence; never silently overrides canon.
+- id: LEG-005
+  title: 'Existing repository: canon/IP-REGISTRY.md'
+  level: 3
+  version: as of base commit 358a857
+  status: legacy-canon-under-review
+  visibility: public (repo is public)
+  location: canon/IP-REGISTRY.md
+  notes: Historical evidence; never silently overrides canon.
+- id: LEG-006
+  title: 'Existing repository: frameworks/*.md'
+  level: 3
+  version: as of base commit 358a857
+  status: legacy-definition-reworded-2026-10-16-founder-read-pending
+  visibility: public (repo is public)
+  location: frameworks/*.md
+  notes: Historical evidence; never silently overrides canon.
+- id: LEG-007
+  title: Protected institution material
+  level: 3
+  version: as of base commit 358a857
+  status: held-in-private-repository
+  visibility: private repository
+  location: private repository
+  notes: Historical evidence; never silently overrides canon.
+- id: LEG-008
+  title: 'Existing repository: llms.txt, baz-porter.txt, identity/, glossary/, faq/, citations/'
+  level: 3
+  version: as of base commit 358a857
+  status: public-layer-stale-offer-language
+  visibility: public (repo is public)
+  location: llms.txt, baz-porter.txt, identity/, glossary/, faq/, citations/
+  notes: Historical evidence; never silently overrides canon.

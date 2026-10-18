@@ -1,0 +1,1302 @@
+{
+  "manifest": "agent-retrieval",
+  "version": "2026.10.16.1",
+  "generated": "2026-10-16",
+  "start": [
+    "KNOWLEDGE_INDEX.md",
+    "agents/RETRIEVAL_POLICY.md"
+  ],
+  "rules": {
+    "load_whole_repo": false,
+    "writes": "founder approval required",
+    "on_conflict": "flag, do not choose",
+    "external_tools": "export-safe packet only"
+  },
+  "deny_as_current_truth": [
+    "_holding/baz-porter-txt-md-superseded.md",
+    "_holding/baz-porter-txt-v1.1.md",
+    "_holding/llms-txt-v3.1.md",
+    "canon/ICA.md",
+    "canon/OFFERS.md",
+    "canon/PRODUCT-ARCHITECTURE.md",
+    "institution/README.md",
+    "institution/VISION.md",
+    "institution/curriculum-private/rams-accelerator.md",
+    "institution/curriculum-private/rams-curriculum-volume-one.md",
+    "institution/curriculum-private/rams-master.md",
+    "institution/curriculum-private/rams-operational-ethos.md",
+    "institution/curriculum-private/the-thesis-of-rams.md",
+    "institution/curriculum-private/trademarks.md",
+    "institution/research/RESEARCH-PLAN.md",
+    "retired/",
+    "retired/canon/ICA.md",
+    "retired/canon/OFFERS.md",
+    "retired/canon/PRODUCT-ARCHITECTURE.md"
+  ],
+  "profiles": {
+    "ica-messaging": {
+      "read_first": [
+        "canon/CANON_INDEX.md",
+        "restricted/canon/LISA_MILES_ICA_2026-10-14.md",
+        "restricted/canon/ROSETTA_STONE_v4.2.md",
+        "research/README.md"
+      ],
+      "read_on_demand": [
+        "registry/products.yaml",
+        "canon/VOICE.md",
+        "registry/conflicts.yaml"
+      ],
+      "uses_profile": null,
+      "external_tool_safe": false,
+      "export_safe_documents": [],
+      "profile_file": "agents/profiles/ica-messaging.yaml"
+    },
+    "operations": {
+      "read_first": [
+        "operations/INSTITUTION_AND_OPERATIONS_STATUS.md",
+        "restricted/institution/OPERATIONS.md",
+        "operations/POLICIES_STATUS.md",
+        "registry/products.yaml"
+      ],
+      "read_on_demand": [
+        "restricted/institution/GREEN_ROOM.md",
+        "restricted/institution/GATE_HOME.md",
+        "restricted/institution/WITHOUT_YOU.md",
+        "restricted/campaigns/GHL_CONFIG.md"
+      ],
+      "uses_profile": null,
+      "external_tool_safe": false,
+      "export_safe_documents": [],
+      "profile_file": "agents/profiles/operations.yaml"
+    },
+    "product-architect": {
+      "read_first": [
+        "registry/products.yaml",
+        "restricted/registry/products-full.yaml",
+        "registry/conflicts.yaml",
+        "restricted/canon/ROSETTA_STONE_v4.2.md"
+      ],
+      "read_on_demand": [
+        "products/<PRD-id>.md",
+        "restricted/products/<PRD-id>.md",
+        "operations/INSTITUTION_AND_OPERATIONS_STATUS.md"
+      ],
+      "uses_profile": null,
+      "external_tool_safe": false,
+      "export_safe_documents": [],
+      "profile_file": "agents/profiles/product-architect.yaml"
+    },
+    "prospecting": {
+      "read_first": [
+        "restricted/campaigns/PROSPECTING_EXPORT_PACKET.md",
+        "restricted/campaigns/HARVEY_SPEC.md",
+        "restricted/campaigns/SAFEGUARDS.md"
+      ],
+      "read_on_demand": [
+        "registry/products.yaml"
+      ],
+      "uses_profile": null,
+      "external_tool_safe": true,
+      "export_safe_documents": [
+        "restricted/campaigns/PROSPECTING_EXPORT_PACKET.md"
+      ],
+      "profile_file": "agents/profiles/prospecting.yaml"
+    },
+    "research": {
+      "read_first": [
+        "research/README.md",
+        "research/ledger.yaml",
+        "registry/frameworks.yaml",
+        "restricted/research/claims-audit.yaml"
+      ],
+      "read_on_demand": [
+        "ip/records/<FW-id>.md",
+        "frameworks/<name>.md"
+      ],
+      "uses_profile": null,
+      "external_tool_safe": false,
+      "export_safe_documents": [],
+      "profile_file": "agents/profiles/research.yaml"
+    },
+    "strategy": {
+      "read_first": [
+        "canon/CANON_INDEX.md",
+        "registry/source-of-truth.yaml",
+        "restricted/canon/ROSETTA_STONE_v4.2.md",
+        "registry/decisions.yaml",
+        "registry/products.yaml"
+      ],
+      "read_on_demand": [
+        "registry/conflicts.yaml",
+        "registry/frameworks.yaml",
+        "operations/INSTITUTION_AND_OPERATIONS_STATUS.md"
+      ],
+      "uses_profile": null,
+      "external_tool_safe": false,
+      "export_safe_documents": [],
+      "profile_file": "agents/profiles/strategy.yaml"
+    },
+    "task-analytics": {
+      "read_first": [],
+      "read_on_demand": [],
+      "uses_profile": "operations",
+      "external_tool_safe": false,
+      "export_safe_documents": [],
+      "profile_file": "agents/profiles/task-analytics.yaml"
+    },
+    "task-copywriting": {
+      "read_first": [],
+      "read_on_demand": [],
+      "uses_profile": "ica-messaging",
+      "external_tool_safe": false,
+      "export_safe_documents": [],
+      "profile_file": "agents/profiles/task-copywriting.yaml"
+    },
+    "task-ip-review": {
+      "read_first": [],
+      "read_on_demand": [],
+      "uses_profile": "research",
+      "external_tool_safe": false,
+      "export_safe_documents": [],
+      "profile_file": "agents/profiles/task-ip-review.yaml"
+    },
+    "task-publishing": {
+      "read_first": [],
+      "read_on_demand": [],
+      "uses_profile": "ica-messaging",
+      "external_tool_safe": false,
+      "export_safe_documents": [],
+      "profile_file": "agents/profiles/task-publishing.yaml"
+    },
+    "task-sales": {
+      "read_first": [],
+      "read_on_demand": [],
+      "uses_profile": "prospecting",
+      "external_tool_safe": false,
+      "export_safe_documents": [],
+      "profile_file": "agents/profiles/task-sales.yaml"
+    }
+  },
+  "documents": [
+    {
+      "path": ".gitignore",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "CHANGELOG.md",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "CITATION.cff",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "CODEOWNERS",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "FOOTER.md",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "GOVERNANCE.md",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "LICENSE.md",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "README.md",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "_holding/baz-porter-txt-md-superseded.md",
+      "status": "archive",
+      "retrieval": "deny",
+      "tier": "historical",
+      "note": "Superseded machine files."
+    },
+    {
+      "path": "_holding/baz-porter-txt-v1.1.md",
+      "status": "archive",
+      "retrieval": "deny",
+      "tier": "historical",
+      "note": "Superseded machine files."
+    },
+    {
+      "path": "_holding/llms-txt-v3.1.md",
+      "status": "archive",
+      "retrieval": "deny",
+      "tier": "historical",
+      "note": "Superseded machine files."
+    },
+    {
+      "path": "baz-porter.txt",
+      "status": "public-machine-layer-stale-offer-language",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Credential claims unverified CON-016."
+    },
+    {
+      "path": "canon/AFFILIATE.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Public brand/credibility text; claims unverified CON-016."
+    },
+    {
+      "path": "canon/BOOKS.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Public brand/credibility text; claims unverified CON-016."
+    },
+    {
+      "path": "canon/CATEGORY.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Public brand/credibility text; claims unverified CON-016."
+    },
+    {
+      "path": "canon/CREDIBILITY.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Public brand/credibility text; claims unverified CON-016."
+    },
+    {
+      "path": "canon/DISCOVERY-LAYER.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Public brand/credibility text; claims unverified CON-016."
+    },
+    {
+      "path": "canon/FRAMEWORKS.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Definitions usable; offer tables stale; scientific wording CON-015."
+    },
+    {
+      "path": "canon/ICA.md",
+      "status": "retired-tombstone",
+      "retrieval": "deny",
+      "tier": "historical",
+      "note": "Retired 2026-10-16 (DEC-013); preserved in retired/canon/ICA.md. Replaced by the 2026-10-14 ICA (restricted)."
+    },
+    {
+      "path": "retired/canon/ICA.md",
+      "status": "retired",
+      "retrieval": "deny",
+      "tier": "historical",
+      "note": "retired copy"
+    },
+    {
+      "path": "canon/IP-REGISTRY.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Mark registry; trademark status unverified CON-017."
+    },
+    {
+      "path": "canon/MANIFESTO.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Public brand/credibility text; claims unverified CON-016."
+    },
+    {
+      "path": "canon/METHODOLOGY.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Public brand/credibility text; claims unverified CON-016."
+    },
+    {
+      "path": "canon/OFFERS.md",
+      "status": "retired-tombstone",
+      "retrieval": "deny",
+      "tier": "historical",
+      "note": "Retired 2026-10-16 (DEC-013); preserved in retired/canon/OFFERS.md. Policy items present only here: CON-021."
+    },
+    {
+      "path": "retired/canon/OFFERS.md",
+      "status": "retired",
+      "retrieval": "deny",
+      "tier": "historical",
+      "note": "retired copy"
+    },
+    {
+      "path": "canon/PRODUCT-ARCHITECTURE.md",
+      "status": "retired-tombstone",
+      "retrieval": "deny",
+      "tier": "historical",
+      "note": "Retired 2026-10-16 (DEC-013); preserved in retired/canon/PRODUCT-ARCHITECTURE.md."
+    },
+    {
+      "path": "retired/canon/PRODUCT-ARCHITECTURE.md",
+      "status": "retired",
+      "retrieval": "deny",
+      "tier": "historical",
+      "note": "retired copy"
+    },
+    {
+      "path": "canon/PROFILE.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Public brand/credibility text; claims unverified CON-016."
+    },
+    {
+      "path": "canon/RETIRED.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "history-only",
+      "tier": "historical",
+      "note": "Useful retirement log; contains stale prices."
+    },
+    {
+      "path": "canon/STORY.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Public brand/credibility text; claims unverified CON-016."
+    },
+    {
+      "path": "canon/TRADEMARKS.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "CON-017."
+    },
+    {
+      "path": "canon/VOICE.md",
+      "status": "legacy-canon-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Public brand/credibility text; claims unverified CON-016."
+    },
+    {
+      "path": "citations/chronological-citation.md",
+      "status": "public-citations",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "citations/chronological-index.md",
+      "status": "public-citations",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "faq/faq.md",
+      "status": "public-faq",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "frameworks/brand-narrative.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/coming-home.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/five-imposters.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/rams.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/silent-collapse-diagnostic.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/silent-collapse.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/six-drives.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/sovereign-ai-charter.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/sovereign-leadership-architecture.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/sovereign-leadership.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/sovereign-nervous-system-protocol.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/sovereign-operating-system.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/sovereign-return-architecture.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/the-becoming.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/the-gravity-code.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/the-oliver-standard.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "frameworks/the-reclamation-code.md",
+      "status": "legacy-definition-under-review",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Best available public definition text; offer/pricing sections stale; see ip/records for status."
+    },
+    {
+      "path": "glossary/glossary-and-terms.md",
+      "status": "public-glossary",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Align to Rosetta after decisions."
+    },
+    {
+      "path": "identity/authority-sources.md",
+      "status": "public-identity-layer",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Credential claims unverified CON-016."
+    },
+    {
+      "path": "identity/entity-and-founder.md",
+      "status": "public-identity-layer",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Credential claims unverified CON-016."
+    },
+    {
+      "path": "identity/schema-jsonld.md",
+      "status": "public-identity-layer",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Credential claims unverified CON-016."
+    },
+    {
+      "path": "institution/README.md",
+      "status": "restricted-content-publicly-exposed",
+      "retrieval": "deny-public-agents",
+      "tier": "historical",
+      "note": "Labelled private but repo is public. CON-001 / EXP-001."
+    },
+    {
+      "path": "institution/VISION.md",
+      "status": "restricted-content-publicly-exposed",
+      "retrieval": "deny-public-agents",
+      "tier": "historical",
+      "note": "Labelled private but repo is public. CON-001 / EXP-001."
+    },
+    {
+      "path": "institution/curriculum-private/rams-accelerator.md",
+      "status": "restricted-content-publicly-exposed",
+      "retrieval": "deny-public-agents",
+      "tier": "historical",
+      "note": "Labelled private but repo is public. CON-001 / EXP-001."
+    },
+    {
+      "path": "institution/curriculum-private/rams-curriculum-volume-one.md",
+      "status": "restricted-content-publicly-exposed",
+      "retrieval": "deny-public-agents",
+      "tier": "historical",
+      "note": "Labelled private but repo is public. CON-001 / EXP-001."
+    },
+    {
+      "path": "institution/curriculum-private/rams-master.md",
+      "status": "restricted-content-publicly-exposed",
+      "retrieval": "deny-public-agents",
+      "tier": "historical",
+      "note": "Labelled private but repo is public. CON-001 / EXP-001."
+    },
+    {
+      "path": "institution/curriculum-private/rams-operational-ethos.md",
+      "status": "restricted-content-publicly-exposed",
+      "retrieval": "deny-public-agents",
+      "tier": "historical",
+      "note": "Labelled private but repo is public. CON-001 / EXP-001."
+    },
+    {
+      "path": "institution/curriculum-private/the-thesis-of-rams.md",
+      "status": "restricted-content-publicly-exposed",
+      "retrieval": "deny-public-agents",
+      "tier": "historical",
+      "note": "Labelled private but repo is public. CON-001 / EXP-001."
+    },
+    {
+      "path": "institution/curriculum-private/trademarks.md",
+      "status": "restricted-content-publicly-exposed",
+      "retrieval": "deny-public-agents",
+      "tier": "historical",
+      "note": "Labelled private but repo is public. CON-001 / EXP-001."
+    },
+    {
+      "path": "institution/research/RESEARCH-PLAN.md",
+      "status": "restricted-content-publicly-exposed",
+      "retrieval": "deny-public-agents",
+      "tier": "historical",
+      "note": "Labelled private but repo is public. CON-001 / EXP-001."
+    },
+    {
+      "path": "llms.txt",
+      "status": "public-machine-layer-stale-offer-language",
+      "retrieval": "allow-with-caveat",
+      "tier": "historical",
+      "note": "Machine anchor; offer language predates Rosetta v4.2."
+    },
+    {
+      "path": "robots.txt",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "sitemap.xml",
+      "status": "retained-governance-or-machine-file",
+      "retrieval": "allow",
+      "tier": "historical",
+      "note": ""
+    },
+    {
+      "path": "KNOWLEDGE_INDEX.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 0,
+      "approx_bytes": 4615
+    },
+    {
+      "path": "CLAUDE.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 0,
+      "approx_bytes": 936
+    },
+    {
+      "path": "canon/CANON_INDEX.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 0,
+      "approx_bytes": 3517
+    },
+    {
+      "path": "retired/README.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1047
+    },
+    {
+      "path": "retired/MANIFEST.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 19715
+    },
+    {
+      "path": "registry/README.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 721
+    },
+    {
+      "path": "registry/conflicts.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 11186
+    },
+    {
+      "path": "registry/decisions.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 7448
+    },
+    {
+      "path": "registry/frameworks.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 6509
+    },
+    {
+      "path": "registry/products.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 9091
+    },
+    {
+      "path": "registry/public-claims.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 7521
+    },
+    {
+      "path": "registry/publications.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 1594
+    },
+    {
+      "path": "registry/restricted-manifest.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 1729
+    },
+    {
+      "path": "registry/source-of-truth.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 10692
+    },
+    {
+      "path": "products/PRD-001-fast-future-freedom-blueprint.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1161
+    },
+    {
+      "path": "products/PRD-002-a-million-dreams-community.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 943
+    },
+    {
+      "path": "products/PRD-003-the-reclamation-code.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 959
+    },
+    {
+      "path": "products/PRD-004-manifestation-that-finally-works.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 954
+    },
+    {
+      "path": "products/PRD-005-the-sovereign-session.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1007
+    },
+    {
+      "path": "products/PRD-006-the-becoming.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1100
+    },
+    {
+      "path": "products/PRD-007-coming-home.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1042
+    },
+    {
+      "path": "products/PRD-008-revenue-architecture-system-ras.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 981
+    },
+    {
+      "path": "products/PRD-009-rams-business-profit-accelerator-bpa.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 976
+    },
+    {
+      "path": "products/PRD-010-revenue-owner-sprint.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1117
+    },
+    {
+      "path": "products/PRD-011-the-gravity-code.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1077
+    },
+    {
+      "path": "products/PRD-012-the-without-you-formerly-horizon-leaders.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1016
+    },
+    {
+      "path": "products/PRD-013-the-green-room.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1226
+    },
+    {
+      "path": "products/PRD-014-the-gate-home.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1157
+    },
+    {
+      "path": "products/README.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 2951
+    },
+    {
+      "path": "ip/README.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 3993
+    },
+    {
+      "path": "ip/records/FW-001-sovereign-leadership-architecture.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1300
+    },
+    {
+      "path": "ip/records/FW-002-rams.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1310
+    },
+    {
+      "path": "ip/records/FW-003-silent-collapse.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1392
+    },
+    {
+      "path": "ip/records/FW-004-sovereign-leadership.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 855
+    },
+    {
+      "path": "ip/records/FW-005-the-five-imposters.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1240
+    },
+    {
+      "path": "ip/records/FW-006-the-six-drives-of-human-intelligence.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1135
+    },
+    {
+      "path": "ip/records/FW-007-twelve-core-patterns.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1819
+    },
+    {
+      "path": "ip/records/FW-008-sovereign-return-architecture.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1494
+    },
+    {
+      "path": "ip/records/FW-009-sovereign-nervous-system-protocol.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1313
+    },
+    {
+      "path": "ip/records/FW-010-sovereign-operating-system.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1171
+    },
+    {
+      "path": "ip/records/FW-011-the-oliver-standard.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1193
+    },
+    {
+      "path": "ip/records/FW-014-four-worth-distortion-patterns.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 826
+    },
+    {
+      "path": "ip/records/FW-015-sovereign-ai-charter.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1184
+    },
+    {
+      "path": "ip/records/FW-016-silent-collapse-diagnostic.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 901
+    },
+    {
+      "path": "ip/records/FW-017-guru-syndrome.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 724
+    },
+    {
+      "path": "ip/records/FW-018-congruence-gate-congruence-certification-standar.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1121
+    },
+    {
+      "path": "ip/records/FW-019-money-mirrors-old-money-new-money.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 761
+    },
+    {
+      "path": "ip/records/FW-020-the-six-integration-layers.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1089
+    },
+    {
+      "path": "ip/records/FW-021-the-74-cosmic-laws.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1647
+    },
+    {
+      "path": "ip/records/FW-022-paradynamic-power-dynamic-healing.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1448
+    },
+    {
+      "path": "ip/records/FW-023-dimensional-mastery.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1459
+    },
+    {
+      "path": "ip/records/FW-024-the-blue-book.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1330
+    },
+    {
+      "path": "ip/records/FW-025-chakra-related-teachings.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 834
+    },
+    {
+      "path": "ip/records/FW-026-identity-leadership-and-financial-diagnostic-mod.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1181
+    },
+    {
+      "path": "ip/records/FW-028-3d-method.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 932
+    },
+    {
+      "path": "research/README.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 2684
+    },
+    {
+      "path": "research/REFERENCES_INDEX.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 43327
+    },
+    {
+      "path": "research/ledger.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 66688
+    },
+    {
+      "path": "operations/INSTITUTION_AND_OPERATIONS_STATUS.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1990
+    },
+    {
+      "path": "operations/POLICIES_STATUS.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 1968
+    },
+    {
+      "path": "agents/RETRIEVAL_POLICY.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 4591
+    },
+    {
+      "path": "agents/profiles/ica-messaging.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 1137
+    },
+    {
+      "path": "agents/profiles/operations.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 1122
+    },
+    {
+      "path": "agents/profiles/product-architect.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 1075
+    },
+    {
+      "path": "agents/profiles/prospecting.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 1221
+    },
+    {
+      "path": "agents/profiles/research.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 991
+    },
+    {
+      "path": "agents/profiles/strategy.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 1052
+    },
+    {
+      "path": "agents/profiles/task-analytics.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 245
+    },
+    {
+      "path": "agents/profiles/task-copywriting.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 301
+    },
+    {
+      "path": "agents/profiles/task-ip-review.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 256
+    },
+    {
+      "path": "agents/profiles/task-publishing.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 254
+    },
+    {
+      "path": "agents/profiles/task-sales.yaml",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 1,
+      "approx_bytes": 301
+    },
+    {
+      "path": "campaigns/README.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 2793
+    },
+    {
+      "path": "reports/02_CONFLICT_AND_DECISION_REPORT.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 17253
+    },
+    {
+      "path": "reports/validation-public.md",
+      "status": "current",
+      "retrieval": "allow",
+      "tier": 2,
+      "approx_bytes": 2164
+    },
+    {
+      "path": "restricted/canon/ROSETTA_STONE_v4.2.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/canon/LISA_MILES_ICA_2026-10-14.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/registry/products-full.yaml",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/registry/conflicts-detail.yaml",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/registry/decisions-detail.yaml",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/research/claims-audit.yaml",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/institution/GREEN_ROOM.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/institution/GATE_HOME.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/institution/WITHOUT_YOU.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/institution/OPERATIONS.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/campaigns/HARVEY_SPEC.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/campaigns/GHL_CONFIG.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/campaigns/SAFEGUARDS.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/campaigns/PROSPECTING_EXPORT_PACKET.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": true
+    },
+    {
+      "path": "restricted/campaigns/COPY_TRACEABILITY.md",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    },
+    {
+      "path": "restricted/campaigns/ghl-config.json",
+      "status": "current",
+      "retrieval": "allow-restricted-store-only",
+      "tier": "restricted",
+      "export_safe": false
+    }
+  ]
+}

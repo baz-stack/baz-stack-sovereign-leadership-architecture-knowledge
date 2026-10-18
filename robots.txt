@@ -1,0 +1,51 @@
+# robots.txt — Baz Porter LLC® · The Prestige Architect™
+# Canon-as-code. Deploys to https://bazporter.com/robots.txt
+# Policy: AI crawlers are WELCOME. The private institution tier is DISALLOWED for everyone.
+
+# --- AI crawlers: explicitly welcomed (full public access) ---
+User-agent: GPTBot
+Allow: /
+Disallow: /institution/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /institution/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /institution/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /institution/
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /institution/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /institution/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /institution/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /institution/
+
+User-agent: CCBot
+Allow: /
+Disallow: /institution/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /institution/
+
+# --- All other agents ---
+User-agent: *
+Allow: /
+Disallow: /institution/
+
+Sitemap: https://bazporter.com/sitemap.xml

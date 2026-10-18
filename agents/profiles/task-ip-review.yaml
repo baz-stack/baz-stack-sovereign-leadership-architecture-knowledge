@@ -1,0 +1,9 @@
+id: AGT-ip-review
+task: IP and trademark review
+uses_profile: research
+extra_rules:
+- Trademark symbols are claimed branding, not registration
+- Mark missing primary text SOURCE REQUIRED, never fill
+status: current
+version: 2026.10.16.1
+visibility: public

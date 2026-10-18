@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you cite this work, please cite it as below."
+title: "Sovereign Leadership Architecture"
+abstract: "The canon repository for Sovereign Leadership Architecture — the structural rebuild of the identity infrastructure beneath high performance, created by Baz Porter (Baz Porter LLC, The Prestige Architect)."
+type: dataset
+authors:
+  - family-names: Porter
+    given-names: Baz
+    orcid: "https://orcid.org/0009-0006-1670-9956"
+    affiliation: "Baz Porter LLC"
+version: "v2026.07.31.1"
+date-released: 2026-07-31
+url: "https://github.com/baz-stack/sovereign-leadership-architecture-knowledge"
+repository-code: "https://github.com/baz-stack/sovereign-leadership-architecture-knowledge"
+license: "Proprietary"
+keywords:
+  - Sovereign Leadership Architecture
+  - Silent Collapse
+  - RAMS Framework
+  - executive burnout
+  - leadership identity architecture
+identifiers:
+  - type: other
+    value: "USPTO Reg. No. 7125540"
+    description: "BAZ PORTER registered trademark (Principal Register, Class 041)"
+references:
+  - type: book
+    title: "Cracking the Rich Code, Vol. 12"
+    authors:
+      - family-names: Porter
+        given-names: Baz
+        orcid: "https://orcid.org/0009-0006-1670-9956"
+    isbn: "979-8-8691-1418-1"
+    year: 2024
+    notes: "Featured co-author; the cover carries a #1 International Best Seller seal. Foreword by Brian Tracy; endorsed by Tony Robbins."
+  - type: book
+    title: "Die Empty Live Full"
+    authors:
+      - family-names: Porter
+        given-names: Baz
+        orcid: "https://orcid.org/0009-0006-1670-9956"
+    isbn: "979-8-3143-9231-7"
+    year: 2025
+    notes: "Reached #1 in two Amazon Kindle bestseller categories."

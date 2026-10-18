@@ -1,0 +1,31 @@
+manifest: restricted-content
+version: 2026.10.16.1
+generated: '2026-10-16'
+visibility: public
+why: baz-stack/sovereign-leadership-architecture was a PUBLIC GitHub repository (it has since been made private; verified
+  2026-10-16 via GitHub API and anonymous HTTP 200). A folder named private does not restrict access. These items are therefore
+  kept OUT of every commit on this branch.
+held_out_of_commits:
+- id: CAN-001
+  what: Rosetta Stone v4.2 full text
+  reason: The document itself is marked internal and confidential. Contains unpublished prices, targets, client names, strategy.
+  sha256: a664a72c541fd6a9b0b58920489482a8c6965cec06a78eceab253a43c8bea6de
+- id: CAN-002
+  what: Lisa Miles ICA full text
+  reason: The document itself is marked private; internal governing buyer master.
+  sha256: 77b7373a51e4aad8c94615f245feb16ddf638e598ceb2d6cd4bf3078e7dbde16
+- id: SRC-PRD-*
+  what: 11 product specification texts and buyer-facing draft copy
+  reason: The documents are marked internal. Unapproved value propositions; unpublished terms.
+- id: RES-CLAIMS
+  what: Founder claim audit (restricted/research/claims-audit.yaml)
+  reason: Assesses founder credentials and claims; unverified.
+- id: INS-FULL
+  what: Green Room / Gate Home / succession detail
+  reason: Unlaunched; terms and design undefined.
+- id: CAM-SPEC
+  what: Harvey / GoHighLevel specifications, scoring rubric and campaign briefs
+  reason: Derived from the restricted ICA; unapproved copy.
+local_location: restricted/ (gitignored). Delivered to the founder as Sovereign_Knowledge_OS_RESTRICTED_BUNDLE.zip.
+promotion_path: After DEC-001 (private repo or private visibility), run tools/promote_restricted.py to move restricted/ into
+  the private location.
