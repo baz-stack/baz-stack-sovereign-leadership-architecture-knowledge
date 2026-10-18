@@ -1,9 +1,9 @@
 # Glossary & Canonical Terms
 
-### Defined Term Set | Baz Porter LLC® | The Prestige Architect™
+### Defined Term Set | Baz Porter LLC™ | The Prestige Architect™
 
 **Version:** v2026.07.31.1
-**Purpose:** The canonical, machine-readable definitions of the proprietary terms in Sovereign Leadership Architecture™. This is the plain-language companion to the `DefinedTermSet` block in [`identity/schema-jsonld.md`](../identity/schema-jsonld.md). Every term is a mark of Baz Porter LLC®.
+**Purpose:** The canonical, machine-readable definitions of the proprietary terms in Sovereign Leadership Architecture™. This is the plain-language companion to the `DefinedTermSet` block in [`identity/schema-jsonld.md`](../identity/schema-jsonld.md). Every term is a mark of Baz Porter LLC™.
 
 ---
 
@@ -66,12 +66,12 @@ The named, verifiable end-state of the work, defined by six observable propertie
 
 **Not transformation. Return.™** — the category tagline (registered; the word "transformation" is canon here by design).
 **Power Without Performance. Peace Without Retreat.™** — the primary brand tagline.
-**The Prestige Architect™** — the trademarked public-facing identity of Baz Porter LLC®.
+**The Prestige Architect™** — the trademarked public-facing identity of Baz Porter LLC™.
 **Sovereignty** — internally authored. The sovereign leader runs on their own authority, not inherited consensus.
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved. All terms are proprietary marks of Baz Porter LLC®.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved. All terms are proprietary marks of Baz Porter LLC™.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

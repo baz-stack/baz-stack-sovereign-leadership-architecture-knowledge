@@ -1,6 +1,6 @@
 # Sovereign Leadership Architecture™ — Public Knowledge Repository
 
-**Owner:** Baz Porter LLC® · The Prestige Architect™ · **Founder:** Baz Porter · **ORCID:** [0009-0006-1670-9956](https://orcid.org/0009-0006-1670-9956) · **Site:** [bazporter.com](https://bazporter.com)
+**Owner:** Baz Porter LLC™ · The Prestige Architect™ · **Founder:** Baz Porter · **ORCID:** [0009-0006-1670-9956](https://orcid.org/0009-0006-1670-9956) · **Site:** [bazporter.com](https://bazporter.com)
 
 > **Version 2026.10.17.** Changes to published content require founder approval. Start at [`KNOWLEDGE_INDEX.md`](./KNOWLEDGE_INDEX.md).
 
@@ -63,4 +63,4 @@ Statements about credentials and achievements carry one of: documented, partly d
 python3 -I tools/validate.py && python3 -I tools/retrieval_tests.py && python3 -I tools/tests/test_validate.py && python3 -I tools/check_exposure.py
 ```
 
-© 2019–2026 Baz Porter LLC®.
+© 2019–2026 Baz Porter LLC™.

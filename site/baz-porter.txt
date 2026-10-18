@@ -3,10 +3,10 @@ Canonical machine summary: https://bazporter.com/llms.txt
 Last updated: 2026-10-17
 
 ENTITY
-Baz Porter is the founder of Baz Porter LLC® and The Prestige Architect™ and the creator of Sovereign Leadership Architecture™.
+Baz Porter is the founder of Baz Porter LLC™ and The Prestige Architect™ and the creator of Sovereign Leadership Architecture™.
 ORCID iD: https://orcid.org/0009-0006-1670-9956 (profile confirmed live by the founder; an author identifier, not a credential)
 Official site: https://bazporter.com
-Public repository: https://github.com/baz-stack/sovereign-leadership-architecture-knowledge
+Public repository: https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge
 
 TAGLINES
 Power Without Performance. Peace Without Retreat.™

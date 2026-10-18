@@ -5,7 +5,7 @@
 =====
 # Sovereign Leadership Architecture™ Knowledge Base
 
-This is the public reference for **Sovereign Leadership Architecture™**, the body of work developed by **Baz Porter** (Baz Porter LLC®, The Prestige Architect™). It is written for human readers and for AI systems that need an accurate, citable source.
+This is the public reference for **Sovereign Leadership Architecture™**, the body of work developed by **Baz Porter** (Baz Porter LLC™, The Prestige Architect™). It is written for human readers and for AI systems that need an accurate, citable source.
 
 ## What it is
 
@@ -47,16 +47,16 @@ Where a statement is founder-reported, pending verification or requires evidence
 
 ## Public biography
 
-Baz Porter is the founder of Baz Porter LLC® and The Prestige Architect™, and the creator of Sovereign Leadership Architecture™. The work is aimed at high-achieving founders, executives and leaders who perform at a high level while privately experiencing what Baz Porter calls Silent Collapse™. Baz Porter describes the role as architect rather than coach: the work is positioned as structural, not motivational.
+Baz Porter is the founder of Baz Porter LLC™ and The Prestige Architect™, and the creator of Sovereign Leadership Architecture™. The work is aimed at high-achieving founders, executives and leaders who perform at a high level while privately experiencing what Baz Porter calls Silent Collapse™. Baz Porter describes the role as architect rather than coach: the work is positioned as structural, not motivational.
 
-The approved public biography is in canon/STORY.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/STORY.md). Personal narrative detail is held privately and is not part of the public record.
+The approved public biography is in canon/STORY.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/STORY.md). Personal narrative detail is held privately and is not part of the public record.
 
 ## Professional identity
 
 | Item | Value | Status |
 |---|---|---|
 | Name | Baz Porter | Public |
-| Organization | Baz Porter LLC® | Public |
+| Organization | Baz Porter LLC™ | Public |
 | Official website | https://bazporter.com | Public |
 | ORCID iD | 0009-0006-1670-9956 (https://orcid.org/0009-0006-1670-9956) | Supplied by the founder, who confirmed the profile is live (2026-10-17); not independently read back. An ORCID iD identifies a person and is not a credential |
 | Podcast | Rise From The Ashes (C-Suite Network partnership) | Host role listed in canon; episode count requires evidence |
@@ -67,7 +67,7 @@ The approved public biography is in canon/STORY.md (https://github.com/baz-stack
 
 ## Professional references
 
-Each credential and affiliation carries its own evidence status in Credentials and Affiliations. Founder-reported items are labelled as such. The University of Minnesota College of Continuing and Professional Studies published a 2024 story that cites Baz Porter; the link is listed in identity/authority-sources.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/identity/authority-sources.md) and was not re-checked for this release.
+Each credential and affiliation carries its own evidence status in Credentials and Affiliations. Founder-reported items are labelled as such. The University of Minnesota College of Continuing and Professional Studies published a 2024 story that cites Baz Porter; the link is listed in identity/authority-sources.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/identity/authority-sources.md) and was not re-checked for this release.
 
 
 =====
@@ -75,7 +75,7 @@ Each credential and affiliation carries its own evidence status in Credentials a
 
 ## Definition
 
-Sovereign Leadership Architecture™ is the category and full system created by Baz Porter: the structural rebuild of the identity infrastructure beneath a leader's performance. It addresses what Baz Porter calls Silent Collapse™, an erosion of identity beneath intact performance, rather than treating its symptoms with strategy, mindset or motivation. Source: frameworks/sovereign-leadership-architecture.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/frameworks/sovereign-leadership-architecture.md).
+Sovereign Leadership Architecture™ is the category and full system created by Baz Porter: the structural rebuild of the identity infrastructure beneath a leader's performance. It addresses what Baz Porter calls Silent Collapse™, an erosion of identity beneath intact performance, rather than treating its symptoms with strategy, mindset or motivation. Source: frameworks/sovereign-leadership-architecture.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/frameworks/sovereign-leadership-architecture.md).
 
 ## Foundational philosophy
 
@@ -93,25 +93,25 @@ Sovereign Leadership Architecture™ is the category and full system created by 
 
 ## Scope and intended applications
 
-Individual leaders (founders, executives) and, separately, institutional deployment. Programs, prices and availability are held in the product registry (registry/products.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/products.yaml)); launch status is recorded there and is not asserted on this page. The entry point is the Fast Future Freedom Blueprint™, a free, live 60-minute one-to-one call with Baz Porter.
+Individual leaders (founders, executives) and, separately, institutional deployment. Programs, prices and availability are held in the product registry (registry/products.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/products.yaml)); launch status is recorded there and is not asserted on this page. The entry point is the Fast Future Freedom Blueprint™, a free, live 60-minute one-to-one call with Baz Porter.
 
 ## Proprietary methodology and supporting research
 
-The frameworks are Baz Porter's own models. Cited research is background, not validation of the models. Each research item records what it does and does not establish: see Research Foundations and research/ledger.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/research/ledger.yaml).
+The frameworks are Baz Porter's own models. Cited research is background, not validation of the models. Each research item records what it does and does not establish: see Research Foundations and research/ledger.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/research/ledger.yaml).
 
 ## Framework family
 
-Silent Collapse™, RAMS™, The Five Imposters™, The Six Drives of Human Intelligence™, The Oliver Standard™, The Sovereign Return Architecture™, The Sovereign Nervous System Protocol™, The Sovereign Operating System™, The Sovereign AI Charter™. Definitions: frameworks/ (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/frameworks/) and Glossary.
+Silent Collapse™, RAMS™, The Five Imposters™, The Six Drives of Human Intelligence™, The Oliver Standard™, The Sovereign Return Architecture™, The Sovereign Nervous System Protocol™, The Sovereign Operating System™, The Sovereign AI Charter™. Definitions: frameworks/ (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/frameworks/) and Glossary.
 
 ## The institution
 
-The Gate Home is the planned future institution. It is not described here as operating. Status: operations/INSTITUTION_AND_OPERATIONS_STATUS.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/operations/INSTITUTION_AND_OPERATIONS_STATUS.md).
+The Gate Home is the planned future institution. It is not described here as operating. Status: operations/INSTITUTION_AND_OPERATIONS_STATUS.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/operations/INSTITUTION_AND_OPERATIONS_STATUS.md).
 
 
 =====
 # Sovereign Leadership™
 
-Sovereign Leadership™ is the outcome state in Baz Porter's work: internally authored leadership, with power generated from coherence rather than adrenaline. Silent Collapse™ is the condition, Sovereign Leadership Architecture is the rebuild, and Sovereign Leadership™ is the state the rebuild aims to return a leader to. Full text: frameworks/sovereign-leadership.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/frameworks/sovereign-leadership.md).
+Sovereign Leadership™ is the outcome state in Baz Porter's work: internally authored leadership, with power generated from coherence rather than adrenaline. Silent Collapse™ is the condition, Sovereign Leadership Architecture is the rebuild, and Sovereign Leadership™ is the state the rebuild aims to return a leader to. Full text: frameworks/sovereign-leadership.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/frameworks/sovereign-leadership.md).
 
 ## What it is not
 
@@ -119,7 +119,7 @@ It is not a style, a personality type or a set of behaviors to perform. In Baz P
 
 ## Observable markers
 
-The end-state is described by six properties, The Oliver Standard™: Decision Integrity, Engineered Capacity, Architectural Authority, Team Gravity, Sovereign Self-Possession and Ratified Architecture (frameworks/the-oliver-standard.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/frameworks/the-oliver-standard.md)). In the founder's model the work is judged by these properties being present, not by the leader reporting that they feel better.
+The end-state is described by six properties, The Oliver Standard™: Decision Integrity, Engineered Capacity, Architectural Authority, Team Gravity, Sovereign Self-Possession and Ratified Architecture (frameworks/the-oliver-standard.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/frameworks/the-oliver-standard.md)). In the founder's model the work is judged by these properties being present, not by the leader reporting that they feel better.
 
 ## Status of the concept
 
@@ -129,7 +129,7 @@ Sovereign Leadership™ is a proprietary concept and a claimed mark (™). It is
 =====
 # Philosophical Principles
 
-These are the founder's stated principles, taken from the public manifesto (canon/MANIFESTO.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/MANIFESTO.md)). They are philosophy and positioning. They are not research findings.
+These are the founder's stated principles, taken from the public manifesto (canon/MANIFESTO.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/MANIFESTO.md)). They are philosophy and positioning. They are not research findings.
 
 1. **Structure before strategy.** High performance can continue while the identity structure beneath it erodes; the work addresses the structure first.
 2. **Insight is not enough.** Information without structural change is described as information, not as change.
@@ -147,7 +147,7 @@ Metaphors, spiritual language and ideas borrowed from physics or neuroscience in
 =====
 # Sovereign Return
 
-The Sovereign Return Architecture™ is the six-stage pathway within Sovereign Leadership Architecture™, from Silent Collapse™ to sovereign leadership. It was adopted by the founder as part of Sovereign Leadership Architecture™ (decision DEC-020). Full text: frameworks/sovereign-return-architecture.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/frameworks/sovereign-return-architecture.md).
+The Sovereign Return Architecture™ is the six-stage pathway within Sovereign Leadership Architecture™, from Silent Collapse™ to sovereign leadership. It was adopted by the founder as part of Sovereign Leadership Architecture™ (decision DEC-020). Full text: frameworks/sovereign-return-architecture.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/frameworks/sovereign-return-architecture.md).
 
 | Stage | Name | Core transition |
 |---|---|---|
@@ -170,7 +170,7 @@ The Sovereign Return Architecture™ is the six-stage pathway within Sovereign L
 =====
 # RAMS™
 
-RAMS™ is the five-pillar leadership operating system at the center of Sovereign Leadership Architecture™. Full text: frameworks/rams.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/frameworks/rams.md).
+RAMS™ is the five-pillar leadership operating system at the center of Sovereign Leadership Architecture™. Full text: frameworks/rams.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/frameworks/rams.md).
 
 | Letter | Pillar | Function |
 |---|---|---|
@@ -180,13 +180,13 @@ RAMS™ is the five-pillar leadership operating system at the center of Sovereig
 | M | Mastery | Capability built through repeated practice and shown in behavior |
 | S | Systems | Infrastructure that serves the leader |
 
-RAMS™ always has five pillars. Earlier interpretations are retired and are not used in current documentation (canon/RETIRED.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/RETIRED.md)). RAMS™ is a proprietary framework and a claimed mark (™); it is not an independently validated model.
+RAMS™ always has five pillars. Earlier interpretations are retired and are not used in current documentation (canon/RETIRED.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/RETIRED.md)). RAMS™ is a proprietary framework and a claimed mark (™); it is not an independently validated model.
 
 
 =====
 # Research Foundations
 
-Sovereign Leadership Architecture™ draws on, and is often associated with, ideas from psychology, neuroscience, physics, philosophy and spiritual traditions. This page explains how those sources are used. The detailed register is research/ledger.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/research/ledger.yaml) (readable table: research/REFERENCES_INDEX.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/research/REFERENCES_INDEX.md)), explained in research/README.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/research/README.md).
+Sovereign Leadership Architecture™ draws on, and is often associated with, ideas from psychology, neuroscience, physics, philosophy and spiritual traditions. This page explains how those sources are used. The detailed register is research/ledger.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/research/ledger.yaml) (readable table: research/REFERENCES_INDEX.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/research/REFERENCES_INDEX.md)), explained in research/README.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/research/README.md).
 
 ## How sources are classified
 
@@ -210,7 +210,7 @@ Sovereign Leadership Architecture™ draws on, and is often associated with, ide
 
 ## Limitations of this register
 
-The register holds 51 entries. None has been verified against the original publication: the sources could not be fetched in the environment where the register was built, so each entry rests on search summaries or background knowledge. Every entry is marked *hold until the citation is verified against the original* for external marketing use. The four third-party research references listed in canon/CREDIBILITY.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/CREDIBILITY.md) (a breathwork meta-analysis, a burnout statistic and two further research themes) are likewise unchecked.
+The register holds 51 entries. None has been verified against the original publication: the sources could not be fetched in the environment where the register was built, so each entry rests on search summaries or background knowledge. Every entry is marked *hold until the citation is verified against the original* for external marketing use. The four third-party research references listed in canon/CREDIBILITY.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/CREDIBILITY.md) (a breathwork meta-analysis, a burnout statistic and two further research themes) are likewise unchecked.
 
 ## Peer-reviewed literature
 
@@ -220,7 +220,7 @@ Peer-reviewed sources appear in the ledger with citation details marked verified
 =====
 # Publications
 
-Source: canon/BOOKS.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/BOOKS.md).
+Source: canon/BOOKS.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/BOOKS.md).
 
 | Title | Role | ISBN | Published | Notes |
 |---|---|---|---|---|
@@ -231,13 +231,13 @@ Identifiers are recorded from canon and were not checked against an ISBN registr
 
 ## Ranking record (CL-026)
 
-*Die Empty, Live Full* reached #1 in two Amazon Kindle bestseller categories: Teen & Young Adult Inspirational & Personal Growth eBooks, and Business Consolidations & Mergers. Two distinct Amazon screenshots support this, with SHA-256 values recorded in evidence/CL-026-amazon-kindle-rank.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/evidence/CL-026-amazon-kindle-rank.md). Original images are held privately.
+*Die Empty, Live Full* reached #1 in two Amazon Kindle bestseller categories: Teen & Young Adult Inspirational & Personal Growth eBooks, and Business Consolidations & Mergers. Two distinct Amazon screenshots support this, with SHA-256 values recorded in evidence/CL-026-amazon-kindle-rank.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/evidence/CL-026-amazon-kindle-rank.md). Original images are held privately.
 
 Open item (DEC-048): the founder supplied two dates, and which belongs to which screenshot is unconfirmed; one of them is earlier than the publication month in canon. No date is stated publicly. No international bestseller designation is claimed for this book.
 
 ## Listings and profiles (not checked)
 
-Amazon author and book pages, IngramSpark records, publisher records and the ORCID works list could not be opened from the environment where this release was built. The structured record is registry/publications.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/publications.yaml); every listing there is marked unchecked, and no metadata beyond what canon records has been added. The author-versus-contributor distinction is kept: Baz Porter is the sole author of one book and a featured co-author in a third-party anthology edition led by another author. An earlier book title that pre-dates the current brand is retired and is not promoted (see canon/RETIRED.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/RETIRED.md)).
+Amazon author and book pages, IngramSpark records, publisher records and the ORCID works list could not be opened from the environment where this release was built. The structured record is registry/publications.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/publications.yaml); every listing there is marked unchecked, and no metadata beyond what canon records has been added. The author-versus-contributor distinction is kept: Baz Porter is the sole author of one book and a featured co-author in a third-party anthology edition led by another author. An earlier book title that pre-dates the current brand is retired and is not promoted (see canon/RETIRED.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/RETIRED.md)).
 
 ## Author identifier
 
@@ -261,7 +261,7 @@ A persistent identifier that distinguishes one researcher or author from another
 
 ## Where it is used
 
-CITATION.cff (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/CITATION.cff), Publications, About Baz Porter, the machine-readable site files (site/ (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/site/)) and the structured data. A validator check fails the release if any other ORCID iD appears.
+CITATION.cff (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/CITATION.cff), Publications, About Baz Porter, the machine-readable site files (site/ (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/site/)) and the structured data. A validator check fails the release if any other ORCID iD appears.
 
 ## Verification to do
 
@@ -271,7 +271,7 @@ Open the public record, confirm the displayed name, and decide which works or af
 =====
 # Credentials and Affiliations
 
-Every material statement carries its own status. Source: canon/CREDIBILITY.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/CREDIBILITY.md); machine-readable version: registry/public-claims.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/public-claims.yaml).
+Every material statement carries its own status. Source: canon/CREDIBILITY.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/CREDIBILITY.md); machine-readable version: registry/public-claims.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/public-claims.yaml).
 
 | Statement | Status | What is held or missing |
 |---|---|---|
@@ -288,7 +288,7 @@ Every material statement carries its own status. Source: canon/CREDIBILITY.md (h
 
 ## Trademark language
 
-Registered marks use ®; claimed marks use ™. A ™ symbol is not a registration. The trademark list is in canon/TRADEMARKS.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/TRADEMARKS.md).
+Registered marks use ®; claimed marks use ™. A ™ symbol is not a registration. The trademark list is in canon/TRADEMARKS.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/TRADEMARKS.md).
 
 ## Excluded from unqualified public claims
 
@@ -298,7 +298,7 @@ Unverified items above are not presented as independently established facts. No 
 =====
 # Evidence Library
 
-The public claim register is registry/public-claims.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/public-claims.yaml); this table is generated from it. Original evidence files (certificates, screenshots, documents) are held in a private repository. Public records carry claim IDs, approved wording, evidence class, status and, where permitted, SHA-256 values of the preserved originals.
+The public claim register is registry/public-claims.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/public-claims.yaml); this table is generated from it. Original evidence files (certificates, screenshots, documents) are held in a private repository. Public records carry claim IDs, approved wording, evidence class, status and, where permitted, SHA-256 values of the preserved originals.
 
 **Statuses:** verified (independent source checked) · documented (held evidence) · partly-documented · founder-reported · pending-verification · requires-evidence. No claim in this register is marked verified: every one rests on held documents, third-party listings or founder-reported or founder-confirmed information.
 
@@ -322,9 +322,9 @@ The public claim register is registry/public-claims.yaml (https://github.com/baz
 
 ## Records
 
-- CL-026 Amazon Kindle ranking (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/evidence/CL-026-amazon-kindle-rank.md)
-- Research ledger (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/research/ledger.yaml)
-- Open decisions (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/decisions.yaml) and conflicts (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/conflicts.yaml)
+- CL-026 Amazon Kindle ranking (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/evidence/CL-026-amazon-kindle-rank.md)
+- Research ledger (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/research/ledger.yaml)
+- Open decisions (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/decisions.yaml) and conflicts (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/conflicts.yaml)
 
 ## Maintenance
 
@@ -334,7 +334,7 @@ Evidence is added by obtaining the document, recording its SHA-256, updating the
 =====
 # Glossary
 
-Canonical definitions are in glossary/glossary-and-terms.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/glossary/glossary-and-terms.md). These are Baz Porter's terms; they are not standardized scientific vocabulary.
+Canonical definitions are in glossary/glossary-and-terms.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/glossary/glossary-and-terms.md). These are Baz Porter's terms; they are not standardized scientific vocabulary.
 
 | Term | Definition |
 |---|---|
@@ -356,16 +356,16 @@ Canonical definitions are in glossary/glossary-and-terms.md (https://github.com/
 | Lisa Miles | The entry ideal client: the person at the turning point. Persona research is private. |
 | Victoria | The destination archetype. Victoria is never the entry buyer. |
 | Founder-reported | A statement made by the founder for which independent documentation is not held. |
-| Claim ID | An identifier (CL-nnn, PUB-nnn) in registry/public-claims.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/public-claims.yaml). |
+| Claim ID | An identifier (CL-nnn, PUB-nnn) in registry/public-claims.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/public-claims.yaml). |
 
 
 =====
 # Frequently Asked Questions
 
-Longer answers: faq/faq.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/faq/faq.md).
+Longer answers: faq/faq.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/faq/faq.md).
 
 **Who is Baz Porter?**
-The founder of Baz Porter LLC® and The Prestige Architect™ and the creator of Sovereign Leadership Architecture™. See About Baz Porter.
+The founder of Baz Porter LLC™ and The Prestige Architect™ and the creator of Sovereign Leadership Architecture™. See About Baz Porter.
 
 **What is Sovereign Leadership Architecture™?**
 Baz Porter's proprietary approach to rebuilding the identity infrastructure beneath a leader's performance. See Sovereign Leadership Architecture.
@@ -412,23 +412,23 @@ See Source Hierarchy and Governance.
 
 ## How to cite
 
-Machine-readable citation: CITATION.cff (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/CITATION.cff). Human-readable forms: citations/chronological-citation.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/citations/chronological-citation.md) and citations/chronological-index.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/citations/chronological-index.md).
+Machine-readable citation: CITATION.cff (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/CITATION.cff). Human-readable forms: citations/chronological-citation.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/citations/chronological-citation.md) and citations/chronological-index.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/citations/chronological-index.md).
 
-Suggested form: Porter, B. (2026). *Sovereign Leadership Architecture™* [Public knowledge repository]. Baz Porter LLC®. https://github.com/baz-stack/sovereign-leadership-architecture-knowledge. ORCID: https://orcid.org/0009-0006-1670-9956.
+Suggested form: Porter, B. (2026). *Sovereign Leadership Architecture™* [Public knowledge repository]. Baz Porter LLC™. https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge. ORCID: https://orcid.org/0009-0006-1670-9956.
 
 ## Bibliography
 
 | Source | Where recorded | Status |
 |---|---|---|
-| *Cracking the Rich Code, Vol. 12*, ISBN 979-8-8691-1418-1 | canon/BOOKS.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/BOOKS.md) | Identifier from canon |
-| *Die Empty, Live Full*, ISBN 979-8-3143-9231-7 | canon/BOOKS.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/BOOKS.md) | Identifier from canon |
-| Research sources (51 entries) | research/ledger.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/research/ledger.yaml) | None verified against the original |
-| University of Minnesota CCAPS story on succession planning (2024) | identity/authority-sources.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/identity/authority-sources.md) | Listed; not re-checked |
-| Amazon Best Sellers screenshots | evidence/CL-026-amazon-kindle-rank.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/evidence/CL-026-amazon-kindle-rank.md) | Hashes recorded; originals private |
+| *Cracking the Rich Code, Vol. 12*, ISBN 979-8-8691-1418-1 | canon/BOOKS.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/BOOKS.md) | Identifier from canon |
+| *Die Empty, Live Full*, ISBN 979-8-3143-9231-7 | canon/BOOKS.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/BOOKS.md) | Identifier from canon |
+| Research sources (51 entries) | research/ledger.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/research/ledger.yaml) | None verified against the original |
+| University of Minnesota CCAPS story on succession planning (2024) | identity/authority-sources.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/identity/authority-sources.md) | Listed; not re-checked |
+| Amazon Best Sellers screenshots | evidence/CL-026-amazon-kindle-rank.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/evidence/CL-026-amazon-kindle-rank.md) | Hashes recorded; originals private |
 
 ## Authoritative links
 
-Official site https://bazporter.com · ORCID https://orcid.org/0009-0006-1670-9956 · Public repository https://github.com/baz-stack/sovereign-leadership-architecture-knowledge. External URLs were not re-checked from the build environment.
+Official site https://bazporter.com · ORCID https://orcid.org/0009-0006-1670-9956 · Public repository https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge. External URLs were not re-checked from the build environment.
 
 
 =====
@@ -436,11 +436,11 @@ Official site https://bazporter.com · ORCID https://orcid.org/0009-0006-1670-99
 
 ## The approved primary entry pathway
 
-The primary entry is the **Fast Future Freedom Blueprint™**: a free, live, 60-minute one-to-one call with Baz Porter. It is a conversation, not a scored assessment, and there is no recording or recap. Start at https://bazporter.com/fast-future-freedom-blueprint. An earlier diagnostic was retired as the entry offer and is not used (canon/RETIRED.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/RETIRED.md)).
+The primary entry is the **Fast Future Freedom Blueprint™**: a free, live, 60-minute one-to-one call with Baz Porter. It is a conversation, not a scored assessment, and there is no recording or recap. Start at https://bazporter.com/fast-future-freedom-blueprint. An earlier diagnostic was retired as the entry offer and is not used (canon/RETIRED.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/RETIRED.md)).
 
 ## Offer records
 
-The product registry (registry/products.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/products.yaml)) holds the public terms and launch status of each offer. Launch status in the registry is recorded as unverified unless the live page was read back, and none was read back for this release. Confirm current availability, terms and prices on https://bazporter.com; this knowledge base does not state them.
+The product registry (registry/products.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/products.yaml)) holds the public terms and launch status of each offer. Launch status in the registry is recorded as unverified unless the live page was read back, and none was read back for this release. Confirm current availability, terms and prices on https://bazporter.com; this knowledge base does not state them.
 
 | Offer | Type | Launch status in the registry |
 |---|---|---|
@@ -473,7 +473,7 @@ The product registry (registry/products.yaml (https://github.com/baz-stack/sover
 | Purpose | Address |
 |---|---|
 | Official website | https://bazporter.com |
-| Machine-readable summary | https://bazporter.com/llms.txt (deployment status: reports/10_WEBSITE_AI_CONTEXT_PACKAGE.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/reports/10_WEBSITE_AI_CONTEXT_PACKAGE.md)) |
+| Machine-readable summary | https://bazporter.com/llms.txt (deployment status: reports/10_WEBSITE_AI_CONTEXT_PACKAGE.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/reports/10_WEBSITE_AI_CONTEXT_PACKAGE.md)) |
 | Fast Future Freedom Blueprint™ (entry call) | https://bazporter.com/fast-future-freedom-blueprint |
 | About | https://bazporter.com/about-baz |
 | Manifesto | https://bazporter.com/manifesto |
@@ -483,7 +483,7 @@ The product registry (registry/products.yaml (https://github.com/baz-stack/sover
 | YouTube | https://www.youtube.com/@BazPorter |
 | Substack | https://substack.com/@bazporter |
 | Podcast | https://www.risefromtheashespodcast.com/home |
-| Public repository | https://github.com/baz-stack/sovereign-leadership-architecture-knowledge |
+| Public repository | https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge |
 
 Website pages were listed from canon and were not read back from the live site in this environment.
 
@@ -499,8 +499,8 @@ When sources disagree, the higher one wins:
 4. Approved explanatory documentation (this knowledge base, FAQs, glossary).
 5. Historical material, which is labelled as historical and never overrides current canon.
 
-Retired terms and withdrawn claims are listed in canon/RETIRED.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/canon/RETIRED.md). The governing source registry is registry/source-of-truth.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/source-of-truth.yaml). Open conflicts and decisions are recorded, never resolved silently: registry/conflicts.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/conflicts.yaml), registry/decisions.yaml (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/registry/decisions.yaml).
+Retired terms and withdrawn claims are listed in canon/RETIRED.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/canon/RETIRED.md). The governing source registry is registry/source-of-truth.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/source-of-truth.yaml). Open conflicts and decisions are recorded, never resolved silently: registry/conflicts.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/conflicts.yaml), registry/decisions.yaml (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/registry/decisions.yaml).
 
 Protected documents (the governing canon, the ideal-client profile, product specifications, unpublished pricing, client material) are held in a separate private repository and are not published. Publishing `llms.txt` or this knowledge base does not guarantee inclusion in any AI system's training data, search results or answers.
 
-Repository rules for contributors and agents: GOVERNANCE.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/GOVERNANCE.md), agents/RETRIEVAL_POLICY.md (https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/agents/RETRIEVAL_POLICY.md).
+Repository rules for contributors and agents: GOVERNANCE.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/GOVERNANCE.md), agents/RETRIEVAL_POLICY.md (https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/agents/RETRIEVAL_POLICY.md).

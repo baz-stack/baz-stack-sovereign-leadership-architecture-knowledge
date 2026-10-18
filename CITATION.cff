@@ -10,8 +10,8 @@ authors:
     affiliation: "Baz Porter LLC"
 version: "v2026.07.31.1"
 date-released: 2026-07-31
-url: "https://github.com/baz-stack/sovereign-leadership-architecture-knowledge"
-repository-code: "https://github.com/baz-stack/sovereign-leadership-architecture-knowledge"
+url: "https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge"
+repository-code: "https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge"
 license: "Proprietary"
 keywords:
   - Sovereign Leadership Architecture

@@ -3,7 +3,7 @@
 ### The Long-Form Brand Entry Narrative
 
 **Version:** v2026.07.15.1
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 ---
 
@@ -202,7 +202,7 @@ It is a free, live, 60-minute one-to-one conversation with Baz Porter, not a qui
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

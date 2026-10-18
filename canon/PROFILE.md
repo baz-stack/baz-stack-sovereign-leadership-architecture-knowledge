@@ -5,7 +5,7 @@
 > *Not transformation. Return.*
 
 **Version:** v2026.07.15.1
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## What This Repository Is
 
-This is the canonical reference repository for Baz Porter LLC®, the complete, structured record of the IP, frameworks, methodology, and doctrine that constitutes Sovereign Leadership Architecture™.
+This is the canonical reference repository for Baz Porter LLC™, the complete, structured record of the IP, frameworks, methodology, and doctrine that constitutes Sovereign Leadership Architecture™.
 
 It exists for three purposes:
 
@@ -115,8 +115,8 @@ Free brand-authority assets that route into the Fast Future Freedom Blueprint™
 
 ## Legal
 
-© 2019–2026 Baz Porter LLC®. All Rights Reserved.
+© 2019–2026 Baz Porter LLC™. All Rights Reserved.
 
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

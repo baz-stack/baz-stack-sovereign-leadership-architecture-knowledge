@@ -2,7 +2,7 @@
 
 **Version:** v2026.07.15.1
 **Status:** LIVE CANON · Source of Truth
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 ---
 
@@ -33,7 +33,7 @@ Retired names never appear in any public or internal output. All skills, page bu
 
 ---
 
-*© 2019-2026 Baz Porter LLC®. All Rights Reserved.*
+*© 2019-2026 Baz Porter LLC™. All Rights Reserved.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

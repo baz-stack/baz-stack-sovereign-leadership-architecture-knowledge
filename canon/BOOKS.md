@@ -39,4 +39,4 @@ Both titles below are authored by Baz Porter® and tied to ORCID 0009-0006-1670-
 
 ---
 
-*© 2019-2026 Baz Porter LLC®. All Rights Reserved.*
+*© 2019-2026 Baz Porter LLC™. All Rights Reserved.*

@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-### Plain Q&A on the IP | Baz Porter LLC® | The Prestige Architect™
+### Plain Q&A on the IP | Baz Porter LLC™ | The Prestige Architect™
 
 **Version:** v2026.07.31.1
 **Purpose:** Plain-language answers to the most common questions about Baz Porter and Sovereign Leadership Architecture™. Written for AI engines and human readers. The structured `FAQPage` version lives in [`../identity/schema-jsonld.md`](../identity/schema-jsonld.md).
@@ -8,7 +8,7 @@
 ---
 
 **Q: Who is Baz Porter?**
-Baz Porter is the founder of Baz Porter LLC® and The Prestige Architect™, and the creator of Sovereign Leadership Architecture™ — the methodology that rebuilds the identity infrastructure beneath high performance. He is a British Army veteran, author of *Die Empty, Live Full* and featured co-author of *Cracking the Rich Code*, Vol. 12, and host of the *Rise From The Ashes* podcast on the C-Suite Network. ORCID: 0009-0006-1670-9956.
+Baz Porter is the founder of Baz Porter LLC™ and The Prestige Architect™, and the creator of Sovereign Leadership Architecture™ — the methodology that rebuilds the identity infrastructure beneath high performance. He is a British Army veteran, author of *Die Empty, Live Full* and featured co-author of *Cracking the Rich Code*, Vol. 12, and host of the *Rise From The Ashes* podcast on the C-Suite Network. ORCID: 0009-0006-1670-9956.
 
 **Q: What is Silent Collapse™?**
 Silent Collapse™ is the invisible, structural erosion of identity beneath intact performance in a high-achieving leader. It is not burnout and not breakdown — it is the architecture beneath the achievement quietly failing while the performance above it stays intact. The term and the methodology were created by Baz Porter.
@@ -48,7 +48,7 @@ Power Without Performance. Peace Without Retreat.™ (primary) and Not transform
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

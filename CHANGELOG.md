@@ -1,7 +1,7 @@
 # CHANGELOG, Sovereign Leadership Architecture
 
-**Repository:** github.com/baz-stack/sovereign-leadership-architecture-knowledge
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Repository:** github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 This is a public summary. The detailed historical change log, which recorded earlier prices, payment structures and file-level edits, is preserved privately. Current offers, terms and statuses are in `registry/products.yaml` and `operations/POLICIES_STATUS.md`.
 

@@ -7,7 +7,7 @@ import shutil
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-REPO = "https://github.com/baz-stack/sovereign-leadership-architecture-knowledge"
+REPO = "https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge"
 ORDER = ["Home", "About-Baz-Porter", "Sovereign-Leadership-Architecture", "Sovereign-Leadership", "Philosophical-Principles", "Sovereign-Return", "RAMS", "Research-Foundations",
          "Publications", "Researcher-Identification-and-ORCID", "Credentials-and-Affiliations", "Evidence-Library", "Glossary", "Frequently-Asked-Questions",
          "References-and-Citations", "Current-Offerings-and-Entry-Pathway", "Contact-and-Official-Links", "Source-Hierarchy-and-Governance"]

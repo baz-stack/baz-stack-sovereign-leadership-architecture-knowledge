@@ -1,6 +1,6 @@
 # The Sovereign Nervous System Protocol™
 
-### Proprietary IP | Baz Porter LLC® | The Prestige Architect™
+### Proprietary IP | Baz Porter LLC™ | The Prestige Architect™
 
 **Version:** v2026.07.15.1
 
@@ -162,7 +162,7 @@ The Sovereign Nervous System Protocol™ is the architectural application, the b
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved. The Sovereign Nervous System Protocol™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved. The Sovereign Nervous System Protocol™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

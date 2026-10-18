@@ -1,6 +1,6 @@
 # The Gravity Code™
 
-### Proprietary IP | Baz Porter LLC® | The Prestige Architect™
+### Proprietary IP | Baz Porter LLC™ | The Prestige Architect™
 ### Invitation-Only | 12 Months
 
 **Version:** v2026.07.15.1
@@ -109,7 +109,7 @@ Entry is by invitation only. Qualification is a completed Coming Home™, a mand
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved. The Gravity Code™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved. The Gravity Code™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

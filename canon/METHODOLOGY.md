@@ -4,7 +4,7 @@
 
 **Version:** v2026.07.15.1
 **Status:** LIVE CANON
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 ---
 
@@ -260,7 +260,7 @@ The authority is the scar tissue.
 
 ## Proprietary IP
 
-All frameworks, methodologies, and named systems within Sovereign Leadership Architecture™ are proprietary to Baz Porter LLC®.
+All frameworks, methodologies, and named systems within Sovereign Leadership Architecture™ are proprietary to Baz Porter LLC™.
 
 For the complete IP registry, see [IP-REGISTRY.md](./IP-REGISTRY.md).
 
@@ -268,5 +268,5 @@ For the complete framework registry, see [FRAMEWORKS.md](./FRAMEWORKS.md).
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved.*
 

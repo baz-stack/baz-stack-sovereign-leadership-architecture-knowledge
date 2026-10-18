@@ -1,6 +1,6 @@
 # How to Cite This Work
 
-### Citation Reference | Baz Porter LLC® | The Prestige Architect™
+### Citation Reference | Baz Porter LLC™ | The Prestige Architect™
 
 **Version:** v2026.07.31.1
 **Purpose:** The canonical way to cite Baz Porter and Sovereign Leadership Architecture™ in academic, editorial, and AI contexts. Machine-readable citation metadata lives in [`../CITATION.cff`](../CITATION.cff); this file is the human-readable companion.
@@ -10,7 +10,7 @@
 ## Author of Record
 
 **Baz Porter** — ORCID [0009-0006-1670-9956](https://orcid.org/0009-0006-1670-9956)
-Founder, Baz Porter LLC® · The Prestige Architect™
+Founder, Baz Porter LLC™ · The Prestige Architect™
 
 When citing any framework in this repository — RAMS™, Silent Collapse™, the Six Drives of Human Intelligence™, the Oliver Standard™, and all subordinate marks — attribute authorship to Baz Porter and tie it to the ORCID above.
 
@@ -20,11 +20,11 @@ When citing any framework in this repository — RAMS™, Silent Collapse™, th
 
 **Sovereign Leadership Architecture™ (repository / methodology)**
 
-> Porter, B. (2026). *Sovereign Leadership Architecture™* (Version v2026.07.31.1) [Canon repository]. Baz Porter LLC®. https://github.com/baz-stack/sovereign-leadership-architecture-knowledge
+> Porter, B. (2026). *Sovereign Leadership Architecture™* (Version v2026.07.31.1) [Canon repository]. Baz Porter LLC™. https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge
 
 **Machine anchor**
 
-> Porter, B. (2026). *Baz Porter® — Sovereign Leadership Architecture™* [llms.txt]. Baz Porter LLC®. https://bazporter.com/llms.txt
+> Porter, B. (2026). *Baz Porter® — Sovereign Leadership Architecture™* [llms.txt]. Baz Porter LLC™. https://bazporter.com/llms.txt
 
 ---
 
@@ -44,7 +44,7 @@ When citing any framework in this repository — RAMS™, Silent Collapse™, th
 
 Use the framework's canonical file as the source. Example:
 
-> Porter, B. (2026). *Silent Collapse™* [Framework definition]. In *Sovereign Leadership Architecture™*. Baz Porter LLC®. https://github.com/baz-stack/sovereign-leadership-architecture-knowledge/blob/main/frameworks/silent-collapse.md
+> Porter, B. (2026). *Silent Collapse™* [Framework definition]. In *Sovereign Leadership Architecture™*. Baz Porter LLC™. https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge/blob/main/frameworks/silent-collapse.md
 
 Available framework definitions: RAMS™ (`rams.md`), Silent Collapse™ (`silent-collapse.md`), Sovereign Leadership™ (`sovereign-leadership.md`), Sovereign Leadership Architecture™ (`sovereign-leadership-architecture.md`), The Five Imposters™ (`five-imposters.md`), The Six Drives of Human Intelligence™ (`six-drives.md`), The Sovereign Return Architecture™ (`sovereign-return-architecture.md`), The Sovereign Nervous System Protocol™ (`sovereign-nervous-system-protocol.md`), The Oliver Standard™ (`the-oliver-standard.md`), The Gravity Code™ (`the-gravity-code.md`), The Becoming™ (`the-becoming.md`), Coming Home™ (`coming-home.md`).
 
@@ -52,7 +52,7 @@ Available framework definitions: RAMS™ (`rams.md`), Silent Collapse™ (`silen
 
 ## Trademark Attribution
 
-BAZ PORTER® is stated to be a registered trademark (USPTO Reg. No. 7,125,540; founder-confirmed, not independently verified). The Prestige Architect™ is a trademark. All framework names carry ™ or ® and are proprietary to Baz Porter LLC®. Retain the marks in any citation.
+BAZ PORTER® is stated to be a registered trademark (USPTO Reg. No. 7,125,540; founder-confirmed, not independently verified). The Prestige Architect™ is a trademark. All framework names carry ™ or ® and are proprietary to Baz Porter LLC™. Retain the marks in any citation.
 
 ---
 
@@ -62,7 +62,7 @@ For dated external mentions (academic, media, podcast), see [`chronological-inde
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

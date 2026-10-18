@@ -1,19 +1,19 @@
 # GOVERNANCE
 
 **Version:** v2026.07.31.1
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 ---
 
 ## What This Repository Is
 
-This repository is the single source of truth for Baz Porter LLC®. Every skill, page builder, workflow, email, sales page, podcast description, and content asset resolves against this canon. If an output conflicts with this canon, the canon wins.
+This repository is the single source of truth for Baz Porter LLC™. Every skill, page builder, workflow, email, sales page, podcast description, and content asset resolves against this canon. If an output conflicts with this canon, the canon wins.
 
 ---
 
 ## Authority
 
-- **Owner and final authority:** Baz Porter (founder, Baz Porter LLC®).
+- **Owner and final authority:** Baz Porter (founder, Baz Porter LLC™).
 - **Decision rule:** The canon in this repository is authoritative. Downstream tools update to match canon, never the reverse.
 - **Marks:** Every public mention of a Class A mark carries ®; every public mention of a Class B mark carries ™. Trademark spelling is enforced on every output. See [`canon/IP-REGISTRY.md`](./canon/IP-REGISTRY.md).
 
@@ -55,7 +55,7 @@ The machine layer is the AI-facing surface. It must always carry: ORCID (0009-00
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

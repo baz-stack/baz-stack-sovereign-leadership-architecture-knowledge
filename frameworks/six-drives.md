@@ -1,6 +1,6 @@
 # The Six Drives of Human Intelligence™
 
-### Proprietary IP | Baz Porter LLC® | The Prestige Architect™
+### Proprietary IP | Baz Porter LLC™ | The Prestige Architect™
 
 **Version:** v2026.07.15.1
 
@@ -208,7 +208,7 @@ The work is not to "balance the Drives" abstractly. The work is to identify the 
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved. The Six Drives of Human Intelligence™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved. The Six Drives of Human Intelligence™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

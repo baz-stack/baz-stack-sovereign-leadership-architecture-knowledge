@@ -1,6 +1,6 @@
 # AFFILIATE, Sovereign Leadership Architecture
 
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 This is the public partnership overview. Commercial mechanics (commission structure, qualification standards, onboarding specification and routing logic) are held privately.
 

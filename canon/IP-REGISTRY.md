@@ -2,7 +2,7 @@
 
 **Version:** v2026.07.15.1
 **Status:** LIVE CANON · Source of Truth
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 **Primary Trademark:** USPTO Reg. No. 7,125,540 · Reg. No. 7125540 (founder-confirmed; not independently verified)
 
 ---
@@ -145,7 +145,7 @@ This file is canon. All skills, page builders, workflows, and copy resolve again
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

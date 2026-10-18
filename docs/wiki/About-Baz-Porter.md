@@ -11,7 +11,7 @@ last_verified: 2026-10-17
 
 ## Public biography
 
-Baz Porter is the founder of Baz Porter LLC® and The Prestige Architect™, and the creator of Sovereign Leadership Architecture™. The work is aimed at high-achieving founders, executives and leaders who perform at a high level while privately experiencing what Baz Porter calls Silent Collapse™. Baz Porter describes the role as architect rather than coach: the work is positioned as structural, not motivational.
+Baz Porter is the founder of Baz Porter LLC™ and The Prestige Architect™, and the creator of Sovereign Leadership Architecture™. The work is aimed at high-achieving founders, executives and leaders who perform at a high level while privately experiencing what Baz Porter calls Silent Collapse™. Baz Porter describes the role as architect rather than coach: the work is positioned as structural, not motivational.
 
 The approved public biography is in [canon/STORY.md](../../canon/STORY.md). Personal narrative detail is held privately and is not part of the public record.
 
@@ -20,7 +20,7 @@ The approved public biography is in [canon/STORY.md](../../canon/STORY.md). Pers
 | Item | Value | Status |
 |---|---|---|
 | Name | Baz Porter | Public |
-| Organization | Baz Porter LLC® | Public |
+| Organization | Baz Porter LLC™ | Public |
 | Official website | https://bazporter.com | Public |
 | ORCID iD | [0009-0006-1670-9956](https://orcid.org/0009-0006-1670-9956) | Supplied by the founder, who confirmed the profile is live (2026-10-17); not independently read back. An ORCID iD identifies a person and is not a credential |
 | Podcast | Rise From The Ashes (C-Suite Network partnership) | Host role listed in canon; episode count requires evidence |

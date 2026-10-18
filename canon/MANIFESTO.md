@@ -57,4 +57,4 @@ Not transformation. Return.
 
 ---
 
-*© 2019-2026 Baz Porter LLC®. All Rights Reserved.*
+*© 2019-2026 Baz Porter LLC™. All Rights Reserved.*

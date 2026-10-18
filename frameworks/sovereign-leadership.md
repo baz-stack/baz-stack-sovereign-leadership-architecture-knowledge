@@ -1,6 +1,6 @@
 # Sovereign Leadership™
 
-### Proprietary IP | Baz Porter LLC® | The Prestige Architect™
+### Proprietary IP | Baz Porter LLC™ | The Prestige Architect™
 
 **Version:** v2026.07.31.1
 
@@ -78,7 +78,7 @@ The state is not a destination reached once. It is a practice, run and refined.
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved. Sovereign Leadership™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved. Sovereign Leadership™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

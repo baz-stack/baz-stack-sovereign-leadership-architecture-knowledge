@@ -1,6 +1,6 @@
 # The Sovereign AI Charter™
 
-### Proprietary IP | Baz Porter LLC® | The Prestige Architect™
+### Proprietary IP | Baz Porter LLC™ | The Prestige Architect™
 
 **Version:** v2026.07.15.1
 
@@ -159,7 +159,7 @@ For institutional or corporate deployment inquiries:
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved. The Sovereign AI Charter™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved. The Sovereign AI Charter™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

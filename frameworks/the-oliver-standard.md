@@ -1,6 +1,6 @@
 # The Oliver Standard™
 
-### Proprietary IP | Baz Porter LLC® | The Prestige Architect™
+### Proprietary IP | Baz Porter LLC™ | The Prestige Architect™
 
 **Version:** v2026.07.15.1
 
@@ -197,7 +197,7 @@ The Oliver Standard™ is reached through the Sovereign Return Architecture™ p
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved. The Oliver Standard™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved. The Oliver Standard™ is proprietary IP protected under trademark. Unauthorized use or reproduction is prohibited.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

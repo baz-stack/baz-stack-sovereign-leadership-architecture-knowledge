@@ -3,7 +3,7 @@
 ## Sovereign Leadership Architecture™, The Category Baz Porter Created
 
 **Version:** v2026.07.15.1
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 ---
 
@@ -123,7 +123,7 @@ He is not a theorist. He is a man who survived long enough to understand it.
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All Rights Reserved. All frameworks and methodologies are proprietary.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved. All frameworks and methodologies are proprietary.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

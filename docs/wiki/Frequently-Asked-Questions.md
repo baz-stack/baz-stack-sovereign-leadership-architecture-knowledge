@@ -12,7 +12,7 @@ last_verified: 2026-10-17
 Longer answers: [faq/faq.md](../../faq/faq.md).
 
 **Who is Baz Porter?**
-The founder of Baz Porter LLC® and The Prestige Architect™ and the creator of Sovereign Leadership Architecture™. See [About Baz Porter](About-Baz-Porter.md).
+The founder of Baz Porter LLC™ and The Prestige Architect™ and the creator of Sovereign Leadership Architecture™. See [About Baz Porter](About-Baz-Porter.md).
 
 **What is Sovereign Leadership Architecture™?**
 Baz Porter's proprietary approach to rebuilding the identity infrastructure beneath a leader's performance. See [Sovereign Leadership Architecture](Sovereign-Leadership-Architecture.md).

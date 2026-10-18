@@ -1,4 +1,4 @@
-# robots.txt — Baz Porter LLC® · The Prestige Architect™
+# robots.txt — Baz Porter LLC™ · The Prestige Architect™
 # Canon-as-code. Deploys to https://bazporter.com/robots.txt
 # Policy: AI crawlers are WELCOME. The private institution tier is DISALLOWED for everyone.
 

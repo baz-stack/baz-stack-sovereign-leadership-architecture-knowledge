@@ -1,6 +1,6 @@
 # Chronological Index of Citations
 
-### Dated Authority Record | Baz Porter LLC® | The Prestige Architect™
+### Dated Authority Record | Baz Porter LLC™ | The Prestige Architect™
 
 **Version:** v2026.07.31.1
 **Purpose:** A time-ordered index of verifiable, dated milestones and third-party citations. Only items with a confirmed date appear in the timeline; sources whose publication date is not yet confirmed are listed separately rather than dated by guess. No date here is invented. Full link set: [`../identity/authority-sources.md`](../identity/authority-sources.md).
@@ -38,7 +38,7 @@ Podcast appearances (dates to confirm): Doing Business with a Servant's Heart (S
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All citations are verifiable.*
+*© 2019–2026 Baz Porter LLC™. All citations are verifiable.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

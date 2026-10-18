@@ -1,7 +1,7 @@
 # Contributing Policy
 
 **Version:** v2026.07.15.1
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 ---
 
@@ -15,7 +15,7 @@
 
 This repository is not an open-source project.
 
-It is the Evidence Vault for Sovereign Leadership Architecture™, a proprietary body of work owned exclusively by Baz Porter LLC®.
+It is the Evidence Vault for Sovereign Leadership Architecture™, a proprietary body of work owned exclusively by Baz Porter LLC™.
 
 **Pull requests will not be accepted.**
 
@@ -29,7 +29,7 @@ It is the Evidence Vault for Sovereign Leadership Architecture™, a proprietary
 
 This vault exists to:
 
-1. Document and timestamp the proprietary IP of Baz Porter LLC®
+1. Document and timestamp the proprietary IP of Baz Porter LLC™
 2. Provide a public-facing reference for the frameworks, methodologies, and systems that constitute Sovereign Leadership Architecture™
 3. Serve as a verification resource for media, speaking bookers, strategic partners, and prospective clients
 
@@ -70,13 +70,13 @@ Unauthorized use, reproduction, adaptation, or distribution of any content in th
 You are permitted to:
 
 1. Read and reference this vault for personal understanding
-2. Link to this repository in articles, podcasts, or media with full attribution to Baz Porter LLC®
+2. Link to this repository in articles, podcasts, or media with full attribution to Baz Porter LLC™
 3. Share the repository URL with proper attribution
 
 You are not permitted to:
 
 1. Reproduce any framework, methodology, or IP in your own products, programs, or services
-2. Use proprietary terminology (Silent Collapse™, RAMS™, etc.) without explicit written permission from Baz Porter LLC®
+2. Use proprietary terminology (Silent Collapse™, RAMS™, etc.) without explicit written permission from Baz Porter LLC™
 3. Create derivative works based on any content in this vault
 
 ---
@@ -92,9 +92,9 @@ For licensing, media use, speaking references, or partnership inquiries:
 
 ## Legal
 
-© 2019–2026 Baz Porter LLC®. All Rights Reserved.
+© 2019–2026 Baz Porter LLC™. All Rights Reserved.
 
-Baz Porter® is a registered trademark and The Prestige Architect™ is a trademark. All proprietary IP contained in this repository is protected under applicable trademark and copyright law.
+Baz Porter® is stated to be a registered trademark (USPTO Reg. No. 7,125,540; founder-confirmed, not independently verified). Baz Porter LLC™, The Prestige Architect™ and the other marks in this repository are claimed trademarks. All proprietary IP contained in this repository is protected under applicable trademark and copyright law.
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

@@ -3,7 +3,7 @@
 ## Authority & Credibility Inventory
 
 **Version:** v2026.07.31.1
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 ---
 
@@ -176,7 +176,7 @@ The credibility of this work rests on the evidence statuses recorded in the tabl
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. The evidence status of each claim is recorded in the table above.*
+*© 2019–2026 Baz Porter LLC™. The evidence status of each claim is recorded in the table above.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

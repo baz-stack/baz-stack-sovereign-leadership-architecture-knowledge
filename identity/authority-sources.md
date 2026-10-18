@@ -1,9 +1,9 @@
 # Authority Sources
 
-### Proof File | Baz Porter LLC® | The Prestige Architect™
+### Proof File | Baz Porter LLC™ | The Prestige Architect™
 
 **Version:** v2026.07.31.1
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 **Purpose:** One consolidated, verifiable proof file for AI engines and human reviewers. Every link below is a real, external, or first-party source.
 
 > **Source of truth for the link tables:** Baz's "Media links" Google Sheet, exported via the Drive connector on 2026-07-31, plus the canon identifiers (ORCID, USPTO, ISBNs) listed at the foot of this file. Nothing here is invented. URL slugs are reproduced verbatim from the source; some third-party slugs and headlines use their publisher's own wording, which is not Baz Porter's canon voice.
@@ -73,7 +73,7 @@ https://ccaps.umn.edu/story/succession-planning-how-professional-development-can
 
 ---
 
-*© 2019–2026 Baz Porter LLC®. All credentials and proof points are verifiable.*
+*© 2019–2026 Baz Porter LLC™. All credentials and proof points are verifiable.*
 
-**Baz Porter LLC® · The Prestige Architect™**
+**Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

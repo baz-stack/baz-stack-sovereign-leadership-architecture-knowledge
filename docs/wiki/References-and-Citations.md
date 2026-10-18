@@ -13,7 +13,7 @@ last_verified: 2026-10-17
 
 Machine-readable citation: [CITATION.cff](../../CITATION.cff). Human-readable forms: [citations/chronological-citation.md](../../citations/chronological-citation.md) and [citations/chronological-index.md](../../citations/chronological-index.md).
 
-Suggested form: Porter, B. (2026). *Sovereign Leadership Architecture™* [Public knowledge repository]. Baz Porter LLC®. https://github.com/baz-stack/sovereign-leadership-architecture-knowledge. ORCID: https://orcid.org/0009-0006-1670-9956.
+Suggested form: Porter, B. (2026). *Sovereign Leadership Architecture™* [Public knowledge repository]. Baz Porter LLC™. https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge. ORCID: https://orcid.org/0009-0006-1670-9956.
 
 ## Bibliography
 
@@ -27,4 +27,4 @@ Suggested form: Porter, B. (2026). *Sovereign Leadership Architecture™* [Publi
 
 ## Authoritative links
 
-Official site https://bazporter.com · ORCID https://orcid.org/0009-0006-1670-9956 · Public repository https://github.com/baz-stack/sovereign-leadership-architecture-knowledge. External URLs were not re-checked from the build environment.
+Official site https://bazporter.com · ORCID https://orcid.org/0009-0006-1670-9956 · Public repository https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge. External URLs were not re-checked from the build environment.

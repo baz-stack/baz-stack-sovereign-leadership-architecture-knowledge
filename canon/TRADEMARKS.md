@@ -1,4 +1,4 @@
-# TRADEMARKS, Baz Porter LLC®
+# TRADEMARKS, Baz Porter LLC™
 ## Sovereign Leadership Architecture™
 
 **Version:** v2026.07.15.1 · **Status:** LIVE CANON
@@ -18,7 +18,6 @@ Reg. No. 7,125,540 is the public trademark number and the only registration numb
 | Mark | Type |
 |:----|:----|
 | Baz Porter® | Registered trademark, USPTO Reg. No. 7,125,540 |
-| Baz Porter LLC® | Company name; no registration is stated in this repository |
 
 ---
 
@@ -27,6 +26,7 @@ Reg. No. 7,125,540 is the public trademark number and the only registration numb
 | Mark | Type |
 |:----|:----|
 | The Prestige Architect™ | Brand mark |
+| Baz Porter LLC™ | Company name; claimed mark, no registration stated |
 | Sovereign Leadership™ | Category |
 | Sovereign Leadership Architecture™ | Category system |
 | RAMS™ | Operating system, five pillars |
@@ -50,8 +50,8 @@ Reg. No. 7,125,540 is the public trademark number and the only registration numb
 
 | Tagline | Type |
 |:----|:----|
-| Power Without Performance. Peace Without Retreat.™ | Registered tagline |
-| Not transformation. Return.™ | Registered tagline |
+| Power Without Performance. Peace Without Retreat.™ | Tagline |
+| Not transformation. Return.™ | Tagline |
 
 ---
 
@@ -59,4 +59,4 @@ Every public mention of any mark above carries its correct symbol.
 
 ---
 
-*© 2019-2026 Baz Porter LLC®. All Rights Reserved.*
+*© 2019-2026 Baz Porter LLC™. All Rights Reserved.*

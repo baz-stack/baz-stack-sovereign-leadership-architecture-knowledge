@@ -22,6 +22,6 @@ last_verified: 2026-10-17
 | YouTube | https://www.youtube.com/@BazPorter |
 | Substack | https://substack.com/@bazporter |
 | Podcast | https://www.risefromtheashespodcast.com/home |
-| Public repository | https://github.com/baz-stack/sovereign-leadership-architecture-knowledge |
+| Public repository | https://github.com/baz-stack/baz-stack-sovereign-leadership-architecture-knowledge |
 
 Website pages were listed from canon and were not read back from the live site in this environment.

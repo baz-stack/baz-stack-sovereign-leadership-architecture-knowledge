@@ -9,7 +9,7 @@ last_verified: 2026-10-17
 ---
 # Sovereign Leadership Architecture™ Knowledge Base
 
-This is the public reference for **Sovereign Leadership Architecture™**, the body of work developed by **Baz Porter** (Baz Porter LLC®, The Prestige Architect™). It is written for human readers and for AI systems that need an accurate, citable source.
+This is the public reference for **Sovereign Leadership Architecture™**, the body of work developed by **Baz Porter** (Baz Porter LLC™, The Prestige Architect™). It is written for human readers and for AI systems that need an accurate, citable source.
 
 ## What it is
 

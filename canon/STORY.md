@@ -1,6 +1,6 @@
 # Founder biography
 
-**Owner:** Baz Porter LLC® · The Prestige Architect™
+**Owner:** Baz Porter LLC™ · The Prestige Architect™
 
 This is the public biography. It states only what is recorded in the evidence table in `canon/CREDIBILITY.md`, with each fact's evidence status. The founder's confidential narrative is held privately and is not public record.
 
@@ -8,7 +8,7 @@ This is the public biography. It states only what is recorded in the evidence ta
 
 ## Biography
 
-Baz Porter is the founder of Baz Porter LLC® and the creator of Sovereign Leadership Architecture™, a methodology for rebuilding the identity infrastructure beneath high performance.
+Baz Porter is the founder of Baz Porter LLC™ and the creator of Sovereign Leadership Architecture™, a methodology for rebuilding the identity infrastructure beneath high performance.
 
 - **Military service:** British Army, 1997 to 2004 (founder-reported; no service record indexed).
 - **Books:** author of *Die Empty, Live Full* and featured co-author of *Cracking the Rich Code*, Vol. 12 (see `canon/BOOKS.md`).
