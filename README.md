@@ -55,7 +55,7 @@ Statements about credentials and achievements carry one of: documented, partly d
 
 ## Marks and rights
 
-™ marks are claimed marks. BAZ PORTER® is stated to be registered (Reg. No. 7,125,540, founder-confirmed and not independently verified). All rights reserved; see [`LICENSE.md`](./LICENSE.md). Publishing machine-readable files does not guarantee inclusion in any AI system's training data, search results or answers.
+™ marks are claimed marks. BAZ PORTER® is stated to be registered (Reg. No. 7,125,540, founder-confirmed and independently verified). All rights reserved; see [`LICENSE.md`](./LICENSE.md). Publishing machine-readable files does not guarantee inclusion in any AI system's training data, search results or answers.
 
 ## Checks
 
