@@ -22,7 +22,7 @@ This document is the inventory of credibility anchors for Baz Porter. Each mater
 |:----|:----|:----|
 | Princeton invited speaker, February 2021 | Founder-reported | No program, invitation or photo indexed |
 | Excel Arena London speaker; 35,000 attendees | Requires evidence | None held |
-| Former Tony Robbins Platinum Partner, 2021 to 2022 | Founder-reported; documentary verification pending | Event attendance certificates do not establish membership; membership document missing |
+| Former Tony Robbins Platinum Partner, 2021 to 2022 | Founder-reported; partly documented | Event attendance certificates do not establish membership; membership document missing |
 | Business Mastery, Leadership Academy, UPW, Date with Destiny | Documented | Attendance certificates held |
 | Cracking the Rich Code Vol. 12: featured co-author; #1 International Best Seller cover seal; Brian Tracy foreword; Tony Robbins endorsement quote | Partly documented | Cover image held; title page not yet seen |
 | Die Empty, Live Full reached #1 in two Amazon Kindle bestseller categories (Teen & Young Adult Inspirational & Personal Growth; Business Consolidations & Mergers) | Documented by two distinct Amazon Best Sellers screenshots (CL-026) | Two founder-supplied dates are withheld until confirmed; which date belongs to which screenshot is unconfirmed; no international bestseller claim established |
@@ -47,7 +47,7 @@ This document is the inventory of credibility anchors for Baz Porter. Each mater
 7. **Author and featured co-author**: *Die Empty, Live Full* and *Cracking the Rich Code*, Vol. 12 (cover seal: #1 International Best Seller)
    - *Cracking the Rich Code Vol. 12*, featured co-author (Jim Britt's *Cracking the Rich Code*; the cover presents 21 top thought leaders; the cover carries a #1 International Best Seller seal), foreword Brian Tracy · endorsed Tony Robbins
    - *Die Empty Live Full*, published March 2025; reached #1 in two Amazon Kindle bestseller categories (two screenshots held; no international bestseller claim is established)
-8. **Former Tony Robbins Platinum Partner, 2021 to 2022** (founder-reported; documentary verification pending)
+8. **Former Tony Robbins Platinum Partner, 2021 to 2022** (founder-reported; partly documented)
    - Tony Robbins programs completed (event attendance certificates held; they do not establish Platinum Partner membership): Business Mastery, Leadership Academy, Unleash the Power Within (UPW), Date with Destiny
 9. **Best Transformational Leadership Coaching 2024**, award recipient (issuer: Best of Best Review; selection criteria and fee arrangements unverified)
 

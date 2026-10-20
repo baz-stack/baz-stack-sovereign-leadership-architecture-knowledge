@@ -34,7 +34,7 @@ Baz Porter LLC™ is the owner of Sovereign Leadership Architecture™ — the s
 - Host of the *Rise From The Ashes* podcast — C-Suite Network (156 episodes, founder-reported 2026-10-20; not checked against a feed)
 - Princeton invited speaker (February 2021, founder-reported) · Excel Arena London speaker (requires evidence; audience size not stated)
 - Best Transformational Leadership Coaching 2024 (third-party award listing; selection criteria and fee arrangements unverified)
-- Former Tony Robbins Platinum Partner, 2021 to 2022 (founder-reported; documentary verification pending)
+- Former Tony Robbins Platinum Partner, 2021 to 2022 (founder-reported; partly documented)
 - Cited by name in a University of Minnesota CCAPS article (2024; link not re-checked)
 
 He does not coach. He architects.

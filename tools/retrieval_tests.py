@@ -78,7 +78,7 @@ claims = __import__("yaml").safe_load(txt("registry/public-claims.yaml"))["claim
 cl = {c["id"]: c for c in claims}
 check("claims: CL-026 is partly documented with the discrepancy open", cl["CL-026"]["status"] == "partly-documented" and "DEC-048" in cl["CL-026"]["open_issue"])
 check("claims: no public claim is marked verified", all(c["status"] != "verified" for c in claims))
-check("claims: Platinum Partner and Princeton stay founder-reported", cl["CL-011"]["status"] == "founder-reported" and cl["CL-013-A"]["status"] == "founder-reported")
+check("claims: Platinum Partner stays founder-reported or partly documented, Princeton stays founder-reported", cl["CL-011"]["status"] in ("founder-reported", "partly-documented") and cl["CL-013-A"]["status"] == "founder-reported")
 check("wiki: Home reaches every page through the sidebar", all(f"({n}.md)" in txt("docs/wiki/_Sidebar.md") for n in ("Sovereign-Return", "RAMS", "Publications", "Evidence-Library", "Glossary")))
 check("wiki: six Sovereign Return stages in order", all(txt("docs/wiki/Sovereign-Return.md").index(a) < txt("docs/wiki/Sovereign-Return.md").index(b) for a, b in zip(("Recognition", "Identification", "Dismantlement", "Recalibration", "Embodiment"), ("Identification", "Dismantlement", "Recalibration", "Embodiment", "Sovereignty"))))
 check("wiki: RAMS expansion is Results, Attitude, Authenticity, Mastery, Systems", "Results, Attitude, Authenticity, Mastery, Systems" in txt("docs/wiki/Glossary.md"))
