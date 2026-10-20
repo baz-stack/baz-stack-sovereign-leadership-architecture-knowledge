@@ -13,14 +13,17 @@ works:
   title: Die Empty, Live Full
   role: sole author
   isbn: 979-8-3143-9231-7
+  subtitle: The Warrior's Guide to Playing All-In and Leaving Nothing Behind
   published: March 2025
+  publisher: Independently published
+  editions: 'Kindle (ASIN B0F1LX7XJ7), published 2025-03-16; print (ASIN B0FLKGF2J7, ISBN-13 979-8314392317), published 2025-03-17, 182 pages'
   foreword: none
   endorsement: none
-  claim: CL-026 (see registry/public-claims.yaml; date discrepancy DEC-048 open)
+  claim: CL-029; ranking claim CL-026 (see registry/public-claims.yaml; date discrepancy DEC-048 open)
   listings:
-    amazon_book_page: unchecked
+    amazon_book_page: 'documented 2026-10-20 (founder-supplied screenshots of the Kindle and print pages: title, author Baz Porter, ISBN-13, publisher, dates)'
     ingramspark_record: unchecked
-    orcid_works_entry: unchecked
+    orcid_works_entry: 'documented 2026-10-20 (founder-supplied screenshot of the public profile)'
 - id: PUB-B2
   title: Cracking the Rich Code, Vol. 12 (Jim Britt's Cracking the Rich Code, Special Edition)
   role: featured co-author (anthology led by Jim Britt; cover presents 21 thought leaders)
@@ -34,6 +37,6 @@ works:
   listings:
     amazon_book_page: unchecked
     title_page_or_contributor_page: not yet seen
-    orcid_works_entry: unchecked
+    orcid_works_entry: 'documented 2026-10-20 (founder-supplied screenshot: book chapter dated 2024-03-15, contributors Baz Porter and Jim Britt; self-entered)'
 retired_titles:
 - note: An earlier book title that pre-dates the current brand remains on retail listings. It is not promoted, listed or linked (canon/RETIRED.md).

@@ -37,9 +37,9 @@ claims:
 - id: CL-029
   topic: authored book
   approved_wording: "Baz Porter is the sole author of Die Empty, Live Full (ISBN 979-8-3143-9231-7), published March 2025."
-  evidence_class: founder-confirmed-identifier
-  status: pending-verification
-  evidence: "Identifier and publication month recorded in canon. The title appears as a work on the founder's public ORCID profile (self-entered, no ISBN or date shown). Not checked against an ISBN registry or the retail listing in this environment."
+  evidence_class: documented-by-held-evidence
+  status: documented
+  evidence: "Founder-supplied screenshots of the Amazon Kindle and print pages (2026-10-20) show the title, author Baz Porter, ISBN-13 979-8314392317 (979-8-3143-9231-7), publisher Independently published, Kindle publication date 2025-03-16 and print publication date 2025-03-17. The title also appears on the public ORCID profile (self-entered). The ISBN was not checked against an ISBN registry."
   record: canon/BOOKS.md
 - id: CL-011
   topic: Tony Robbins Platinum Partner membership, 2021 to 2022
