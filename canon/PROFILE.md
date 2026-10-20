@@ -89,7 +89,7 @@ Free brand-authority assets that route into the Fast Future Freedom Blueprint™
 
 1. British Army service, 6.5 years, 1997 to 2004 (founder-reported; no service record indexed)
 2. Author of *Die Empty, Live Full* and featured co-author of *Cracking the Rich Code*, Vol. 12 (cover seal: #1 International Best Seller)
-3. Former Tony Robbins Platinum Partner, 2021 to 2022 (founder-reported; documentary verification pending)
+3. Former Tony Robbins Platinum Partner, 2021 to 2022 (founder-reported; partly documented)
 4. Princeton speaker (February 2021, founder-reported)
 5. Excel Arena London speaker (requires evidence; audience size not stated)
 6. Best Transformational Leadership Coaching 2024 (third-party award listing; selection criteria and fee arrangements unverified)

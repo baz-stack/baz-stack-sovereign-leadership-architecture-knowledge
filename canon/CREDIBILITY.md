@@ -22,7 +22,7 @@ This document is the inventory of credibility anchors for Baz Porter. Each mater
 |:----|:----|:----|
 | Princeton invited speaker, February 2021 | Founder-reported | No program, invitation or photo indexed |
 | Excel Arena London speaker; 35,000 attendees | Requires evidence | None held |
-| Former Tony Robbins Platinum Partner, 2021 to 2022 | Founder-reported; partly documented | Event attendance certificates do not establish membership; membership document missing |
+| Former Tony Robbins Platinum Partner, 2021 to 2022 | Founder-reported; partly documented | Event attendance certificates do not establish membership; no enrollment record is held |
 | Business Mastery, Leadership Academy, UPW, Date with Destiny | Documented | Attendance certificates held |
 | Cracking the Rich Code Vol. 12: featured co-author; #1 International Best Seller cover seal; Brian Tracy foreword; Tony Robbins endorsement quote | Partly documented | Cover image held; title page not yet seen |
 | Die Empty, Live Full reached #1 in two Amazon Kindle bestseller categories (Teen & Young Adult Inspirational & Personal Growth; Business Consolidations & Mergers) | Documented by two distinct Amazon Best Sellers screenshots (CL-026) | Two founder-supplied dates are withheld until confirmed; which date belongs to which screenshot is unconfirmed; no international bestseller claim established |
