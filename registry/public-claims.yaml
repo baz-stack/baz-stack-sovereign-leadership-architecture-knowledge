@@ -31,7 +31,7 @@ claims:
   approved_wording: "Baz Porter is a featured co-author of Cracking the Rich Code, Vol. 12 (ISBN 979-8-8691-1418-1). The cover carries a #1 International Best Seller seal, a foreword credited to Brian Tracy and an endorsement quotation credited to Tony Robbins."
   evidence_class: documented-by-held-evidence
   status: partly-documented
-  evidence: "Cover image held privately. Title page and contributor list not yet seen. The seal is a statement printed on the cover, not an independently checked ranking."
+  evidence: "Cover image held privately. The founder's public ORCID profile lists Cracking the Rich Code Vol 12 as a book chapter dated 2024-03-15 with Jim Britt as contributor (self-entered), and a third-party Alibris listing names Baz Porter as a contributor. Title page and contributor list not yet seen. The seal is a statement printed on the cover, not an independently checked ranking."
   open_issue: "Title page or contributor page to be obtained."
   record: canon/BOOKS.md
 - id: CL-029
@@ -39,7 +39,7 @@ claims:
   approved_wording: "Baz Porter is the sole author of Die Empty, Live Full (ISBN 979-8-3143-9231-7), published March 2025."
   evidence_class: founder-confirmed-identifier
   status: pending-verification
-  evidence: "Identifier and publication month recorded in canon. Not checked against an ISBN registry or the retail listing in this environment."
+  evidence: "Identifier and publication month recorded in canon. The title appears as a work on the founder's public ORCID profile (self-entered, no ISBN or date shown). Not checked against an ISBN registry or the retail listing in this environment."
   record: canon/BOOKS.md
 - id: CL-011
   topic: Tony Robbins Platinum Partner membership, 2021 to 2022
@@ -117,14 +117,6 @@ claims:
 - id: PUB-003
   topic: researcher identifier
   approved_wording: "ORCID iD 0009-0006-1670-9956 (https://orcid.org/0009-0006-1670-9956), supplied by the founder."
-  evidence_class: founder-confirmed-identifier
-  status: founder-confirmed
-  evidence: "The founder confirmed on 2026-10-17 that the ORCID profile is live. The identifier is used exactly as supplied. The record has not been read back by an independent check from the build environment. An ORCID iD identifies a person; it is not evidence of a degree, a peer-reviewed publication or a professional credential."
-  record: docs/wiki/Publications.md
-- id: PUB-004
-  topic: methodology
-  approved_wording: "Sovereign Leadership Architecture, RAMS, Silent Collapse, the Six Drives of Human Intelligence and the Sovereign Return Architecture are Baz Porter's proprietary frameworks. They are the founder's models, not independently validated scientific theories."
-  evidence_class: proprietary-methodology
+  evidence_class: documented-by-held-evidence
   status: documented
-  evidence: "Definitions in frameworks/. Research citations are listed in research/ledger.yaml with what each does and does not establish."
-  record: frameworks/sovereign-leadership-architecture.md
+  evidence: "Screenshot of the public ORCID profile page supplied by the founder on 2026-10-20 (name Baz Porter, founder employment entry for Baz Porter LLC, two works, website and social links). The entries are self-entered by the profile owner, and the registry was not read from the build environment. An ORCID iD identifies a person; it is not evidence of a degree, a peer-reviewed publication or a professional credential."

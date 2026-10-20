@@ -14,8 +14,8 @@ last_verified: 2026-10-17
 | Name | Baz Porter |
 | ORCID iD | [0009-0006-1670-9956](https://orcid.org/0009-0006-1670-9956) |
 | Source of the identifier | Supplied by the founder and used exactly as given |
-| Profile status | Live, founder-confirmed on 2026-10-17. Founder confirmation is not independent verification, and the record was not read back from the environment where this release was built (no outbound access to orcid.org) |
-| Works and affiliations copied from the ORCID record | None |
+| Profile status | Public and live, documented by a screenshot of the profile page supplied by the founder on 2026-10-20. The profile entries are self-entered; the screenshot is not an independent read of the ORCID registry from the build environment |
+| Works and affiliations copied from the ORCID record | None (the profile lists a founder employment entry and two works, self-entered) |
 
 ## What an ORCID iD is
 
