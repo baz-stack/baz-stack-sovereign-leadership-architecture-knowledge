@@ -15,7 +15,7 @@
 | Identifier | Value |
 |:----|:----|
 | ORCID | [0009-0006-1670-9956](https://orcid.org/0009-0006-1670-9956) |
-| USPTO — BAZ PORTER® | Reg. No. 7,125,540 (Principal Register, Class 041; founder-confirmed, not independently verified) |
+| USPTO — BAZ PORTER® | Reg. No. 7,125,540 (Principal Register, Class 041; status Registered and live per the USPTO TSDR record checked 2026-10-20) |
 | ISBN — *Cracking the Rich Code, Vol. 12* | 979-8-8691-1418-1 |
 | ISBN — *Die Empty Live Full* | 979-8-3143-9231-7 |
 | Machine anchor | https://bazporter.com/llms.txt |

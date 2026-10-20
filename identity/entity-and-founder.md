@@ -14,7 +14,7 @@
 - **Category created:** Sovereign Leadership Architecture™
 - **Primary tagline:** Power Without Performance. Peace Without Retreat.™
 - **Category tagline:** Not transformation. Return.™
-- **Primary trademark:** BAZ PORTER® — USPTO Reg. No. 7,125,540 (Principal Register · Class 041 · first use in commerce January 4, 2020; founder-confirmed, not independently verified)
+- **Primary trademark:** BAZ PORTER® — USPTO Reg. No. 7,125,540 (Principal Register · Class 041 · first use in commerce January 4, 2020; status Registered and live per the USPTO TSDR record checked 2026-10-20)
 - **Brand mark (trademark):** The Prestige Architect™
 - **Machine anchor:** https://bazporter.com/llms.txt
 - **Human anchor:** https://bazporter.com/manifesto

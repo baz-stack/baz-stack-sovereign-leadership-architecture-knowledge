@@ -88,11 +88,11 @@ claims:
   record: canon/CREDIBILITY.md
 - id: CL-017
   topic: trademark registration
-  approved_wording: "BAZ PORTER is registered with the USPTO, Reg. No. 7,125,540 (founder-confirmed identifier; not independently verified against USPTO records). Other marks in this repository are claimed marks (TM), not registrations."
-  evidence_class: founder-confirmed-identifier
-  status: pending-verification
-  evidence: "Identifier supplied by the founder. USPTO record not checked in this environment."
-  open_issue: "DEC-016 and DEC-026: verify against the USPTO record."
+  approved_wording: "BAZ PORTER is registered with the USPTO, Reg. No. 7,125,540 (USPTO TSDR record checked 2026-10-20, status Registered and live). Other marks in this repository are claimed marks (TM), not registrations."
+  evidence_class: documented-by-held-evidence
+  status: documented
+  evidence: "USPTO TSDR status page for serial 97468218 (BAZ PORTER, Principal Register, Service Mark, registration 7125540, registered 2023-08-01, status Registered and live) captured 2026-10-20, and the USPTO Notice of Registration issued 2023-08-01 naming Baz Porter LLC as owner/holder, both supplied by the founder. Class and first-use date were not shown in either."
+  open_issue: "Class 041 and first use of January 4, 2020 remain founder-confirmed until the full TSDR record is held."
   record: canon/TRADEMARKS.md
 - id: CL-025
   topic: client testimonials

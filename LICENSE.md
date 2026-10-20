@@ -14,7 +14,7 @@ Nothing in this repository grants any right to copy, reproduce, distribute, publ
 
 ## Trademarks
 
-BAZ PORTER® (USPTO Reg. No. 7,125,540; founder-confirmed, not independently verified) is stated to be a registered trademark and The Prestige Architect™ is a trademark of Baz Porter LLC™. RAMS™, Silent Collapse™, Sovereign Leadership™, Sovereign Leadership Architecture™, The Five Imposters™, The Six Drives of Human Intelligence™, The Sovereign Return Architecture™, The Sovereign Nervous System Protocol™, The Sovereign Operating System™, The Sovereign AI Charter™, The Oliver Standard™, The Gravity Code™, The Becoming™, Coming Home™, A Million Dreams™, The Reclamation Code™, Revenue Architecture System (RAS™), and all related marks are proprietary marks of Baz Porter LLC™. Use of these marks without permission is prohibited.
+BAZ PORTER® (USPTO Reg. No. 7,125,540; status Registered and live per the USPTO TSDR record checked 2026-10-20) is a registered trademark and The Prestige Architect™ is a trademark of Baz Porter LLC™. RAMS™, Silent Collapse™, Sovereign Leadership™, Sovereign Leadership Architecture™, The Five Imposters™, The Six Drives of Human Intelligence™, The Sovereign Return Architecture™, The Sovereign Nervous System Protocol™, The Sovereign Operating System™, The Sovereign AI Charter™, The Oliver Standard™, The Gravity Code™, The Becoming™, Coming Home™, A Million Dreams™, The Reclamation Code™, Revenue Architecture System (RAS™), and all related marks are proprietary marks of Baz Porter LLC™. Use of these marks without permission is prohibited.
 
 ## Citation
 

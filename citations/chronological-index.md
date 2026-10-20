@@ -12,7 +12,7 @@
 | Date | Event / Citation | Source |
 |:----|:----|:----|
 | 1997–2004 | British Army service (6.5 years; founder-reported, no service record indexed) | Founder record |
-| 2020-01-04 | BAZ PORTER® — first use in commerce (USPTO Class 041; founder-confirmed, not independently verified) | USPTO Reg. No. 7,125,540 |
+| 2020-01-04 | BAZ PORTER® — first use in commerce (USPTO Class 041; status Registered and live per the USPTO TSDR record checked 2026-10-20) | USPTO Reg. No. 7,125,540 |
 | 2024-03 | *Cracking the Rich Code, Vol. 12* published (ISBN 979-8-8691-1418-1) | Cracking the Rich Code, LLC |
 | 2024-08-29 | University of Minnesota CCAPS article cites Baz Porter by name (link not re-checked) | https://ccaps.umn.edu/story/succession-planning-how-professional-development-can-ease-transition |
 | 2024 | Best Transformational Leadership Coaching 2024 (third-party award listing; criteria unverified) | https://bestofbestreview.com/awards/rams-by-baz-best-transformational-leadership-coaching-of-2024 |

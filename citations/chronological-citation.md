@@ -52,7 +52,7 @@ Available framework definitions: RAMS™ (`rams.md`), Silent Collapse™ (`silen
 
 ## Trademark Attribution
 
-BAZ PORTER® is stated to be a registered trademark (USPTO Reg. No. 7,125,540; founder-confirmed, not independently verified). The Prestige Architect™ is a trademark. All framework names carry ™ or ® and are proprietary to Baz Porter LLC™. Retain the marks in any citation.
+BAZ PORTER® is a registered trademark (USPTO Reg. No. 7,125,540; status Registered and live per the USPTO TSDR record checked 2026-10-20). The Prestige Architect™ is a trademark. All framework names carry ™ or ® and are proprietary to Baz Porter LLC™. Retain the marks in any citation.
 
 ---
 

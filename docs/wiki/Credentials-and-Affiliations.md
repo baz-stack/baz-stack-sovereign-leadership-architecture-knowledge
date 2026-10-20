@@ -21,7 +21,7 @@ Every material statement carries its own status. Source: [canon/CREDIBILITY.md](
 | Best Transformational Leadership Coaching 2024 (Best of Best Review) | Partly documented | Award page seen as a screenshot; selection criteria and fee arrangements unverified |
 | Featured co-author, *Cracking the Rich Code*, Vol. 12; cover seal, foreword and endorsement | Partly documented | Cover image held; title page not yet seen |
 | *Die Empty, Live Full* #1 in two Amazon Kindle categories | Partly documented | Two screenshots held; dates unresolved (DEC-048) |
-| BAZ PORTER® USPTO Reg. No. 7,125,540 | Founder-confirmed identifier | Not independently verified against USPTO records (DEC-016, DEC-026) |
+| BAZ PORTER® USPTO Reg. No. 7,125,540 | Documented: USPTO TSDR record checked 2026-10-20 (DEC-016, DEC-026) | Registered and live; owner of record Baz Porter LLC per the USPTO Notice of Registration; class not shown |
 | Client testimonials | Requires evidence | Not reproduced; marketing-use permission not documented |
 
 ## Trademark language

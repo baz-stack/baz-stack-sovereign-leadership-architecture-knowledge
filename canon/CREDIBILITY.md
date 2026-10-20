@@ -27,7 +27,7 @@ This document is the inventory of credibility anchors for Baz Porter. Each mater
 | Cracking the Rich Code Vol. 12: featured co-author; #1 International Best Seller cover seal; Brian Tracy foreword; Tony Robbins endorsement quote | Partly documented | Cover image held; title page not yet seen |
 | Die Empty, Live Full reached #1 in two Amazon Kindle bestseller categories (Teen & Young Adult Inspirational & Personal Growth; Business Consolidations & Mergers) | Documented by two distinct Amazon Best Sellers screenshots (CL-026) | Two founder-supplied dates are withheld until confirmed; which date belongs to which screenshot is unconfirmed; no international bestseller claim established |
 | Best Transformational Leadership Coaching 2024 (Best of Best Review) | Third-party page seen as a screenshot | Selection criteria and fee arrangements unverified |
-| BAZ PORTER® Reg. No. 7,125,540 | Founder-confirmed identifiers | Not independently verified against USPTO records |
+| BAZ PORTER® Reg. No. 7,125,540 | Documented: USPTO TSDR record checked 2026-10-20 | Registered and live; class and first-use date founder-confirmed |
 | Client testimonials | Wording and attribution preserved | Marketing-use permission not documented |
 | Delphi AI Clone | PAUSED, NOT CURRENTLY OFFERED | Training figure removed; no proof held |
 | Yahoo Finance, CEO Weekly, Thrive Global features | Listed | Links not re-checked in this migration |
@@ -55,7 +55,7 @@ This document is the inventory of credibility anchors for Baz Porter. Each mater
 
 ## Proprietary IP Assets
 
-1. **BAZ PORTER®**, registered trademark · Principal Register · Reg. No. 7,125,540 · Registration No. 7125540 · Class 041 · first use in commerce January 4, 2020 (founder-confirmed identifiers; not independently verified against USPTO records)
+1. **BAZ PORTER®**, registered trademark · Principal Register · Reg. No. 7,125,540 · Registration No. 7125540 · Class 041 · first use in commerce January 4, 2020 (USPTO TSDR record checked 2026-10-20; class and first-use date founder-confirmed)
 2. **The Prestige Architect™**, trademark
 3. **RAMS™ Framework**, The Five Pillars · trademarked operating system
 4. **The Six Drives of Human Intelligence™**, trademarked diagnostic

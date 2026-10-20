@@ -95,7 +95,7 @@ Free brand-authority assets that route into the Fast Future Freedom Blueprint™
 6. Best Transformational Leadership Coaching 2024 (third-party award listing; selection criteria and fee arrangements unverified)
 7. Featured: Yahoo Finance · CEO Weekly · Thrive Global
 8. C-Suite Network podcast host
-9. BAZ PORTER®, registered trademark · Reg. No. 7,125,540 (founder-confirmed; not independently verified)
+9. BAZ PORTER®, registered trademark · Reg. No. 7,125,540 (status Registered and live per the USPTO TSDR record checked 2026-10-20)
 
 ---
 

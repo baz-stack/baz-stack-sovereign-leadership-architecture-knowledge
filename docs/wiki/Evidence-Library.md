@@ -24,7 +24,7 @@ The public claim register is [registry/public-claims.yaml](../../registry/public
 | CL-013-A | Princeton appearance | founder-reported | founder-reported | Founder-reported: invited speaker at a Princeton event, February 2021. |
 | CL-013-B | Excel Arena London appearance and audience size | requires-evidence | requires-evidence | Not stated as fact. Appearance and the 35,000 audience figure require evidence. |
 | CL-016 | military service | founder-reported | founder-reported | Founder-reported: British Army service, 1997 to 2004. |
-| CL-017 | trademark registration | pending-verification | founder-confirmed-identifier | BAZ PORTER is registered with the USPTO, Reg. No. 7,125,540 (founder-confirmed identifier; not independently verified against USPTO records). Other marks in this repository are claimed marks (TM), not registrations. |
+| CL-017 | trademark registration | documented | documented-by-held-evidence | BAZ PORTER is registered with the USPTO, Reg. No. 7,125,540 (USPTO TSDR record checked 2026-10-20, status Registered and live). Other marks in this repository are claimed marks (TM), not registrations. |
 | CL-025 | client testimonials | requires-evidence | requires-evidence | Testimonials are not reproduced in this repository. |
 | PUB-001 | third-party citation | pending-verification | third-party-listing | The University of Minnesota College of Continuing and Professional Studies published a story citing Baz Porter on succession planning (2024). |
 | PUB-002 | podcast | requires-evidence | requires-evidence | Baz Porter hosts the Rise From The Ashes podcast. The 100+ episodes figure requires evidence. |

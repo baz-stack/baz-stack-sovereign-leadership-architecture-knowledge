@@ -94,7 +94,7 @@ For licensing, media use, speaking references, or partnership inquiries:
 
 © 2019–2026 Baz Porter LLC™. All Rights Reserved.
 
-Baz Porter® is stated to be a registered trademark (USPTO Reg. No. 7,125,540; founder-confirmed, not independently verified). Baz Porter LLC™, The Prestige Architect™ and the other marks in this repository are claimed trademarks. All proprietary IP contained in this repository is protected under applicable trademark and copyright law.
+Baz Porter® is a registered trademark (USPTO Reg. No. 7,125,540; status Registered and live per the USPTO TSDR record checked 2026-10-20). Baz Porter LLC™, The Prestige Architect™ and the other marks in this repository are claimed trademarks. All proprietary IP contained in this repository is protected under applicable trademark and copyright law.
 
 **Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)

@@ -3,7 +3,7 @@
 **Version:** v2026.07.15.1
 **Status:** LIVE CANON · Source of Truth
 **Owner:** Baz Porter LLC™ · The Prestige Architect™
-**Primary Trademark:** USPTO Reg. No. 7,125,540 · Reg. No. 7125540 (founder-confirmed; not independently verified)
+**Primary Trademark:** USPTO Reg. No. 7,125,540 · Reg. No. 7125540 (status Registered and live per the USPTO TSDR record checked 2026-10-20)
 
 ---
 
@@ -17,7 +17,7 @@
 
 | MARK | STATUS | USE |
 |:----|:----|:----|
-| Baz Porter® | Registration stated (Reg. No. 7125540; founder-confirmed, not independently verified) | Personal brand · founder mark |
+| Baz Porter® | Registration stated (Reg. No. 7125540; status Registered and live per the USPTO TSDR record checked 2026-10-20) | Personal brand · founder mark |
 
 ---
 
