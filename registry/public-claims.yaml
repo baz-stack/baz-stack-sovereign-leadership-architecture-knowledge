@@ -91,8 +91,7 @@ claims:
   approved_wording: "BAZ PORTER is registered with the USPTO, Reg. No. 7,125,540 (USPTO TSDR record checked 2026-10-20, status Registered and live). Other marks in this repository are claimed marks (TM), not registrations."
   evidence_class: documented-by-held-evidence
   status: documented
-  evidence: "USPTO TSDR status page for serial 97468218 (BAZ PORTER, Principal Register, Service Mark, registration 7125540, registered 2023-08-01, status Registered and live) captured 2026-10-20, and the USPTO Notice of Registration issued 2023-08-01 naming Baz Porter LLC as owner/holder, both supplied by the founder. Class and first-use date were not shown in either."
-  open_issue: "Class 041 and first use of January 4, 2020 remain founder-confirmed until the full TSDR record is held."
+  evidence: "USPTO TSDR status page for serial 97468218 (BAZ PORTER, Principal Register, Service Mark, registration 7125540, registered 2023-08-01, status Registered and live) captured 2026-10-20, the USPTO Notice of Registration issued 2023-08-01, and the USPTO Registration Certificate, all supplied by the founder. Together they show owner/holder Baz Porter LLC, International Class 41, first use 2018-06-20 and first use in commerce 2020-01-04."
   record: canon/TRADEMARKS.md
 - id: CL-025
   topic: client testimonials

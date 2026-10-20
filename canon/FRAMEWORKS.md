@@ -356,7 +356,7 @@ This file is canon. All skills, page builders, workflows, sales pages, and conte
 
 ---
 
-*© 2019–2026 Baz Porter LLC™. All Rights Reserved. First use in commerce: January 4, 2020. All frameworks and methodologies are proprietary and protected under trademark.*
+*© 2019–2026 Baz Porter LLC™. All Rights Reserved. BAZ PORTER® first use in commerce: January 4, 2020. All frameworks and methodologies are proprietary and protected under trademark.*
 
 **Baz Porter LLC™ · The Prestige Architect™**
 [bazporter.com](https://bazporter.com)
