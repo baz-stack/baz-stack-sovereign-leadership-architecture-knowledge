@@ -109,7 +109,7 @@ claims:
   record: identity/authority-sources.md
 - id: PUB-002
   topic: podcast
-  approved_wording: "Baz Porter hosts the Rise From The Ashes podcast. The 100+ episodes figure requires evidence."
+  approved_wording: "Baz Porter hosts the Rise From The Ashes podcast. Founder-reported: 156 episodes as of 2026-10-20, not checked against a feed."
   evidence_class: requires-evidence
   status: requires-evidence
   evidence: "Episode count not verified against a feed."

@@ -77,7 +77,7 @@ Free brand-authority assets that route into the Fast Future Freedom Blueprint™
 
 1. *Die Empty Live Full*, March 2025 (reached #1 in two Amazon Kindle bestseller categories)
 2. *Cracking the Rich Code Vol. 12*, featured co-author (cover seal: #1 International Best Seller), Foreword Brian Tracy, endorsed Tony Robbins
-3. Rise From The Ashes Podcast, C-Suite Network partnership (episode count requires evidence)
+3. Rise From The Ashes Podcast, C-Suite Network partnership (156 episodes, founder-reported 2026-10-20; not checked against a feed)
 4. YouTube, @risefromtheashespodcast
 5. 5-Day Somatic Meditation Sequence, free email opt-in
 6. LinkedIn newsletters, Business Evolution · Silent Collapse Letters · Rise & Ashes

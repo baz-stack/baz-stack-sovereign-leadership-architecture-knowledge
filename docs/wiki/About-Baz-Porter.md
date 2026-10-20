@@ -23,7 +23,7 @@ The approved public biography is in [canon/STORY.md](../../canon/STORY.md). Pers
 | Organization | Baz Porter LLC™ | Public |
 | Official website | https://bazporter.com | Public |
 | ORCID iD | [0009-0006-1670-9956](https://orcid.org/0009-0006-1670-9956) | Public profile documented by a founder-supplied screenshot (2026-10-20). An ORCID iD identifies a person and is not a credential |
-| Podcast | Rise From The Ashes (C-Suite Network partnership) | Host role listed in canon; episode count requires evidence |
+| Podcast | Rise From The Ashes (C-Suite Network partnership) | Host role listed in canon; 156 episodes, founder-reported 2026-10-20 and not checked against a feed |
 
 ## Publications
 

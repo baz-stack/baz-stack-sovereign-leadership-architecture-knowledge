@@ -43,7 +43,7 @@ This document is the inventory of credibility anchors for Baz Porter. Each mater
 3. **Yahoo Finance**, featured
 4. **CEO Weekly**, featured
 5. **Thrive Global**, featured
-6. **C-Suite Network**, podcast host · *Rise From The Ashes* (episode count requires evidence)
+6. **C-Suite Network**, podcast host · *Rise From The Ashes* (156 episodes, founder-reported 2026-10-20; not checked against a feed)
 7. **Author and featured co-author**: *Die Empty, Live Full* and *Cracking the Rich Code*, Vol. 12 (cover seal: #1 International Best Seller)
    - *Cracking the Rich Code Vol. 12*, featured co-author (Jim Britt's *Cracking the Rich Code*; the cover presents 21 top thought leaders; the cover carries a #1 International Best Seller seal), foreword Brian Tracy · endorsed Tony Robbins
    - *Die Empty Live Full*, published March 2025; reached #1 in two Amazon Kindle bestseller categories (two screenshots held; no international bestseller claim is established)
@@ -123,7 +123,7 @@ Institutional deployment claims are not stated publicly. No deployment agreement
 
 ## Distribution Platforms
 
-1. **Rise From The Ashes Podcast**, host · C-Suite Network + C-Suite Media partner production (episode count requires evidence)
+1. **Rise From The Ashes Podcast**, host · C-Suite Network + C-Suite Media partner production (156 episodes, founder-reported 2026-10-20; not checked against a feed)
 2. **YouTube**, @risefromtheashespodcast · long-form authority
 3. **LinkedIn**, newsletters: Business Evolution + Silent Collapse Letters + Rise & Ashes newsletters
 4. **Substack**, Sovereign Brief · Tuesdays · free

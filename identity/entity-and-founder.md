@@ -31,7 +31,7 @@ Baz Porter LLC™ is the owner of Sovereign Leadership Architecture™ — the s
 - **ORCID:** [0009-0006-1670-9956](https://orcid.org/0009-0006-1670-9956)
 - British Army service — 6.5 years, 1997–2004 (founder-reported; no service record indexed)
 - Author of *Die Empty, Live Full* and featured co-author of *Cracking the Rich Code*, Vol. 12 (cover seal: #1 International Best Seller)
-- Host of the *Rise From The Ashes* podcast — C-Suite Network (episode count requires evidence)
+- Host of the *Rise From The Ashes* podcast — C-Suite Network (156 episodes, founder-reported 2026-10-20; not checked against a feed)
 - Princeton invited speaker (February 2021, founder-reported) · Excel Arena London speaker (requires evidence; audience size not stated)
 - Best Transformational Leadership Coaching 2024 (third-party award listing; selection criteria and fee arrangements unverified)
 - Former Tony Robbins Platinum Partner, 2021 to 2022 (founder-reported; documentary verification pending)

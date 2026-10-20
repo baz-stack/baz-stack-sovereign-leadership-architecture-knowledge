@@ -27,7 +27,7 @@ The public claim register is [registry/public-claims.yaml](../../registry/public
 | CL-017 | trademark registration | documented | documented-by-held-evidence | BAZ PORTER is registered with the USPTO, Reg. No. 7,125,540 (USPTO TSDR record checked 2026-10-20, status Registered and live). Other marks in this repository are claimed marks (TM), not registrations. |
 | CL-025 | client testimonials | requires-evidence | requires-evidence | Testimonials are not reproduced in this repository. |
 | PUB-001 | third-party citation | pending-verification | third-party-listing | The University of Minnesota College of Continuing and Professional Studies published a story citing Baz Porter on succession planning (2024). |
-| PUB-002 | podcast | requires-evidence | requires-evidence | Baz Porter hosts the Rise From The Ashes podcast. The 100+ episodes figure requires evidence. |
+| PUB-002 | podcast | founder-reported | founder-reported | Baz Porter hosts the Rise From The Ashes podcast. Founder-reported: 156 episodes as of 2026-10-20, not checked against a feed. |
 | PUB-003 | researcher identifier | documented | documented-by-held-evidence | ORCID iD 0009-0006-1670-9956 (https://orcid.org/0009-0006-1670-9956), supplied by the founder. |
 | PUB-004 | methodology | documented | proprietary-methodology | Sovereign Leadership Architecture, RAMS, Silent Collapse, the Six Drives of Human Intelligence and the Sovereign Return Architecture are Baz Porter's proprietary frameworks. They are the founder's models, not independently validated scientific theories. |
 
