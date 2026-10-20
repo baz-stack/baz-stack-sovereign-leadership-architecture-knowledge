@@ -267,3 +267,10 @@ conflicts:
     Return stages.
   decision: DEC-020
   status: open
+- id: CON-034
+  title: Cracking the Rich Code Vol. 12 publication date differs between sources
+  severity: P2
+  category: claims
+  summary: The Kindle listing, the ORCID work entry and canon give different 2024 publication dates for the same volume.
+  decision: DEC-052
+  status: open

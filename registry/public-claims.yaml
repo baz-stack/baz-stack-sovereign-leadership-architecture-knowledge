@@ -30,9 +30,9 @@ claims:
   topic: co-authored book
   approved_wording: "Baz Porter is a featured co-author of Cracking the Rich Code, Vol. 12 (ISBN 979-8-8691-1418-1). The cover carries a #1 International Best Seller seal, a foreword credited to Brian Tracy and an endorsement quotation credited to Tony Robbins."
   evidence_class: documented-by-held-evidence
-  status: partly-documented
-  evidence: "Cover image held privately. The founder's public ORCID profile lists Cracking the Rich Code Vol 12 as a book chapter dated 2024-03-15 with Jim Britt as contributor (self-entered), and a third-party Alibris listing names Baz Porter as a contributor. Title page and contributor list not yet seen. The seal is a statement printed on the cover, not an independently checked ranking."
-  open_issue: "Title page or contributor page to be obtained."
+  status: documented
+  evidence: "Founder-supplied Amazon Kindle listing (2026-10-20, ASIN B0CW1F7HWY): lead author Jim Britt, a description that names Baz Porter among the contributors, Kindle publication date 2024-02-21. The cover (held privately) carries the Special Edition and Volume 12 marks, a #1 Best Seller International seal, a foreword credit to Brian Tracy and a printed Tony Robbins quotation. The founder's public ORCID profile also lists the work (self-entered, 2024-03-15). The ISBN was not shown in the captures. The seal is a statement printed on the cover, not an independently checked ranking. Publication date differs between sources (CON-034)."
+  open_issue: "DEC-052: reconcile the publication date; the ISBN is still unchecked."
   record: canon/BOOKS.md
 - id: CL-029
   topic: authored book

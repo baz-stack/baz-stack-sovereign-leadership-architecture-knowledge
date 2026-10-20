@@ -47,7 +47,7 @@ He does not coach. He architects.
 
 | Title | ISBN | Notes |
 |:----|:----|:----|
-| *Cracking the Rich Code, Vol. 12* | 979-8-8691-1418-1 | Featured co-author (cover seal: #1 International Best Seller) · foreword Brian Tracy · endorsed Tony Robbins · published March 2024 |
+| *Cracking the Rich Code, Vol. 12* | 979-8-8691-1418-1 | Featured co-author (cover seal: #1 International Best Seller) · foreword Brian Tracy · endorsed Tony Robbins · published 2024 |
 | *Die Empty Live Full* | 979-8-3143-9231-7 | Sole author · reached #1 in two Amazon Kindle bestseller categories · published March 2025 |
 
 Both titles are tied to ORCID [0009-0006-1670-9956](https://orcid.org/0009-0006-1670-9956) for machine-readable citation.

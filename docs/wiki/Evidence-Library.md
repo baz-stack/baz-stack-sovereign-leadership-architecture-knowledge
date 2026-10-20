@@ -16,7 +16,7 @@ The public claim register is [registry/public-claims.yaml](../../registry/public
 | ID | Topic | Status | Evidence class | Approved wording |
 |---|---|---|---|---|
 | CL-026 | publication ranking | partly-documented | documented-by-held-evidence | Die Empty, Live Full reached #1 in two Amazon Kindle bestseller categories. |
-| CL-024 | co-authored book | partly-documented | documented-by-held-evidence | Baz Porter is a featured co-author of Cracking the Rich Code, Vol. 12 (ISBN 979-8-8691-1418-1). The cover carries a #1 International Best Seller seal, a foreword credited to Brian Tracy and an endorsement quotation credited to Tony Robbins. |
+| CL-024 | co-authored book | documented | documented-by-held-evidence | Baz Porter is a featured co-author of Cracking the Rich Code, Vol. 12 (ISBN 979-8-8691-1418-1). The cover carries a #1 International Best Seller seal, a foreword credited to Brian Tracy and an endorsement quotation credited to Tony Robbins. |
 | CL-029 | authored book | documented | documented-by-held-evidence | Baz Porter is the sole author of Die Empty, Live Full (ISBN 979-8-3143-9231-7), published March 2025. |
 | CL-011 | Tony Robbins Platinum Partner membership, 2021 to 2022 | partly-documented | documented-by-held-evidence | Former Tony Robbins Platinum Partner, 2021 to 2022 (founder-reported; partly documented). |
 | CL-030 | Tony Robbins programs attended | documented | documented-by-held-evidence | Attendance certificates are held for Business Mastery, Leadership Academy, Unleash the Power Within and Date with Destiny. |

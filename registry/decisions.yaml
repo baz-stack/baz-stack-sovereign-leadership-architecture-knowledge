@@ -246,3 +246,7 @@ decisions:
   gate: evidence
   status: blocked-external
   decided_on: '2026-10-17'
+- id: DEC-052
+  title: Cracking the Rich Code Vol. 12 publication date
+  gate: evidence
+  status: pending

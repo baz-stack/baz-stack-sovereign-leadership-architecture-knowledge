@@ -13,7 +13,7 @@ Source: [canon/BOOKS.md](../../canon/BOOKS.md).
 
 | Title | Role | ISBN | Published | Notes |
 |---|---|---|---|---|
-| *Cracking the Rich Code, Vol. 12* (Jim Britt's *Cracking the Rich Code*, Special Edition) | Featured co-author | 979-8-8691-1418-1 | March 2024 | Lead author Jim Britt; cover presents 21 thought leaders. The cover carries a #1 International Best Seller seal, a foreword credited to Brian Tracy and an endorsement quotation credited to Tony Robbins. The seal is printed on the cover and was not independently checked. |
+| *Cracking the Rich Code, Vol. 12* (Jim Britt's *Cracking the Rich Code*, Special Edition) | Featured co-author | 979-8-8691-1418-1 | 2024 | Lead author Jim Britt; cover presents 21 thought leaders. The cover carries a #1 International Best Seller seal, a foreword credited to Brian Tracy and an endorsement quotation credited to Tony Robbins. The seal is printed on the cover and was not independently checked. |
 | *Die Empty, Live Full* | Sole author | 979-8-3143-9231-7 | March 2025 | Reached #1 in two Amazon Kindle bestseller categories (below). |
 
 Identifiers are recorded from canon and were not checked against an ISBN registry or retail listing in this environment ([Evidence Library](Evidence-Library.md), CL-029).

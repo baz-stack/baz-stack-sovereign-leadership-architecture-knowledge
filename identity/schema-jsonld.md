@@ -77,7 +77,7 @@
       "name": "Cracking the Rich Code, Vol. 12",
       "isbn": "979-8-8691-1418-1",
       "bookFormat": "https://schema.org/Paperback",
-      "datePublished": "2024-03",
+      "datePublished": "2024",
       "author": { "@id": "https://bazporter.com/#founder" },
       "contributor": "Baz Porter",
       "publisher": { "@type": "Organization", "name": "Cracking the Rich Code, LLC" }

@@ -20,7 +20,7 @@ Both titles below are authored by Baz Porter® and tied to ORCID 0009-0006-1670-
 - **Foreword:** Brian Tracy.
 - **Endorsement (printed on the cover):** "Success is Predictable if you know what determines it. This book offers some valuable entrepreneurial insights that will strengthen your life, your business and your effectiveness overall." Tony Robbins.
 - **ISBN:** 979-8-8691-1418-1
-- **Published:** March 2024
+- **Published:** 2024
 - **Publisher:** Cracking the Rich Code, LLC
 - **ORCID:** https://orcid.org/0009-0006-1670-9956
 - **Status:** Featured co-author; the cover carries a #1 International Best Seller seal.
